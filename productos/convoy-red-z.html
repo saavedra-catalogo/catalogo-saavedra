@@ -9,25 +9,18 @@
   gtag('js', new Date());
   gtag('config', 'G-GFQR7P8YL2');
 </script>
-</head><body><header><a href="../index.html">← Volver al catálogo Saavedra</a></header><main><article class="card"><div><div class="main"><img alt="Convoy Red Z" id="mainProductImage" src="../img/img_329_2646b581368b.png"/></div><div class="thumbs"><img alt="Convoy Red Z - imagen 2" loading="lazy" src="../img/img_330_b3ccdc22a91f.jpg" tabindex="0"/><img alt="Convoy Red Z - imagen 3" loading="lazy" src="../img/img_331_903bc63367ff.png" tabindex="0"/><img alt="Convoy Red Z - imagen 4" loading="lazy" src="../img/img_332_82da15a9e8bc.png" tabindex="0"/><img alt="Convoy Red Z - imagen 5" loading="lazy" src="../img/img_333_4650466da2bf.png" tabindex="0"/></div></div><div><button class="share" onclick="shareProduct()" type="button">🔗 Compartir producto</button><div class="cat">Convoy Red</div><h1>Convoy Red Z</h1><div class="price">$55.000 OFERTA Oferta $50.000</div><p>Linterna Convoy de luz roja ideal para uso nocturno, observación y actividades al aire libre. Su iluminación mixta permite combinar luz inundadora y lanzadora, siendo ideal para cacería de conejos.</p><div class="facts"><div><b>Tipo de luz</b><span>Luz roja</span></div><div><b>Haz</b><span>Mixta + Zoom</span></div><div><b>Alcance</b><span>300 mts</span></div><div><b>Autonomía</b><span>3 hrs continuas</span></div><div><b>Batería</b><span>21700 / Incluye 1 pila</span></div><div><b>Longitud sin extender</b><span>135,8 mm</span></div><div><b>Longitud con zoom extendido</b><span>149,5 mm</span></div><div><b>Diámetro cabeza</b><span>52 mm</span></div><div><b>Diámetro cola</b><span>28,2 mm</span></div><div><b>Peso aproximado</b><span>209 g sin pila</span></div></div><div class="actions"><a class="btn wa" href="https://wa.me/56968772935?text=Hola%2C%20quiero%20consultar%20por%20Convoy%20Red%20Z" rel="noopener" target="_blank">Consultar por WhatsApp</a><a class="btn secondary" href="../index.html">Volver al catálogo</a></div></div></article></main><script>(function(){
+</head><body><header><a href="../index.html">← Volver al catálogo Saavedra</a></header><main><article class="card"><div><div class="main"><img alt="Convoy Red Z" id="mainProductImage" src="../img/img_329_2646b581368b.png"/></div><div class="thumbs"><img alt="Convoy Red Z - imagen principal" class="active" loading="lazy" src="../img/img_329_2646b581368b.png" tabindex="0"/><img alt="Convoy Red Z - imagen 2" loading="lazy" src="../img/img_330_b3ccdc22a91f.jpg" tabindex="0"/><img alt="Convoy Red Z - imagen 3" loading="lazy" src="../img/img_331_903bc63367ff.png" tabindex="0"/><img alt="Convoy Red Z - imagen 4" loading="lazy" src="../img/img_332_82da15a9e8bc.png" tabindex="0"/><img alt="Convoy Red Z - imagen 5" loading="lazy" src="../img/img_333_4650466da2bf.png" tabindex="0"/></div></div><div><button class="share" onclick="shareProduct()" type="button">🔗 Compartir producto</button><div class="cat">Convoy Red</div><h1>Convoy Red Z</h1><div class="price">$55.000 OFERTA Oferta $50.000</div><p>Linterna Convoy de luz roja ideal para uso nocturno, observación y actividades al aire libre. Su iluminación mixta permite combinar luz inundadora y lanzadora, siendo ideal para cacería de conejos.</p><div class="facts"><div><b>Tipo de luz</b><span>Luz roja</span></div><div><b>Haz</b><span>Mixta + Zoom</span></div><div><b>Alcance</b><span>300 mts</span></div><div><b>Autonomía</b><span>3 hrs continuas</span></div><div><b>Batería</b><span>21700 / Incluye 1 pila</span></div><div><b>Longitud sin extender</b><span>135,8 mm</span></div><div><b>Longitud con zoom extendido</b><span>149,5 mm</span></div><div><b>Diámetro cabeza</b><span>52 mm</span></div><div><b>Diámetro cola</b><span>28,2 mm</span></div><div><b>Peso aproximado</b><span>209 g sin pila</span></div></div><div class="actions"><a class="btn wa" href="https://wa.me/56968772935?text=Hola%2C%20quiero%20consultar%20por%20Convoy%20Red%20Z" rel="noopener" target="_blank">Consultar por WhatsApp</a><a class="btn secondary" href="../index.html">Volver al catálogo</a></div></div></article></main><script>(function(){
   var main=document.getElementById('mainProductImage');
   var thumbs=Array.prototype.slice.call(document.querySelectorAll('.thumbs img'));
   function selectThumb(img){
     if(!main||!img)return;
-    // Intercambia la imagen principal con la miniatura seleccionada.
-    // Así nunca se duplica la imagen visible y siempre se puede volver atrás.
-    var previousMainSrc = main.src;
-    var previousMainAlt = main.alt;
-    var selectedSrc = img.src;
-    var selectedAlt = img.alt;
     main.style.opacity='.25';
     setTimeout(function(){
-      main.src = selectedSrc;
-      main.alt = selectedAlt || previousMainAlt;
-      img.src = previousMainSrc;
-      img.alt = previousMainAlt || selectedAlt;
+      main.src=img.src;
+      main.alt=img.alt||main.alt;
       main.style.opacity='1';
       thumbs.forEach(function(t){t.classList.remove('active');});
+      img.classList.add('active');
     },90);
   }
   thumbs.forEach(function(img){

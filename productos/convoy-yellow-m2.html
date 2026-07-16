@@ -9,25 +9,18 @@
   gtag('js', new Date());
   gtag('config', 'G-GFQR7P8YL2');
 </script>
-</head><body><header><a href="../index.html">← Volver al catálogo Saavedra</a></header><main><article class="card"><div><div class="main"><img alt="Convoy Yellow M2" id="mainProductImage" src="../img/img_334_374759c61f35.png"/></div><div class="thumbs"><img alt="Convoy Yellow M2 - imagen 2" loading="lazy" src="../img/img_345_84992b1ae2bb.png" tabindex="0"/></div></div><div><button class="share" onclick="shareProduct()" type="button">🔗 Compartir producto</button><div class="cat">Convoy Yellow</div><h1>Convoy Yellow M2</h1><div class="price">$50.000</div><p>Linterna Convoy de luz amarilla ideal para recorridos nocturnos, observación y uso en terreno. Su luz cálida ofrece buena visibilidad con menor encandilamiento en polvo, neblina o vegetación.</p><div class="facts"><div><b>Tipo de luz</b><span>Luz amarilla</span></div><div><b>Haz</b><span>Mixta</span></div><div><b>Alcance</b><span>400 mts</span></div><div><b>Autonomía</b><span>2 hrs con pila Liitokala</span></div><div><b>Batería</b><span>21700 / Incluye 1 pila Liitokala</span></div><div><b>Longitud</b><span>155,8 mm</span></div><div><b>Diámetro cabeza</b><span>45 mm</span></div><div><b>Diámetro cuerpo</b><span>27,3 mm</span></div><div><b>Peso neto</b><span>168 g</span></div><div><b>Peso bruto</b><span>189 g</span></div></div><div class="actions"><a class="btn wa" href="https://wa.me/56968772935?text=Hola%2C%20quiero%20consultar%20por%20Convoy%20Yellow%20M2" rel="noopener" target="_blank">Consultar por WhatsApp</a><a class="btn secondary" href="../index.html">Volver al catálogo</a></div></div></article></main><script>(function(){
+</head><body><header><a href="../index.html">← Volver al catálogo Saavedra</a></header><main><article class="card"><div><div class="main"><img alt="Convoy Yellow M2" id="mainProductImage" src="../img/img_334_374759c61f35.png"/></div><div class="thumbs"><img alt="Convoy Yellow M2 - imagen principal" class="active" loading="lazy" src="../img/img_334_374759c61f35.png" tabindex="0"/><img alt="Convoy Yellow M2 - imagen 2" loading="lazy" src="../img/img_345_84992b1ae2bb.png" tabindex="0"/></div></div><div><button class="share" onclick="shareProduct()" type="button">🔗 Compartir producto</button><div class="cat">Convoy Yellow</div><h1>Convoy Yellow M2</h1><div class="price">$50.000</div><p>Linterna Convoy de luz amarilla ideal para recorridos nocturnos, observación y uso en terreno. Su luz cálida ofrece buena visibilidad con menor encandilamiento en polvo, neblina o vegetación.</p><div class="facts"><div><b>Tipo de luz</b><span>Luz amarilla</span></div><div><b>Haz</b><span>Mixta</span></div><div><b>Alcance</b><span>400 mts</span></div><div><b>Autonomía</b><span>2 hrs con pila Liitokala</span></div><div><b>Batería</b><span>21700 / Incluye 1 pila Liitokala</span></div><div><b>Longitud</b><span>155,8 mm</span></div><div><b>Diámetro cabeza</b><span>45 mm</span></div><div><b>Diámetro cuerpo</b><span>27,3 mm</span></div><div><b>Peso neto</b><span>168 g</span></div><div><b>Peso bruto</b><span>189 g</span></div></div><div class="actions"><a class="btn wa" href="https://wa.me/56968772935?text=Hola%2C%20quiero%20consultar%20por%20Convoy%20Yellow%20M2" rel="noopener" target="_blank">Consultar por WhatsApp</a><a class="btn secondary" href="../index.html">Volver al catálogo</a></div></div></article></main><script>(function(){
   var main=document.getElementById('mainProductImage');
   var thumbs=Array.prototype.slice.call(document.querySelectorAll('.thumbs img'));
   function selectThumb(img){
     if(!main||!img)return;
-    // Intercambia la imagen principal con la miniatura seleccionada.
-    // Así nunca se duplica la imagen visible y siempre se puede volver atrás.
-    var previousMainSrc = main.src;
-    var previousMainAlt = main.alt;
-    var selectedSrc = img.src;
-    var selectedAlt = img.alt;
     main.style.opacity='.25';
     setTimeout(function(){
-      main.src = selectedSrc;
-      main.alt = selectedAlt || previousMainAlt;
-      img.src = previousMainSrc;
-      img.alt = previousMainAlt || selectedAlt;
+      main.src=img.src;
+      main.alt=img.alt||main.alt;
       main.style.opacity='1';
       thumbs.forEach(function(t){t.classList.remove('active');});
+      img.classList.add('active');
     },90);
   }
   thumbs.forEach(function(img){
