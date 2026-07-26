@@ -1,0 +1,29 @@
+REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
+============================================
+Archivos HTML revisados: 176
+Imágenes disponibles: 419
+Referencias rotas: 0
+Grupos de imágenes duplicadas: 0
+Imágenes sin uso: 0
+Fichas sin enlace desde el índice: 0
+Enlaces del índice sin ficha: 0
+
+REFERENCIAS ROTAS
+-----------------
+Ninguno.
+
+FICHAS SIN ENLACE DESDE EL ÍNDICE
+---------------------------------
+Ninguno.
+
+ENLACES DEL ÍNDICE SIN FICHA
+----------------------------
+Ninguno.
+
+IMÁGENES SIN USO
+----------------
+Ninguno.
+
+IMÁGENES DUPLICADAS
+-------------------
+Ninguno.
