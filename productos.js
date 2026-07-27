@@ -584,6 +584,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "kit-palanca-y-cerrojo-pr900"
   },
   {
+    "nombre": "O-rings Alpha",
+    "slug": "o-rings-alpha"
+  },
+  {
     "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
     "slug": "malla-tortolera-de-caza-y-pesca"
   },
