@@ -584,8 +584,8 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "kit-palanca-y-cerrojo-pr900"
   },
   {
-    "nombre": "O-rings Alpha",
-    "slug": "o-rings-alpha"
+    "nombre": "Kit O-rings Nova Vista ALPHA",
+    "slug": "kit-o-rings-nova-vista-alpha"
   },
   {
     "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
