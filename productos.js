@@ -260,6 +260,26 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "telemetro-laser-600m"
   },
   {
+    "nombre": "Soporte Tipo 8",
+    "slug": "soporte-tipo-8"
+  },
+  {
+    "nombre": "Soporte 45° para linterna",
+    "slug": "soporte-45-para-linterna"
+  },
+  {
+    "nombre": "Soporte 45° de liberación rápida para linterna",
+    "slug": "soporte-45-de-liberacion-rapida-para-linterna"
+  },
+  {
+    "nombre": "Soporte para Mira con Riel Picatinny Superior",
+    "slug": "soporte-para-mira-con-riel-picatinny-superior"
+  },
+  {
+    "nombre": "ADAPTADOR DE RIEL 11 mm A 20 mm",
+    "slug": "adaptador-de-riel-11-mm-a-20-mm"
+  },
+  {
     "nombre": "JSB Exact Jumbo 15.89 gr · 250 un",
     "slug": "jsb-exact-jumbo-15-89-gr-250-un"
   },
@@ -440,22 +460,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "repuesto-interruptor-remoto-convoy"
   },
   {
-    "nombre": "Soporte Tipo 8",
-    "slug": "soporte-tipo-8"
-  },
-  {
-    "nombre": "Soporte 45° para linterna",
-    "slug": "soporte-45-para-linterna"
-  },
-  {
-    "nombre": "Soporte 45° de liberación rápida para linterna",
-    "slug": "soporte-45-de-liberacion-rapida-para-linterna"
-  },
-  {
-    "nombre": "Soporte para Mira con Riel Picatinny Superior",
-    "slug": "soporte-para-mira-con-riel-picatinny-superior"
-  },
-  {
     "nombre": "Recarga de Scuba PCP",
     "slug": "recarga-de-scuba-pcp-2"
   },
@@ -516,10 +520,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "gancho-porta-correa-qd-para-riel-picatinny"
   },
   {
-    "nombre": "ADAPTADOR DE RIEL 11 mm A 20 mm",
-    "slug": "adaptador-de-riel-11-mm-a-20-mm"
-  },
-  {
     "nombre": "Kit de Limpieza para Rifles .22 / 5.5 mm",
     "slug": "kit-de-limpieza-para-rifles-22-5-5-mm"
   },
@@ -568,6 +568,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "kit-o-rings-leviathan-r1-r2-2"
   },
   {
+    "nombre": "Kit O-rings Nova Vista ALPHA",
+    "slug": "kit-o-rings-nova-vista-alpha"
+  },
+  {
+    "nombre": "Kit O-rings Avenger AVX1BT",
+    "slug": "kit-o-rings-avenger-avx1bt"
+  },
+  {
     "nombre": "Manguera para bombín PCP",
     "slug": "manguera-para-bombin-pcp"
   },
@@ -582,14 +590,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Kit Palanca y Cerrojo PR900",
     "slug": "kit-palanca-y-cerrojo-pr900"
-  },
-  {
-    "nombre": "Kit O-rings Nova Vista ALPHA",
-    "slug": "kit-o-rings-nova-vista-alpha"
-  },
-  {
-    "nombre": "Kit O-rings Avenger AVX1BT",
-    "slug": "kit-o-rings-avenger-avx1bt"
   },
   {
     "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
@@ -618,6 +618,10 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Péndulo Metálico Giratorio Doble",
     "slug": "pendulo-metalico-giratorio-doble"
+  },
+  {
+    "nombre": "Blanco Reactivo Adhesivo 4\"",
+    "slug": "blanco-reactivo-adhesivo-4"
   },
   {
     "nombre": "Maleta Rígida",
