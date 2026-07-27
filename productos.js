@@ -372,10 +372,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "convoy-white-c"
   },
   {
-    "nombre": "Convoy White M2",
-    "slug": "convoy-white-m2"
-  },
-  {
     "nombre": "Convoy Green M",
     "slug": "convoy-green-m"
   },
@@ -386,6 +382,10 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Convoy Green M2",
     "slug": "convoy-green-m2"
+  },
+  {
+    "nombre": "Convoy White M2",
+    "slug": "convoy-white-m2"
   },
   {
     "nombre": "Convoy Yellow C",
@@ -618,10 +618,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Péndulo Metálico Giratorio Doble",
     "slug": "pendulo-metalico-giratorio-doble"
-  },
-  {
-    "nombre": "Blanco Reactivo Adhesivo 4\"",
-    "slug": "blanco-reactivo-adhesivo-4"
   },
   {
     "nombre": "Maleta Rígida",
