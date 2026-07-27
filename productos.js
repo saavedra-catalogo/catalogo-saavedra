@@ -608,6 +608,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "blanco-reactivo-adhesivo-8"
   },
   {
+    "nombre": "Blanco Reactivo Adhesivo 4\"",
+    "slug": "blanco-reactivo-adhesivo-4"
+  },
+  {
     "nombre": "Péndulo Metálico Restablecible 5 Blancos",
     "slug": "pendulo-metalico-restablecible-5-blancos"
   },
