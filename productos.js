@@ -588,6 +588,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "kit-o-rings-nova-vista-alpha"
   },
   {
+    "nombre": "Kit O-rings Avenger AVX1BT",
+    "slug": "kit-o-rings-avenger-avx1bt"
+  },
+  {
     "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
     "slug": "malla-tortolera-de-caza-y-pesca"
   },
