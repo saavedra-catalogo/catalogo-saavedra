@@ -344,55 +344,55 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "rifle-dome-field-18-36-gr-250-un"
   },
   {
-    "nombre": "Convoy Luz M1",
+    "nombre": "Linterna Convoy M1 - LUZ ROJA",
     "slug": "convoy-red-m"
   },
   {
-    "nombre": "Convoy Red C",
+    "nombre": "Linterna Convoy C8+ - LUZ  ROJA",
     "slug": "convoy-red-c"
   },
   {
-    "nombre": "Convoy Red Z",
+    "nombre": "Linterna Convoy  Z1 - LUZ ROJA",
     "slug": "convoy-red-z"
   },
   {
-    "nombre": "Convoy Red M2 Gen2",
+    "nombre": "Linterna Convoy  M221A Gen2 - LUZ ROJA",
     "slug": "convoy-red-m2-gen2"
   },
   {
-    "nombre": "Convoy Red L",
+    "nombre": "Linterna Convoy L21B - LUZ ROJA",
     "slug": "convoy-red-l"
   },
   {
-    "nombre": "Convoy White M",
+    "nombre": "Linterna Convoy  M1 - LUZ BLANCA",
     "slug": "convoy-white-m"
   },
   {
-    "nombre": "Convoy White C",
+    "nombre": "Linterna Convoy C8+ - LUZ  BLANCA",
     "slug": "convoy-white-c"
   },
   {
-    "nombre": "Convoy White M2",
+    "nombre": "Linterna Convoy  M21A - LUZ BLANCA",
     "slug": "convoy-white-m2"
   },
   {
-    "nombre": "Convoy Green M",
+    "nombre": "Linterna Convoy M1 - LUZ  VERDE",
     "slug": "convoy-green-m"
   },
   {
-    "nombre": "Convoy Green C",
+    "nombre": "Linterna Convoy C8+ - LUZ VERDE",
     "slug": "convoy-green-c"
   },
   {
-    "nombre": "Convoy Green M2",
+    "nombre": "Linterna Convoy M21A - LUZ VERDE",
     "slug": "convoy-green-m2"
   },
   {
-    "nombre": "Convoy Yellow C",
+    "nombre": "Linterna Convoy C8+ - LUZ AMARILLA",
     "slug": "convoy-yellow-c"
   },
   {
-    "nombre": "Convoy Yellow M2",
+    "nombre": "Linterna Convoy M21A - LUZ AMARILLA",
     "slug": "convoy-yellow-m2"
   },
   {
