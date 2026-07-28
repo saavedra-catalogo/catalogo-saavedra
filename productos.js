@@ -344,7 +344,7 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "rifle-dome-field-18-36-gr-250-un"
   },
   {
-    "nombre": "Convoy Red M",
+    "nombre": "Convoy Luz M1",
     "slug": "convoy-red-m"
   },
   {
