@@ -222,6 +222,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "westhunter-hd-4-16x44-sfir-pro-zero-stop"
   },
   {
+    "nombre": "Marcadores Adhesivos Para Torreta",
+    "slug": "marcadores-adhesivos-para-torreta"
+  },
+  {
     "nombre": "Monturas WestHunter Alta para Riel Picatinny",
     "slug": "monturas-westhunter-alta-para-riel-picatinny-2"
   },
