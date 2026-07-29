@@ -118,8 +118,6 @@ window.PRODUCT_PREVIEW_LINKS = {
   "detalle-6": "cargador-liitokala-lii-s4",
   "detalle-7": "cargador-liitokala-lii-402",
   "detalle-8": "cargador-liitokala-lii-m4s",
-  "detalle-9": "interruptor-remoto-convoy-serie-c",
-  "detalle-10": "interruptor-remoto-convoy-serie-l",
   "detalle-11": "repuesto-interruptor-remoto-convoy",
   "detalle-12": "soporte-tipo-8",
   "detalle-13": "soporte-45-para-linterna",
@@ -448,11 +446,11 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cargador-liitokala-lii-m4s"
   },
   {
-    "nombre": "Interruptor Remoto Convoy Serie C",
+    "nombre": "Interruptor Remoto Convoy C8+",
     "slug": "interruptor-remoto-convoy-serie-c"
   },
   {
-    "nombre": "Interruptor Remoto Convoy Serie L",
+    "nombre": "Interruptor Remoto Convoy  L21B",
     "slug": "interruptor-remoto-convoy-serie-l"
   },
   {
