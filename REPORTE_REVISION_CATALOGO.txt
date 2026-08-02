@@ -4,8 +4,8 @@ Archivos HTML revisados: 180
 Imágenes disponibles: 425
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 0
-Imágenes sin uso: 0
-Fichas sin enlace desde el índice: 0
+Imágenes sin uso: 5
+Fichas sin enlace desde el índice: 1
 Enlaces del índice sin ficha: 0
 
 REFERENCIAS ROTAS
@@ -14,7 +14,7 @@ Ninguno.
 
 FICHAS SIN ENLACE DESDE EL ÍNDICE
 ---------------------------------
-Ninguno.
+convoy-red-c.html
 
 ENLACES DEL ÍNDICE SIN FICHA
 ----------------------------
@@ -22,7 +22,11 @@ Ninguno.
 
 IMÁGENES SIN USO
 ----------------
-Ninguno.
+img\img_329_2646b581368b.png
+img\img_330_b3ccdc22a91f.jpg
+img\img_331_903bc63367ff.png
+img\img_332_82da15a9e8bc.png
+img\img_333_4650466da2bf.png
 
 IMÁGENES DUPLICADAS
 -------------------

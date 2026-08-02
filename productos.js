@@ -1,11 +1,11 @@
 window.PRODUCT_PREVIEW_LINKS = {
-  "detalle-recarga-scuba": "recarga-de-scuba-pcp-2",
+  "detalle-recarga-scuba": "recarga-de-scuba-pcp",
   "detalle-wh-picatinny": "monturas-westhunter-alta-para-riel-picatinny-2",
   "detalle-wh-11mm": "monturas-westhunter-alta-para-riel-11-mm-2",
-  "detalle-oring-pr900": "kit-o-rings-pr900-2",
-  "detalle-oring-p10": "kit-o-rings-p10-2",
-  "detalle-oring-p35": "kit-o-rings-p35-2",
-  "detalle-oring-leviathan": "kit-o-rings-leviathan-r1-r2-2",
+  "detalle-oring-pr900": "kit-o-rings-pr900",
+  "detalle-oring-p10": "kit-o-rings-p10",
+  "detalle-oring-p35": "kit-o-rings-p35",
+  "detalle-oring-leviathan": "kit-o-rings-leviathan-r1-r2",
   "detalle-ca-a-silstar-evolution-sp652-1-95-m-2t": "cana-silstar-evolution-sp652-1-95-m-2t",
   "detalle-ca-a-silstar-aquarius-a652-1-95-m-2t": "cana-silstar-aquarius-a652-1-95-m-2t",
   "detalle-ca-a-silver-wave-megacast-180-1-80-m-2t": "cana-silver-wave-megacast-180-1-80-m-2t",
@@ -347,15 +347,11 @@ window.PRODUCTOS_SAAVEDRA = [
   },
   {
     "nombre": "Linterna Convoy M1  LUZ ROJA",
-    "slug": "convoy-red-m"
+    "slug": "convoy-luz-roja"
   },
   {
     "nombre": "Linterna Convoy C8+  LUZ  ROJA",
-    "slug": "convoy-red-c"
-  },
-  {
-    "nombre": "Linterna Convoy  Z1  LUZ ROJA",
-    "slug": "convoy-red-z"
+    "slug": "convoy-roja"
   },
   {
     "nombre": "Linterna Convoy  M21A Gen2  LUZ ROJA",
@@ -463,7 +459,7 @@ window.PRODUCTOS_SAAVEDRA = [
   },
   {
     "nombre": "Recarga de Scuba PCP",
-    "slug": "recarga-de-scuba-pcp-2"
+    "slug": "recarga-de-scuba-pcp"
   },
   {
     "nombre": "SCUBA PCP APOLO FIBRA DE CARBONO 6.8L",
@@ -555,19 +551,19 @@ window.PRODUCTOS_SAAVEDRA = [
   },
   {
     "nombre": "Kit O-Rings PR900",
-    "slug": "kit-o-rings-pr900-2"
+    "slug": "kit-o-rings-pr900"
   },
   {
     "nombre": "Kit O-Rings P10",
-    "slug": "kit-o-rings-p10-2"
+    "slug": "kit-o-rings-p10"
   },
   {
     "nombre": "Kit O-Rings P35",
-    "slug": "kit-o-rings-p35-2"
+    "slug": "kit-o-rings-p35"
   },
   {
     "nombre": "Kit O-Rings Leviathan R1/R2",
-    "slug": "kit-o-rings-leviathan-r1-r2-2"
+    "slug": "kit-o-rings-leviathan-r1-r2"
   },
   {
     "nombre": "Kit O-rings Nova Vista ALPHA",
