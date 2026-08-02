@@ -351,47 +351,43 @@ window.PRODUCTOS_SAAVEDRA = [
   },
   {
     "nombre": "Linterna Convoy C8+  LUZ  ROJA",
-    "slug": "convoy-roja"
+    "slug": "convoy-roja-c8"
   },
   {
     "nombre": "Linterna Convoy  M21A Gen2  LUZ ROJA",
-    "slug": "convoy-red-m2-gen2"
+    "slug": "convoy-roja-m21a"
   },
   {
     "nombre": "Linterna Convoy L21B  LUZ ROJA",
-    "slug": "convoy-red-l"
+    "slug": "convoy-roja-l21b"
   },
   {
     "nombre": "Linterna Convoy  M1  LUZ BLANCA",
-    "slug": "convoy-white-m"
+    "slug": "convoy-blanca-m1"
   },
   {
     "nombre": "Linterna Convoy C8+   LUZ  BLANCA",
-    "slug": "convoy-white-c"
+    "slug": "convoy-blanca-c8"
   },
   {
     "nombre": "Linterna Convoy  M21A  LUZ BLANCA",
-    "slug": "convoy-white-m2"
+    "slug": "convoy-blanca-m21a"
   },
   {
     "nombre": "Linterna Convoy M1  LUZ  VERDE",
-    "slug": "convoy-green-m"
+    "slug": "convoy-verde-m1"
   },
   {
     "nombre": "Linterna Convoy C8+  LUZ VERDE",
-    "slug": "convoy-green-c"
+    "slug": "convoy-verde-c8"
   },
   {
     "nombre": "Linterna Convoy M21A  LUZ VERDE",
-    "slug": "convoy-green-m2"
+    "slug": "convoy-verde-m21a"
   },
   {
     "nombre": "Linterna Convoy C8+  LUZ AMARILLA",
-    "slug": "convoy-yellow-c"
-  },
-  {
-    "nombre": "Linterna Convoy M21A  LUZ AMARILLA",
-    "slug": "convoy-yellow-m2"
+    "slug": "convoy-amarilla-c8"
   },
   {
     "nombre": "FOCO RECARGABLE H63 500W – LUZ BLANCA",

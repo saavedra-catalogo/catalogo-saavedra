@@ -1,11 +1,11 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 180
+Archivos HTML revisados: 189
 Imágenes disponibles: 425
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 0
-Imágenes sin uso: 5
-Fichas sin enlace desde el índice: 1
+Imágenes sin uso: 6
+Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 
 REFERENCIAS ROTAS
@@ -14,7 +14,17 @@ Ninguno.
 
 FICHAS SIN ENLACE DESDE EL ÍNDICE
 ---------------------------------
+convoy-green-c.html
+convoy-green-m.html
+convoy-green-m2.html
 convoy-red-c.html
+convoy-red-l.html
+convoy-red-m2-gen2.html
+convoy-roja.html
+convoy-white-c.html
+convoy-white-m.html
+convoy-white-m2.html
+convoy-yellow-c.html
 
 ENLACES DEL ÍNDICE SIN FICHA
 ----------------------------
@@ -27,6 +37,7 @@ img\img_330_b3ccdc22a91f.jpg
 img\img_331_903bc63367ff.png
 img\img_332_82da15a9e8bc.png
 img\img_333_4650466da2bf.png
+img\img_345_84992b1ae2bb.png
 
 IMÁGENES DUPLICADAS
 -------------------
