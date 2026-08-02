@@ -346,6 +346,50 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "rifle-dome-field-18-36-gr-250-un"
   },
   {
+    "nombre": "Linterna Convoy M1  LUZ ROJA",
+    "slug": "convoy-luz-roja"
+  },
+  {
+    "nombre": "Linterna Convoy C8+  LUZ  ROJA",
+    "slug": "convoy-roja-c8"
+  },
+  {
+    "nombre": "Linterna Convoy  M21A Gen2  LUZ ROJA",
+    "slug": "convoy-roja-m21a"
+  },
+  {
+    "nombre": "Linterna Convoy L21B  LUZ ROJA",
+    "slug": "convoy-roja-l21b"
+  },
+  {
+    "nombre": "Linterna Convoy  M1  LUZ BLANCA",
+    "slug": "convoy-blanca-m1"
+  },
+  {
+    "nombre": "Linterna Convoy C8+   LUZ  BLANCA",
+    "slug": "convoy-blanca-c8"
+  },
+  {
+    "nombre": "Linterna Convoy  M21A  LUZ BLANCA",
+    "slug": "convoy-blanca-m21a"
+  },
+  {
+    "nombre": "Linterna Convoy M1  LUZ  VERDE",
+    "slug": "convoy-verde-m1"
+  },
+  {
+    "nombre": "Linterna Convoy C8+  LUZ VERDE",
+    "slug": "convoy-verde-c8"
+  },
+  {
+    "nombre": "Linterna Convoy M21A  LUZ VERDE",
+    "slug": "convoy-verde-m21a"
+  },
+  {
+    "nombre": "Linterna Convoy C8+  LUZ AMARILLA",
+    "slug": "convoy-amarilla-c8"
+  },
+  {
     "nombre": "FOCO RECARGABLE H63 500W – LUZ BLANCA",
     "slug": "foco-recargable-h63-500w-luz-blanca"
   },
@@ -824,49 +868,5 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
-  },
-  {
-    "nombre": "Linterna Convoy M1  LUZ ROJA",
-    "slug": "convoy-luz-roja"
-  },
-  {
-    "nombre": "Linterna Convoy C8+  LUZ  ROJA",
-    "slug": "convoy-roja-c8"
-  },
-  {
-    "nombre": "Linterna Convoy  M21A Gen2  LUZ ROJA",
-    "slug": "convoy-roja-m21a"
-  },
-  {
-    "nombre": "Linterna Convoy L21B  LUZ ROJA",
-    "slug": "convoy-roja-l21b"
-  },
-  {
-    "nombre": "Linterna Convoy  M1  LUZ BLANCA",
-    "slug": "convoy-blanca-m1"
-  },
-  {
-    "nombre": "Linterna Convoy C8+   LUZ  BLANCA",
-    "slug": "convoy-blanca-c8"
-  },
-  {
-    "nombre": "Linterna Convoy  M21A  LUZ BLANCA",
-    "slug": "convoy-blanca-m21a"
-  },
-  {
-    "nombre": "Linterna Convoy M1  LUZ  VERDE",
-    "slug": "convoy-verde-m1"
-  },
-  {
-    "nombre": "Linterna Convoy C8+  LUZ VERDE",
-    "slug": "convoy-verde-c8"
-  },
-  {
-    "nombre": "Linterna Convoy M21A  LUZ VERDE",
-    "slug": "convoy-verde-m21a"
-  },
-  {
-    "nombre": "Linterna Convoy C8+  LUZ AMARILLA",
-    "slug": "convoy-amarilla-c8"
   }
 ];
