@@ -7,9 +7,14 @@ Grupos de imágenes duplicadas: 9
 Imágenes sin uso: 188
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
+Errores de navegación interna: 0
 
 REFERENCIAS ROTAS
 -----------------
+Ninguno.
+
+ERRORES DE NAVEGACIÓN INTERNA
+-----------------------------
 Ninguno.
 
 FICHAS SIN ENLACE DESDE EL ÍNDICE
