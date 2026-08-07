@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
 Archivos HTML revisados: 189
-Imágenes disponibles: 607
+Imágenes disponibles: 606
 Referencias rotas: 0
-Grupos de imágenes duplicadas: 9
-Imágenes sin uso: 188
+Grupos de imágenes duplicadas: 8
+Imágenes sin uso: 187
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -183,7 +183,6 @@ img\social\pendulo-metalico-restablecible-5-blancos-5ca10e4a8e58.jpg
 img\social\postonera-250u-3d15d68e9a99.jpg
 img\social\postonera-500u-55fa7cf6f810.jpg
 img\social\predator-polymag-22-5-5-mm-a0122cd894b4.jpg
-img\social\recarga-de-scuba-pcp-2-ea28a517f5de.jpg
 img\social\recarga-de-scuba-pcp-ea28a517f5de.jpg
 img\social\repuesto-interruptor-remoto-convoy-2b02ec28dd34.jpg
 img\social\rifle-dome-field-18-36-gr-250-un-2ecc856587d8.jpg
@@ -236,4 +235,3 @@ Grupo 5: img\social\kit-o-rings-leviathan-r1-r2-2-4c8269d281e4.jpg, img\social\k
 Grupo 6: img\social\kit-o-rings-p10-2-26cf7055eddd.jpg, img\social\kit-o-rings-p10-26cf7055eddd.jpg
 Grupo 7: img\social\kit-o-rings-p35-2-8a240e437687.jpg, img\social\kit-o-rings-p35-8a240e437687.jpg
 Grupo 8: img\social\kit-o-rings-pr900-2-47c2c8bafe62.jpg, img\social\kit-o-rings-pr900-47c2c8bafe62.jpg
-Grupo 9: img\social\recarga-de-scuba-pcp-2-ea28a517f5de.jpg, img\social\recarga-de-scuba-pcp-ea28a517f5de.jpg
