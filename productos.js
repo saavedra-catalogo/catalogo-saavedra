@@ -358,10 +358,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "convoy-roja-m21a"
   },
   {
-    "nombre": "Linterna Convoy L21B  LUZ ROJA",
-    "slug": "convoy-roja-l21b"
-  },
-  {
     "nombre": "Linterna Convoy  M1  LUZ BLANCA",
     "slug": "convoy-blanca-m1"
   },
