@@ -1,11 +1,11 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 187
-Imágenes disponibles: 606
+Archivos HTML revisados: 189
+Imágenes disponibles: 607
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 9
-Imágenes sin uso: 189
-Fichas sin enlace desde el índice: 10
+Imágenes sin uso: 188
+Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
 
@@ -23,6 +23,7 @@ convoy-green-c.html
 convoy-green-m.html
 convoy-green-m2.html
 convoy-red-c.html
+convoy-red-l.html
 convoy-red-m2-gen2.html
 convoy-roja.html
 convoy-white-c.html
@@ -41,8 +42,6 @@ img\img_330_b3ccdc22a91f.jpg
 img\img_331_903bc63367ff.png
 img\img_332_82da15a9e8bc.png
 img\img_333_4650466da2bf.png
-img\img_336_a39156d2dacc.png
-img\img_337_40ea2e4f41d5.png
 img\img_345_84992b1ae2bb.png
 img\social\abrazadera-1-riel-pr900-c11377a4e2ad.jpg
 img\social\aceite-para-bombin-pcp-3f430a2cb700.jpg
@@ -107,6 +106,7 @@ img\social\convoy-green-m-bbb9ed5fc1a8.jpg
 img\social\convoy-green-m2-a1af7a3d6ca9.jpg
 img\social\convoy-m1-luz-roja-bbb9ed5fc1a8.jpg
 img\social\convoy-red-c-fe05f21e6389.jpg
+img\social\convoy-red-l-e8d41c8b0104.jpg
 img\social\convoy-red-m2-gen2-a1af7a3d6ca9.jpg
 img\social\convoy-white-c-fe05f21e6389.jpg
 img\social\convoy-white-m-bbb9ed5fc1a8.jpg
