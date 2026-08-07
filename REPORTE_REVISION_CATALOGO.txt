@@ -8,6 +8,8 @@ Imágenes sin uso: 187
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
+Errores SEO/URL: 0
+Errores de sitemap: 0
 
 REFERENCIAS ROTAS
 -----------------
@@ -15,6 +17,14 @@ Ninguno.
 
 ERRORES DE NAVEGACIÓN INTERNA
 -----------------------------
+Ninguno.
+
+ERRORES SEO / URL
+-----------------
+Ninguno.
+
+ERRORES DE SITEMAP
+------------------
 Ninguno.
 
 FICHAS SIN ENLACE DESDE EL ÍNDICE
