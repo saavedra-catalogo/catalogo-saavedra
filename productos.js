@@ -602,10 +602,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "blanco-reactivo-adhesivo-8"
   },
   {
-    "nombre": "Blanco Reactivo Adhesivo 4\"",
-    "slug": "blanco-reactivo-adhesivo-4"
-  },
-  {
     "nombre": "Péndulo Metálico Restablecible 5 Blancos",
     "slug": "pendulo-metalico-restablecible-5-blancos"
   },
@@ -616,6 +612,10 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Péndulo Metálico Giratorio Doble",
     "slug": "pendulo-metalico-giratorio-doble"
+  },
+  {
+    "nombre": "Blanco Reactivo Adhesivo 4\"",
+    "slug": "blanco-reactivo-adhesivo-4"
   },
   {
     "nombre": "Maleta Rígida",
@@ -868,9 +868,5 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
-  },
-  {
-    "nombre": "Elevador de Rel Picatinny a Picatinny",
-    "slug": "elevador-de-rel-picatinny-a-picatinny"
   }
 ];
