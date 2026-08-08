@@ -262,24 +262,8 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "telemetro-laser-600m"
   },
   {
-    "nombre": "Soporte Tipo 8",
-    "slug": "soporte-tipo-8"
-  },
-  {
-    "nombre": "Soporte 45° para linterna",
-    "slug": "soporte-45-para-linterna"
-  },
-  {
-    "nombre": "Soporte 45° de liberación rápida para linterna",
-    "slug": "soporte-45-de-liberacion-rapida-para-linterna"
-  },
-  {
     "nombre": "Soporte para Mira con Riel Picatinny Superior",
     "slug": "soporte-para-mira-con-riel-picatinny-superior"
-  },
-  {
-    "nombre": "ADAPTADOR DE RIEL 11 mm A 20 mm",
-    "slug": "adaptador-de-riel-11-mm-a-20-mm"
   },
   {
     "nombre": "JSB Exact Jumbo 15.89 gr · 250 un",
@@ -360,6 +344,14 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Linterna Convoy L21B  LUZ ROJA",
     "slug": "convoy-roja-l21b"
+  },
+  {
+    "nombre": "Soporte 45° para linterna",
+    "slug": "soporte-45-para-linterna"
+  },
+  {
+    "nombre": "Soporte 45° de liberación rápida para linterna",
+    "slug": "soporte-45-de-liberacion-rapida-para-linterna"
   },
   {
     "nombre": "Linterna Convoy  M1  LUZ BLANCA",
@@ -454,6 +446,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "repuesto-interruptor-remoto-convoy"
   },
   {
+    "nombre": "Soporte Tipo 8",
+    "slug": "soporte-tipo-8"
+  },
+  {
     "nombre": "Recarga de Scuba PCP",
     "slug": "recarga-de-scuba-pcp"
   },
@@ -508,6 +504,10 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "GANCHO PORTA CORREA PICATINNY",
     "slug": "gancho-porta-correa-picatinny"
+  },
+  {
+    "nombre": "ADAPTADOR DE RIEL 11 mm A 20 mm",
+    "slug": "adaptador-de-riel-11-mm-a-20-mm"
   },
   {
     "nombre": "GANCHO PORTA CORREA QD PARA RIEL PICATINNY",
