@@ -1,4 +1,4 @@
-Productos activos procesados: 181
+Productos activos procesados: 182
 Productos desactivados: 2
 Tarjetas retiradas del índice: 1
 Redirecciones históricas creadas: 11

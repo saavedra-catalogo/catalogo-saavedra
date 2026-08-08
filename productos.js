@@ -868,5 +868,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
+  },
+  {
+    "nombre": "Elevador de Rel Picatinny a Picatinny",
+    "slug": "elevador-de-rel-picatinny-a-picatinny"
   }
 ];
