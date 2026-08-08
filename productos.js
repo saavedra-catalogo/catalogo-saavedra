@@ -162,10 +162,6 @@ window.PRODUCT_PREVIEW_LINKS = {
 };
 window.PRODUCTOS_SAAVEDRA = [
   {
-    "nombre": "Elevador de Riel Picatinny",
-    "slug": "elevador-de-riel-picatinny"
-  },
-  {
     "nombre": "PCP QL-1000LW 5.5MM",
     "slug": "pcp-ql-1000lw-5-5mm"
   },
@@ -872,5 +868,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
+  },
+  {
+    "nombre": "Elevador de Riel Picatinny",
+    "slug": "elevador-de-riel-picatinny"
   }
 ];
