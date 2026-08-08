@@ -514,6 +514,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "gancho-porta-correa-qd-para-riel-picatinny"
   },
   {
+    "nombre": "Elevador de Riel Picatinny",
+    "slug": "elevador-de-riel-picatinny"
+  },
+  {
     "nombre": "Kit de Limpieza para Rifles .22 / 5.5 mm",
     "slug": "kit-de-limpieza-para-rifles-22-5-5-mm"
   },
@@ -868,9 +872,5 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
-  },
-  {
-    "nombre": "Elevador de Riel Picatinny",
-    "slug": "elevador-de-riel-picatinny"
   }
 ];
