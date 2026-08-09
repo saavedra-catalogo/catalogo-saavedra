@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 190
-Imágenes disponibles: 610
+Archivos HTML revisados: 189
+Imágenes disponibles: 606
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 188
+Imágenes sin uso: 187
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -128,7 +128,6 @@ img\social\discovery-lhd-nv-4-16x44-sfir-ffp-a5f83ac61d40.jpg
 img\social\discoveryopt-ms-3-9x40-l-960fc63d15ae.jpg
 img\social\discoveryopt-ms-3-9x50ir-270fb1392134.jpg
 img\social\discoveryopt-ms-4-16x44sfir-58a7a14a43af.jpg
-img\social\elevador-de-riel-picatinny-0fbd58374b0d.jpg
 img\social\fill-de-carga-para-scuba-msa-scott-80ed3f1fa0ed.jpg
 img\social\fill-de-carga-pcp-pp750-m22-m25-m40-m16-p12-f0d822c6feb1.jpg
 img\social\fill-de-carga-pcp-pr900-pp800-p35-p15-p10-m16-d59d25cee631.jpg
