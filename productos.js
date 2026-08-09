@@ -262,22 +262,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "telemetro-laser-600m"
   },
   {
-    "nombre": "Soporte Tipo 8",
-    "slug": "soporte-tipo-8"
-  },
-  {
-    "nombre": "Soporte 45° para linterna",
-    "slug": "soporte-45-para-linterna"
-  },
-  {
-    "nombre": "Soporte 45° de liberación rápida para linterna",
-    "slug": "soporte-45-de-liberacion-rapida-para-linterna"
-  },
-  {
-    "nombre": "Soporte para Mira con Riel Picatinny Superior",
-    "slug": "soporte-para-mira-con-riel-picatinny-superior"
-  },
-  {
     "nombre": "JSB Exact Jumbo 15.89 gr · 250 un",
     "slug": "jsb-exact-jumbo-15-89-gr-250-un"
   },
@@ -448,6 +432,22 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Repuesto Interruptor Remoto Convoy",
     "slug": "repuesto-interruptor-remoto-convoy"
+  },
+  {
+    "nombre": "Soporte 45° para linterna",
+    "slug": "soporte-45-para-linterna"
+  },
+  {
+    "nombre": "Soporte 45° de liberación rápida para linterna",
+    "slug": "soporte-45-de-liberacion-rapida-para-linterna"
+  },
+  {
+    "nombre": "Soporte para Mira con Riel Picatinny Superior",
+    "slug": "soporte-para-mira-con-riel-picatinny-superior"
+  },
+  {
+    "nombre": "Soporte Tipo 8",
+    "slug": "soporte-tipo-8"
   },
   {
     "nombre": "Recarga de Scuba PCP",
