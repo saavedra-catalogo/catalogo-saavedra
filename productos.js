@@ -278,10 +278,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "soporte-para-mira-con-riel-picatinny-superior"
   },
   {
-    "nombre": "ADAPTADOR DE RIEL 11 mm A 20 mm",
-    "slug": "adaptador-de-riel-11-mm-a-20-mm"
-  },
-  {
     "nombre": "JSB Exact Jumbo 15.89 gr · 250 un",
     "slug": "jsb-exact-jumbo-15-89-gr-250-un"
   },
@@ -512,6 +508,10 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "GANCHO PORTA CORREA QD PARA RIEL PICATINNY",
     "slug": "gancho-porta-correa-qd-para-riel-picatinny"
+  },
+  {
+    "nombre": "ADAPTADOR DE RIEL 11 mm A 20 mm",
+    "slug": "adaptador-de-riel-11-mm-a-20-mm"
   },
   {
     "nombre": "Elevador de Riel Picatinny",
