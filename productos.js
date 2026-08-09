@@ -434,6 +434,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "repuesto-interruptor-remoto-convoy"
   },
   {
+    "nombre": "Soporte Tipo 8",
+    "slug": "soporte-tipo-8"
+  },
+  {
     "nombre": "Soporte 45° para linterna",
     "slug": "soporte-45-para-linterna"
   },
@@ -444,10 +448,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Soporte para Mira con Riel Picatinny Superior",
     "slug": "soporte-para-mira-con-riel-picatinny-superior"
-  },
-  {
-    "nombre": "Soporte Tipo 8",
-    "slug": "soporte-tipo-8"
   },
   {
     "nombre": "Recarga de Scuba PCP",
