@@ -370,26 +370,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "convoy-amarilla-c8"
   },
   {
-    "nombre": "FOCO RECARGABLE H63 500W – LUZ BLANCA",
-    "slug": "foco-recargable-h63-500w-luz-blanca"
-  },
-  {
-    "nombre": "FOCO RECARGABLE H110 1200W – LUZ BLANCA",
-    "slug": "foco-recargable-h110-1200w-luz-blanca"
-  },
-  {
-    "nombre": "FOCO RECARGABLE 1500W – LUZ BLANCA",
-    "slug": "foco-recargable-1500w-luz-blanca"
-  },
-  {
-    "nombre": "FOCO RECARGABLE H63 800W – LUZ ROJA",
-    "slug": "foco-recargable-h63-800w-luz-roja"
-  },
-  {
-    "nombre": "FOCO RECARGABLE H110 1200W – LUZ ROJA",
-    "slug": "foco-recargable-h110-1200w-luz-roja"
-  },
-  {
     "nombre": "Batería Liitokala 18650 3500mAh",
     "slug": "bateria-liitokala-18650-3500mah"
   },
@@ -450,8 +430,24 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "soporte-para-mira-con-riel-picatinny-superior"
   },
   {
-    "nombre": "Recarga de Scuba PCP",
-    "slug": "recarga-de-scuba-pcp"
+    "nombre": "FOCO RECARGABLE H63 500W – LUZ BLANCA",
+    "slug": "foco-recargable-h63-500w-luz-blanca"
+  },
+  {
+    "nombre": "FOCO RECARGABLE H110 1200W – LUZ BLANCA",
+    "slug": "foco-recargable-h110-1200w-luz-blanca"
+  },
+  {
+    "nombre": "FOCO RECARGABLE 1500W – LUZ BLANCA",
+    "slug": "foco-recargable-1500w-luz-blanca"
+  },
+  {
+    "nombre": "FOCO RECARGABLE H63 800W – LUZ ROJA",
+    "slug": "foco-recargable-h63-800w-luz-roja"
+  },
+  {
+    "nombre": "FOCO RECARGABLE H110 1200W – LUZ ROJA",
+    "slug": "foco-recargable-h110-1200w-luz-roja"
   },
   {
     "nombre": "SCUBA PCP APOLO FIBRA DE CARBONO 6.8L",
@@ -480,6 +476,10 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "FILL DE CARGA PCP PP750 / M22 / M25 / M40 / M16 / P12",
     "slug": "fill-de-carga-pcp-pp750-m22-m25-m40-m16-p12"
+  },
+  {
+    "nombre": "Recarga de Scuba PCP",
+    "slug": "recarga-de-scuba-pcp"
   },
   {
     "nombre": "BÍPODE TIPO ACCUTAC PARA RIEL PICATINNY",

@@ -1,7 +1,7 @@
 Productos activos procesados: 182
 Productos desactivados: 2
 Tarjetas retiradas del índice: 1
-Subcategorías vacías retiradas del menú: 0
+Subcategorías vacías retiradas del menú: 2
 Menús reordenados: 2
 Redirecciones históricas creadas: 11
 Imágenes no encontradas: 0
