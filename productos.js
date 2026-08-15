@@ -514,6 +514,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "adaptador-de-riel-11-mm-a-20-mm"
   },
   {
+    "nombre": "Juego de Riel",
+    "slug": "juego-de-riel"
+  },
+  {
     "nombre": "Elevador de Riel Picatinny",
     "slug": "elevador-de-riel-picatinny"
   },
@@ -768,10 +772,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Postonera 500U",
     "slug": "postonera-500u"
-  },
-  {
-    "nombre": "Juego de Riel",
-    "slug": "juego-de-riel"
   },
   {
     "nombre": "Set Silver Wave Discovery Junior Tele 150",
