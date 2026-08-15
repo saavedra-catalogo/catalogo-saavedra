@@ -526,6 +526,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "alzador-picatinny-a-picatinny"
   },
   {
+    "nombre": "Abrazadera Ajustable con Riel",
+    "slug": "abrazadera-ajustable-con-riel"
+  },
+  {
     "nombre": "Kit de Limpieza para Rifles .22 / 5.5 mm",
     "slug": "kit-de-limpieza-para-rifles-22-5-5-mm"
   },

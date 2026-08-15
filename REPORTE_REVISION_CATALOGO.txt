@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 192
-Imágenes disponibles: 616
+Archivos HTML revisados: 193
+Imágenes disponibles: 619
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 190
+Imágenes sin uso: 191
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -54,6 +54,7 @@ img\img_332_82da15a9e8bc.png
 img\img_333_4650466da2bf.png
 img\img_345_84992b1ae2bb.png
 img\social\abrazadera-1-riel-pr900-c11377a4e2ad.jpg
+img\social\abrazadera-ajustable-con-riel-f9f3b3ffc62b.jpg
 img\social\aceite-para-bombin-pcp-3f430a2cb700.jpg
 img\social\aceite-para-rifles-43c2dd998509.jpg
 img\social\acople-de-carga-din-300-3236109ffcae.jpg
