@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 193
-Imágenes disponibles: 619
+Archivos HTML revisados: 194
+Imágenes disponibles: 622
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 191
+Imágenes sin uso: 192
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -232,6 +232,7 @@ img\social\sistema-de-grabacion-sc-para-celular-eeca3d68eead.jpg
 img\social\soporte-45-de-liberacion-rapida-para-linterna-957898e5a224.jpg
 img\social\soporte-45-para-linterna-464dbf11e666.jpg
 img\social\soporte-para-mira-con-riel-picatinny-superior-5f4fcc10669a.jpg
+img\social\soporte-riel-picatinny-a-45-montaje-lateral-aa316aa51a70.jpg
 img\social\soporte-tipo-8-c26aa9bdaee7.jpg
 img\social\telemetro-laser-600m-07713eff7f35.jpg
 img\social\valvula-de-carga-con-manguera-6000-psi-d1d0da8e44cd.jpg

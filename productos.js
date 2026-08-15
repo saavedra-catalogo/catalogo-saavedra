@@ -530,6 +530,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "abrazadera-ajustable-con-riel"
   },
   {
+    "nombre": "Soporte Riel Picatinny a 45°- Montaje Lateral",
+    "slug": "soporte-riel-picatinny-a-45-montaje-lateral"
+  },
+  {
     "nombre": "Kit de Limpieza para Rifles .22 / 5.5 mm",
     "slug": "kit-de-limpieza-para-rifles-22-5-5-mm"
   },
