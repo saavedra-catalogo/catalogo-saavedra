@@ -770,6 +770,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "postonera-500u"
   },
   {
+    "nombre": "Juego de Riel",
+    "slug": "juego-de-riel"
+  },
+  {
     "nombre": "Set Silver Wave Discovery Junior Tele 150",
     "slug": "set-silver-wave-discovery-junior-tele-150"
   },
