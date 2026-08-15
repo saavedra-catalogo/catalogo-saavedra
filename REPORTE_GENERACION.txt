@@ -1,4 +1,4 @@
-Productos activos procesados: 182
+Productos activos procesados: 184
 Productos desactivados: 2
 Tarjetas retiradas del índice: 1
 Subcategorías vacías retiradas del menú: 2

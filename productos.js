@@ -518,6 +518,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "elevador-de-riel-picatinny"
   },
   {
+    "nombre": "Riel Picatinny 11Mm A 22mm",
+    "slug": "riel-picatinny-11mm-a-22mm"
+  },
+  {
+    "nombre": "Alzador Picatinny a Picatinny",
+    "slug": "alzador-picatinny-a-picatinny"
+  },
+  {
     "nombre": "Kit de Limpieza para Rifles .22 / 5.5 mm",
     "slug": "kit-de-limpieza-para-rifles-22-5-5-mm"
   },

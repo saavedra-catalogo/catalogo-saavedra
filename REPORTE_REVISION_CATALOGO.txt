@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 190
-Imágenes disponibles: 610
+Archivos HTML revisados: 192
+Imágenes disponibles: 616
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 188
+Imágenes sin uso: 190
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -58,6 +58,7 @@ img\social\aceite-para-bombin-pcp-3f430a2cb700.jpg
 img\social\aceite-para-rifles-43c2dd998509.jpg
 img\social\acople-de-carga-din-300-3236109ffcae.jpg
 img\social\adaptador-de-riel-11-mm-a-20-mm-ea06e518ed32.jpg
+img\social\alzador-picatinny-a-picatinny-5690c2aaff1d.jpg
 img\social\ballistol-balsin-stock-oil-50-ml-5fda68390bb2.jpg
 img\social\ballistol-robla-solo-mil-65-ml-9d3adb0847db.jpg
 img\social\ballistol-silicon-oil-65-ml-843d8d6cc8bc.jpg
@@ -196,6 +197,7 @@ img\social\postonera-500u-55fa7cf6f810.jpg
 img\social\predator-polymag-22-5-5-mm-a0122cd894b4.jpg
 img\social\recarga-de-scuba-pcp-ea28a517f5de.jpg
 img\social\repuesto-interruptor-remoto-convoy-2b02ec28dd34.jpg
+img\social\riel-picatinny-11mm-a-22mm-31d3bb168241.jpg
 img\social\rifle-dome-field-18-36-gr-250-un-2ecc856587d8.jpg
 img\social\rifle-pcp-black-moose-p35-5-5-795a3599734d.jpg
 img\social\rifle-pcp-black-moose-pr900gen3-5-5-cbd224f8ebb2.jpg
