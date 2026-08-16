@@ -896,5 +896,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
+  },
+  {
+    "nombre": "Chaqueta Habit",
+    "slug": "chaqueta-habit"
   }
 ];

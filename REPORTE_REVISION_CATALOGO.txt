@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 196
-Imágenes disponibles: 630
+Archivos HTML revisados: 197
+Imágenes disponibles: 633
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 194
+Imágenes sin uso: 195
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -112,6 +112,7 @@ img\social\cargador-xm1-carabina-c221a589f362.jpg
 img\social\carrete-silstar-corsair-20-fd2000-c2dc238795ad.jpg
 img\social\carrete-silstar-corsair-30-fd3000-c16663b488ab.jpg
 img\social\carrete-silstar-sniper-hd20-c-nylon-245d503355fa.jpg
+img\social\chaqueta-habit-a43537733898.jpg
 img\social\cinta-camuflaje-realtree-gorilla-146bed1b1535.jpg
 img\social\convoy-green-c-fe05f21e6389.jpg
 img\social\convoy-green-m-bbb9ed5fc1a8.jpg
