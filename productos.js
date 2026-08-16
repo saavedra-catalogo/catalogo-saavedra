@@ -892,5 +892,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
+  },
+  {
+    "nombre": "HABIT REALTREE EDGE",
+    "slug": "habit-realtree-edge"
   }
 ];
