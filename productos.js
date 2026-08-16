@@ -900,5 +900,13 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Chaqueta Habit",
     "slug": "chaqueta-habit"
+  },
+  {
+    "nombre": "Polerón Mossy OAK",
+    "slug": "poleron-mossy-oak"
+  },
+  {
+    "nombre": "Polerón Mossy OAK Fishing",
+    "slug": "poleron-mossy-oak-fishing"
   }
 ];

@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 197
-Imágenes disponibles: 633
+Archivos HTML revisados: 199
+Imágenes disponibles: 637
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 195
+Imágenes sin uso: 197
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -196,6 +196,8 @@ img\social\pcp-ql-1000lw-5-5mm-9be161c86c24.jpg
 img\social\pendulo-metalico-giratorio-8-blancos-0d918b960887.jpg
 img\social\pendulo-metalico-giratorio-doble-3f01b5a2f6e9.jpg
 img\social\pendulo-metalico-restablecible-5-blancos-5ca10e4a8e58.jpg
+img\social\poleron-mossy-oak-94432a66a811.jpg
+img\social\poleron-mossy-oak-fishing-a53ff1aa6237.jpg
 img\social\postonera-250u-3d15d68e9a99.jpg
 img\social\postonera-500u-55fa7cf6f810.jpg
 img\social\predator-polymag-22-5-5-mm-a0122cd894b4.jpg
