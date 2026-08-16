@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 199
-Imágenes disponibles: 637
+Archivos HTML revisados: 201
+Imágenes disponibles: 643
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 197
+Imágenes sin uso: 199
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -113,6 +113,7 @@ img\social\carrete-silstar-corsair-20-fd2000-c2dc238795ad.jpg
 img\social\carrete-silstar-corsair-30-fd3000-c16663b488ab.jpg
 img\social\carrete-silstar-sniper-hd20-c-nylon-245d503355fa.jpg
 img\social\chaqueta-habit-a43537733898.jpg
+img\social\chaqueta-tortolera-e5a7a3853cae.jpg
 img\social\cinta-camuflaje-realtree-gorilla-146bed1b1535.jpg
 img\social\convoy-green-c-fe05f21e6389.jpg
 img\social\convoy-green-m-bbb9ed5fc1a8.jpg
@@ -196,6 +197,7 @@ img\social\pcp-ql-1000lw-5-5mm-9be161c86c24.jpg
 img\social\pendulo-metalico-giratorio-8-blancos-0d918b960887.jpg
 img\social\pendulo-metalico-giratorio-doble-3f01b5a2f6e9.jpg
 img\social\pendulo-metalico-restablecible-5-blancos-5ca10e4a8e58.jpg
+img\social\poleron-max-1-mujer-c9bd043f3e82.jpg
 img\social\poleron-mossy-oak-94432a66a811.jpg
 img\social\poleron-mossy-oak-fishing-a53ff1aa6237.jpg
 img\social\postonera-250u-3d15d68e9a99.jpg

@@ -908,5 +908,13 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Polerón Mossy OAK Fishing",
     "slug": "poleron-mossy-oak-fishing"
+  },
+  {
+    "nombre": "Polerón MAX-1 Mujer",
+    "slug": "poleron-max-1-mujer"
+  },
+  {
+    "nombre": "Chaqueta Tortolera",
+    "slug": "chaqueta-tortolera"
   }
 ];
