@@ -326,6 +326,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "rifle-dome-field-18-36-gr-250-un"
   },
   {
+    "nombre": "JSB Exact Jumbo 15.89 gr · 500 un",
+    "slug": "jsb-exact-jumbo-15-89-gr-500-un"
+  },
+  {
     "nombre": "Linterna Convoy M1  LUZ ROJA",
     "slug": "convoy-luz-roja"
   },
