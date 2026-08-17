@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 201
-Imágenes disponibles: 643
+Archivos HTML revisados: 202
+Imágenes disponibles: 646
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 199
+Imágenes sin uso: 200
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -194,6 +194,7 @@ img\social\orion-domed-heavy-22-07-gr-250-un-ac6276031379.jpg
 img\social\orion-domed-light-16-08-gr-250-un-88c20924a702.jpg
 img\social\orion-domed-mid-heavy-18-13-gr-250-un-b6bfec6018e7.jpg
 img\social\pcp-ql-1000lw-5-5mm-9be161c86c24.jpg
+img\social\pellets-de-algodon-para-limpieza-calibre-22-927a00f5a702.jpg
 img\social\pendulo-metalico-giratorio-8-blancos-0d918b960887.jpg
 img\social\pendulo-metalico-giratorio-doble-3f01b5a2f6e9.jpg
 img\social\pendulo-metalico-restablecible-5-blancos-5ca10e4a8e58.jpg

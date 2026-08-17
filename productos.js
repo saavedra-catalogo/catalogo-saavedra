@@ -538,6 +538,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "soporte-riel-picatinny-a-45-montaje-lateral"
   },
   {
+    "nombre": "Pellets de Algodón para Limpieza – Calibre .22",
+    "slug": "pellets-de-algodon-para-limpieza-calibre-22"
+  },
+  {
     "nombre": "Kit de Limpieza para Rifles .22 / 5.5 mm",
     "slug": "kit-de-limpieza-para-rifles-22-5-5-mm"
   },
