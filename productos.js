@@ -570,6 +570,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "aceite-para-bombin-pcp"
   },
   {
+    "nombre": "Pellets de Algodón para Limpieza – Calibre .22",
+    "slug": "pellets-de-algodon-para-limpieza-calibre-22"
+  },
+  {
     "nombre": "Kit O-Rings PR900",
     "slug": "kit-o-rings-pr900"
   },
@@ -892,10 +896,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
-  },
-  {
-    "nombre": "Pellets de Algodón para Limpieza – Calibre .22",
-    "slug": "pellets-de-algodon-para-limpieza-calibre-22"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
