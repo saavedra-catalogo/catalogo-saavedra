@@ -501,16 +501,16 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "maleta-rigida-2"
   },
   {
-    "nombre": "Funda para Escopeta MAX-5",
-    "slug": "funda-para-escopeta-max-5"
+    "nombre": "Funda para Rifle 100 cm",
+    "slug": "funda-para-rifle-100-cm"
   },
   {
     "nombre": "Funda para Rifle 80 cm",
     "slug": "funda-para-rifle-80-cm"
   },
   {
-    "nombre": "Funda para Rifle 100 cm",
-    "slug": "funda-para-rifle-100-cm"
+    "nombre": "Funda para Escopeta MAX-5",
+    "slug": "funda-para-escopeta-max-5"
   },
   {
     "nombre": "Sistema de Grabación SC para celular",
