@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 203
-Imágenes disponibles: 648
+Archivos HTML revisados: 204
+Imágenes disponibles: 653
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 201
+Imágenes sin uso: 202
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -145,6 +145,7 @@ img\social\funda-para-escopeta-max-5-41b18c55602e.jpg
 img\social\funda-para-rifle-80-cm-0b936621371f.jpg
 img\social\gancho-porta-correa-picatinny-b4479668456d.jpg
 img\social\gancho-porta-correa-qd-para-riel-picatinny-108b5ff49429.jpg
+img\social\guantes-tacticos-con-proteccion-de-nudillos-806468e4959f.jpg
 img\social\habit-realtree-edge-969b0b6e7a1f.jpg
 img\social\hatsan-ares-29-gr-175-un-a0e1d5b13487.jpg
 img\social\hatsan-crazy-solid-21-91-gr-175-un-0f0cbc37a932.jpg

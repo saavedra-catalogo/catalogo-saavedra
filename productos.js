@@ -298,12 +298,12 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "olympia-domed-xsize-18-13-gr-250-un"
   },
   {
-    "nombre": "Orion Domed Mid Heavy 18.13 gr · 250 un",
-    "slug": "orion-domed-mid-heavy-18-13-gr-250-un"
-  },
-  {
     "nombre": "Orion Domed Light 16.08 gr · 250 un",
     "slug": "orion-domed-light-16-08-gr-250-un"
+  },
+  {
+    "nombre": "Orion Domed Mid Heavy 18.13 gr · 250 un",
+    "slug": "orion-domed-mid-heavy-18-13-gr-250-un"
   },
   {
     "nombre": "Orion Domed Heavy 22.07 gr · 250 un",
@@ -924,5 +924,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Chaqueta Tortolera",
     "slug": "chaqueta-tortolera"
+  },
+  {
+    "nombre": "Guantes Tácticos con Protección de Nudillos",
+    "slug": "guantes-tacticos-con-proteccion-de-nudillos"
   }
 ];
