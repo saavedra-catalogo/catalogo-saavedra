@@ -509,6 +509,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "funda-para-rifle-80-cm"
   },
   {
+    "nombre": "Funda para Rifle 100 cm",
+    "slug": "funda-para-rifle-100-cm"
+  },
+  {
     "nombre": "Sistema de Grabación SC para celular",
     "slug": "sistema-de-grabacion-sc-para-celular"
   },
