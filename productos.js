@@ -1,24 +1,24 @@
 window.PRODUCT_PREVIEW_LINKS = {};
 window.PRODUCTOS_SAAVEDRA = [
   {
-    "nombre": "PCP QL-1000LW 5.5MM",
-    "slug": "pcp-ql-1000lw-5-5mm"
-  },
-  {
-    "nombre": "Rifle PCP Black Moose PR900GEN3 5.5",
-    "slug": "rifle-pcp-black-moose-pr900gen3-5-5"
-  },
-  {
-    "nombre": "Rifle PCP QM23XL-B",
-    "slug": "rifle-pcp-qm23xl-b"
-  },
-  {
     "nombre": "Rifle PCP Black Moose P35 5.5",
     "slug": "rifle-pcp-black-moose-p35-5-5"
   },
   {
     "nombre": "Rifle PCP Nova Vista Leviathan PS-R2 5.5",
     "slug": "rifle-pcp-nova-vista-leviathan-ps-r2-5-5"
+  },
+  {
+    "nombre": "Rifle PCP Black Moose PR900GEN3 5.5",
+    "slug": "rifle-pcp-black-moose-pr900gen3-5-5"
+  },
+  {
+    "nombre": "PCP QL-1000LW 5.5MM",
+    "slug": "pcp-ql-1000lw-5-5mm"
+  },
+  {
+    "nombre": "Rifle PCP QM23XL-B",
+    "slug": "rifle-pcp-qm23xl-b"
   },
   {
     "nombre": "Discoveryopt MS 3-9X40-L",
@@ -497,20 +497,20 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "maleta-rigida"
   },
   {
-    "nombre": "Maleta Rígida",
-    "slug": "maleta-rigida-2"
-  },
-  {
     "nombre": "Funda para Rifle 100 cm",
     "slug": "funda-para-rifle-100-cm"
+  },
+  {
+    "nombre": "Funda para Escopeta MAX-5",
+    "slug": "funda-para-escopeta-max-5"
   },
   {
     "nombre": "Funda para Rifle 80 cm",
     "slug": "funda-para-rifle-80-cm"
   },
   {
-    "nombre": "Funda para Escopeta MAX-5",
-    "slug": "funda-para-escopeta-max-5"
+    "nombre": "Maleta Rígida",
+    "slug": "maleta-rigida-2"
   },
   {
     "nombre": "Sistema de Grabación SC para celular",
