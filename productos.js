@@ -266,6 +266,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "jsb-exact-jumbo-15-89-gr-250-un"
   },
   {
+    "nombre": "JSB Exact Jumbo 15.89 gr · 500 un",
+    "slug": "jsb-exact-jumbo-15-89-gr-500-un"
+  },
+  {
     "nombre": "JSB Hades 15.89 gr · 500 un",
     "slug": "jsb-hades-15-89-gr-500-un"
   },
@@ -280,10 +284,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "JSB Exact Jumbo Monster Redesigned",
     "slug": "jsb-exact-jumbo-monster-redesigned"
-  },
-  {
-    "nombre": "JSB Exact Jumbo 15.89 gr · 500 un",
-    "slug": "jsb-exact-jumbo-15-89-gr-500-un"
   },
   {
     "nombre": "Predator Polymag .22 / 5.5 mm",
