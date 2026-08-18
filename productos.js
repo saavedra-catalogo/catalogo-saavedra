@@ -282,6 +282,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "jsb-exact-jumbo-monster-redesigned"
   },
   {
+    "nombre": "JSB Exact Jumbo 15.89 gr · 500 un",
+    "slug": "jsb-exact-jumbo-15-89-gr-500-un"
+  },
+  {
     "nombre": "Predator Polymag .22 / 5.5 mm",
     "slug": "predator-polymag-22-5-5-mm"
   },
@@ -324,10 +328,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Rifle Dome Field 18.36 gr · 250 un",
     "slug": "rifle-dome-field-18-36-gr-250-un"
-  },
-  {
-    "nombre": "JSB Exact Jumbo 15.89 gr · 500 un",
-    "slug": "jsb-exact-jumbo-15-89-gr-500-un"
   },
   {
     "nombre": "Linterna Convoy M1  LUZ ROJA",
