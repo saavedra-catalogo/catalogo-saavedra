@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 205
-Imágenes disponibles: 656
+Archivos HTML revisados: 206
+Imágenes disponibles: 660
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 203
+Imágenes sin uso: 211
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -53,6 +53,13 @@ img\img_331_903bc63367ff.png
 img\img_332_82da15a9e8bc.png
 img\img_333_4650466da2bf.png
 img\img_345_84992b1ae2bb.png
+img\producto_214.webp
+img\producto_220.webp
+img\producto_226.webp
+img\producto_232.webp
+img\producto_252.webp
+img\producto_253.webp
+img\producto_350.jpg
 img\social\abrazadera-1-riel-pr900-c11377a4e2ad.jpg
 img\social\abrazadera-ajustable-con-riel-f9f3b3ffc62b.jpg
 img\social\aceite-para-bombin-pcp-3f430a2cb700.jpg
@@ -144,6 +151,7 @@ img\social\foco-recargable-h110-1200w-luz-roja-57822168163b.jpg
 img\social\foco-recargable-h63-500w-luz-blanca-653e5c7e6e29.jpg
 img\social\foco-recargable-h63-800w-luz-roja-49bd2c12ec48.jpg
 img\social\funda-para-escopeta-max-5-41b18c55602e.jpg
+img\social\funda-para-rifle-80-cm-9cec8dbef4de.jpg
 img\social\gancho-porta-correa-picatinny-b4479668456d.jpg
 img\social\gancho-porta-correa-qd-para-riel-picatinny-108b5ff49429.jpg
 img\social\guantes-tacticos-con-proteccion-de-nudillos-806468e4959f.jpg
