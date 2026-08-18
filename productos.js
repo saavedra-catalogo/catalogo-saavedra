@@ -126,7 +126,6 @@ window.PRODUCT_PREVIEW_LINKS = {
   "detalle-16": "maleta-rigida-2",
   "detalle-17": "maleta-rigida-2",
   "detalle-18": "funda-para-escopeta-max-5",
-  "detalle-19": "funda-para-rifle-80-cm",
   "detalle-nuevo-1": "telemetro-laser-600m",
   "detalle-nuevo-2": "monturas-de-alta-precision-discoveryopt",
   "detalle-nuevo-3": "monturas-discovery-para-riel-picatinny",
@@ -664,10 +663,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Funda para Escopeta MAX-5",
     "slug": "funda-para-escopeta-max-5"
-  },
-  {
-    "nombre": "Funda para Rifle 80 cm",
-    "slug": "funda-para-rifle-80-cm"
   },
   {
     "nombre": "Sistema de Grabación SC para celular",

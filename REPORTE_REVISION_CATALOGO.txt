@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 206
-Imágenes disponibles: 660
+Archivos HTML revisados: 205
+Imágenes disponibles: 656
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 204
+Imágenes sin uso: 203
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -144,7 +144,6 @@ img\social\foco-recargable-h110-1200w-luz-roja-57822168163b.jpg
 img\social\foco-recargable-h63-500w-luz-blanca-653e5c7e6e29.jpg
 img\social\foco-recargable-h63-800w-luz-roja-49bd2c12ec48.jpg
 img\social\funda-para-escopeta-max-5-41b18c55602e.jpg
-img\social\funda-para-rifle-80-cm-0b936621371f.jpg
 img\social\gancho-porta-correa-picatinny-b4479668456d.jpg
 img\social\gancho-porta-correa-qd-para-riel-picatinny-108b5ff49429.jpg
 img\social\guantes-tacticos-con-proteccion-de-nudillos-806468e4959f.jpg
