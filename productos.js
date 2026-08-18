@@ -493,20 +493,20 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "pendulo-metalico-giratorio-doble"
   },
   {
-    "nombre": "Maleta Rígida",
-    "slug": "maleta-rigida"
-  },
-  {
     "nombre": "Funda para Rifle 100 cm",
     "slug": "funda-para-rifle-100-cm"
+  },
+  {
+    "nombre": "Funda para Rifle 80 cm",
+    "slug": "funda-para-rifle-80-cm"
   },
   {
     "nombre": "Funda para Escopeta MAX-5",
     "slug": "funda-para-escopeta-max-5"
   },
   {
-    "nombre": "Funda para Rifle 80 cm",
-    "slug": "funda-para-rifle-80-cm"
+    "nombre": "Maleta Rígida",
+    "slug": "maleta-rigida"
   },
   {
     "nombre": "Maleta Rígida",
