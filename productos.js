@@ -493,12 +493,12 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "pendulo-metalico-giratorio-doble"
   },
   {
-    "nombre": "Funda para Rifle 100 cm",
-    "slug": "funda-para-rifle-100-cm"
-  },
-  {
     "nombre": "Funda para Rifle 80 cm",
     "slug": "funda-para-rifle-80-cm"
+  },
+  {
+    "nombre": "Funda para Rifle 100 cm",
+    "slug": "funda-para-rifle-100-cm"
   },
   {
     "nombre": "Funda para Escopeta MAX-5",
@@ -506,11 +506,11 @@ window.PRODUCTOS_SAAVEDRA = [
   },
   {
     "nombre": "Maleta Rígida",
-    "slug": "maleta-rigida"
+    "slug": "maleta-rigida-2"
   },
   {
     "nombre": "Maleta Rígida",
-    "slug": "maleta-rigida-2"
+    "slug": "maleta-rigida"
   },
   {
     "nombre": "Sistema de Grabación SC para celular",
