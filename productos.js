@@ -928,5 +928,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Guantes Tácticos con Protección de Nudillos",
     "slug": "guantes-tacticos-con-proteccion-de-nudillos"
+  },
+  {
+    "nombre": "Cuello Multifuncional",
+    "slug": "cuello-multifuncional"
   }
 ];

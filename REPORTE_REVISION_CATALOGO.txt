@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 204
-Imágenes disponibles: 653
+Archivos HTML revisados: 205
+Imágenes disponibles: 657
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 202
+Imágenes sin uso: 203
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -127,6 +127,7 @@ img\social\convoy-white-m-bbb9ed5fc1a8.jpg
 img\social\convoy-white-m2-a1af7a3d6ca9.jpg
 img\social\convoy-yellow-c-fe05f21e6389.jpg
 img\social\correa-tactica-1-punta-elastica-c402eb3018d5.jpg
+img\social\cuello-multifuncional-1617ea216f48.jpg
 img\social\discovery-ht-gen-ii-4-16x44-sfir-ffp-2b3645f8f9e9.jpg
 img\social\discovery-lhd-nv-4-16x44-sfir-ffp-a5f83ac61d40.jpg
 img\social\discoveryopt-ms-3-9x40-l-960fc63d15ae.jpg
