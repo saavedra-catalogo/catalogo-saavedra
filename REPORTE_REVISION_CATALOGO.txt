@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 205
-Imágenes disponibles: 657
+Archivos HTML revisados: 206
+Imágenes disponibles: 660
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 8
-Imágenes sin uso: 203
+Imágenes sin uso: 204
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -58,6 +58,7 @@ img\social\abrazadera-ajustable-con-riel-f9f3b3ffc62b.jpg
 img\social\aceite-para-bombin-pcp-3f430a2cb700.jpg
 img\social\aceite-para-rifles-43c2dd998509.jpg
 img\social\acople-de-carga-din-300-3236109ffcae.jpg
+img\social\adaptador-de-liberacion-rapida-extendido-para-pcp-8-mm-43a14197ed7a.jpg
 img\social\adaptador-de-riel-11-mm-a-20-mm-ea06e518ed32.jpg
 img\social\alzador-picatinny-a-picatinny-5690c2aaff1d.jpg
 img\social\ballistol-balsin-stock-oil-50-ml-5fda68390bb2.jpg

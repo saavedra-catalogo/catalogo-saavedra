@@ -474,6 +474,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "fill-de-carga-para-scuba-msa-scott"
   },
   {
+    "nombre": "Adaptador de liberación rápida extendido para PCP – 8 mm",
+    "slug": "adaptador-de-liberacion-rapida-extendido-para-pcp-8-mm"
+  },
+  {
     "nombre": "FILL DE CARGA PCP PR900 / PP800 / P35 / P15 / P10 / M16",
     "slug": "fill-de-carga-pcp-pr900-pp800-p35-p15-p10-m16"
   },
