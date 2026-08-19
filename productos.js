@@ -293,6 +293,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "foco-recargable-h110-1200w-luz-roja"
   },
   {
+    "nombre": "Recarga de Scuba PCP",
+    "slug": "recarga-de-scuba-pcp"
+  },
+  {
     "nombre": "SCUBA PCP APOLO FIBRA DE CARBONO 6.8L",
     "slug": "scuba-pcp-apolo-fibra-de-carbono-6-8l"
   },
@@ -323,10 +327,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "FILL DE CARGA PCP PP750 / M22 / M25 / M40 / M16 / P12",
     "slug": "fill-de-carga-pcp-pp750-m22-m25-m40-m16-p12"
-  },
-  {
-    "nombre": "Recarga de Scuba PCP",
-    "slug": "recarga-de-scuba-pcp"
   },
   {
     "nombre": "BÍPODE TIPO ACCUTAC PARA RIEL PICATINNY",
