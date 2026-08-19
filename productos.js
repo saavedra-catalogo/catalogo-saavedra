@@ -779,5 +779,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Cuello Multifuncional",
     "slug": "cuello-multifuncional"
+  },
+  {
+    "nombre": "Jockey de Caza MAX-5",
+    "slug": "jockey-de-caza-max-5"
   }
 ];
