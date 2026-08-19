@@ -783,5 +783,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Jockey de Caza MAX-5",
     "slug": "jockey-de-caza-max-5"
+  },
+  {
+    "nombre": "Jockey DiscoveryOpt / Orion Air Gun",
+    "slug": "jockey-discoveryopt-orion-air-gun"
   }
 ];
