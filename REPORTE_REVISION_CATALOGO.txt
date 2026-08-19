@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
 Archivos HTML revisados: 207
-Imágenes disponibles: 667
+Imágenes disponibles: 669
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 9
-Imágenes sin uso: 215
+Imágenes sin uso: 217
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -63,6 +63,8 @@ img\producto_350.jpg
 img\producto_544.webp
 img\producto_547.webp
 img\producto_548.webp
+img\producto_549.webp
+img\producto_551.webp
 img\social\abrazadera-1-riel-pr900-c11377a4e2ad.jpg
 img\social\abrazadera-ajustable-con-riel-f9f3b3ffc62b.jpg
 img\social\aceite-para-bombin-pcp-3f430a2cb700.jpg
@@ -95,7 +97,7 @@ img\social\cana-silver-wave-megacast-180-1-80-m-2t-99ff2c7f639e.jpg
 img\social\cargador-brocock-f7ad2931e735.jpg
 img\social\cargador-bsa-d7ec4fea9d01.jpg
 img\social\cargador-liitokala-lii-100c-c3d1cc70a5d8.jpg
-img\social\cargador-liitokala-lii-402-3e65da0fe559.jpg
+img\social\cargador-liitokala-lii-402-e1d8b7f791e0.jpg
 img\social\cargador-liitokala-lii-m4s-c2c7ca2e493d.jpg
 img\social\cargador-liitokala-lii-s2-ba7f05acc4dd.jpg
 img\social\cargador-liitokala-lii-s4-a510f7549739.jpg
