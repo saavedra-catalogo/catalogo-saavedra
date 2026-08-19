@@ -305,16 +305,16 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "bombin-pcp-4-etapas"
   },
   {
+    "nombre": "Fill de carga para scuba MSA/SCOTT",
+    "slug": "fill-de-carga-para-scuba-msa-scott"
+  },
+  {
     "nombre": "VÁLVULA DE CARGA CON MANGUERA 6000 PSI",
     "slug": "valvula-de-carga-con-manguera-6000-psi"
   },
   {
     "nombre": "ACOPLE DE CARGA DIN 300",
     "slug": "acople-de-carga-din-300"
-  },
-  {
-    "nombre": "Fill de carga para scuba MSA/SCOTT",
-    "slug": "fill-de-carga-para-scuba-msa-scott"
   },
   {
     "nombre": "Adaptador de liberación rápida extendido para PCP – 8 mm",
