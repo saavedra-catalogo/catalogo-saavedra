@@ -4,7 +4,7 @@ Archivos HTML revisados: 207
 Imágenes disponibles: 664
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 9
-Imágenes sin uso: 212
+Imágenes sin uso: 213
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -60,6 +60,7 @@ img\producto_232.webp
 img\producto_252.webp
 img\producto_253.webp
 img\producto_350.jpg
+img\producto_544.webp
 img\social\abrazadera-1-riel-pr900-c11377a4e2ad.jpg
 img\social\abrazadera-ajustable-con-riel-f9f3b3ffc62b.jpg
 img\social\aceite-para-bombin-pcp-3f430a2cb700.jpg
