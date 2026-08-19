@@ -506,11 +506,11 @@ window.PRODUCTOS_SAAVEDRA = [
   },
   {
     "nombre": "Maleta Rígida",
-    "slug": "maleta-rigida-2"
+    "slug": "maleta-rigida"
   },
   {
     "nombre": "Maleta Rígida",
-    "slug": "maleta-rigida"
+    "slug": "maleta-rigida-2"
   },
   {
     "nombre": "Sistema de Grabación SC para celular",
