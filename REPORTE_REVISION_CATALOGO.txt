@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 209
-Imágenes disponibles: 679
+Archivos HTML revisados: 211
+Imágenes disponibles: 685
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 9
-Imágenes sin uso: 219
+Imágenes sin uso: 221
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -160,6 +160,7 @@ img\social\funda-para-rifle-100-cm-b565954f92a6.jpg
 img\social\funda-para-rifle-80-cm-9cec8dbef4de.jpg
 img\social\gancho-porta-correa-picatinny-b4479668456d.jpg
 img\social\gancho-porta-correa-qd-para-riel-picatinny-108b5ff49429.jpg
+img\social\gorro-de-polar-reversible-magellan-cba22580c966.jpg
 img\social\guantes-tacticos-con-proteccion-de-nudillos-806468e4959f.jpg
 img\social\habit-realtree-edge-969b0b6e7a1f.jpg
 img\social\hatsan-ares-29-gr-175-un-a0e1d5b13487.jpg
@@ -212,6 +213,7 @@ img\social\olympia-domed-xsize-18-13-gr-250-un-d60928f3b706.jpg
 img\social\orion-domed-heavy-22-07-gr-250-un-ac6276031379.jpg
 img\social\orion-domed-light-16-08-gr-250-un-88c20924a702.jpg
 img\social\orion-domed-mid-heavy-18-13-gr-250-un-b6bfec6018e7.jpg
+img\social\pasamontanas-de-polar-banded-realtree-max-5-1b10269afed7.jpg
 img\social\pcp-ql-1000lw-5-5mm-9be161c86c24.jpg
 img\social\pellets-de-algodon-para-limpieza-calibre-22-927a00f5a702.jpg
 img\social\pendulo-metalico-giratorio-8-blancos-0d918b960887.jpg
