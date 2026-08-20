@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 213
-Imágenes disponibles: 693
+Archivos HTML revisados: 215
+Imágenes disponibles: 699
 Referencias rotas: 0
-Grupos de imágenes duplicadas: 9
-Imágenes sin uso: 223
+Grupos de imágenes duplicadas: 10
+Imágenes sin uso: 225
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -207,6 +207,8 @@ img\social\monturas-westhunter-alta-para-riel-11-mm-2-67d9c707c2fc.jpg
 img\social\monturas-westhunter-alta-para-riel-picatinny-2-ae00cb5faf32.jpg
 img\social\nikko-stirling-mount-master-4-12x50-ao-sfp-43016075e8ac.jpg
 img\social\nikko-stirling-panamax-4-5-14x50-ao-31b0e8e15774.jpg
+img\social\nivel-de-burbuja-para-mira-telescopica-25-4-mm-1-1e6131281cb0.jpg
+img\social\nivel-de-burbuja-para-mira-telescopica-30-mm-c11c69556fc3.jpg
 img\social\nivel-de-burbuja-para-riel-de-11-mm-b3bba796e443.jpg
 img\social\nivel-de-burbuja-para-riel-picatinny-68d8fdf5cddf.jpg
 img\social\nivel-triangular-para-mira-telescopica-d2e867c4cdf2.jpg
@@ -274,11 +276,12 @@ img\social\westhunter-whi-gen2-4-16x50-sfir-ffp-zero-stop-642645eb8459.jpg
 IMÁGENES DUPLICADAS
 -------------------
 Grupo 1: img\producto_751.jpg, img\producto_754.jpg
-Grupo 2: img\social\convoy-green-c-fe05f21e6389.jpg, img\social\convoy-red-c-fe05f21e6389.jpg, img\social\convoy-white-c-fe05f21e6389.jpg, img\social\convoy-yellow-c-fe05f21e6389.jpg
-Grupo 3: img\social\convoy-green-m-bbb9ed5fc1a8.jpg, img\social\convoy-m1-luz-roja-bbb9ed5fc1a8.jpg, img\social\convoy-white-m-bbb9ed5fc1a8.jpg
-Grupo 4: img\social\convoy-green-m2-a1af7a3d6ca9.jpg, img\social\convoy-red-m2-gen2-a1af7a3d6ca9.jpg, img\social\convoy-white-m2-a1af7a3d6ca9.jpg
-Grupo 5: img\social\foco-recargable-h110-1200w-luz-blanca-57822168163b.jpg, img\social\foco-recargable-h110-1200w-luz-roja-57822168163b.jpg
-Grupo 6: img\social\kit-o-rings-leviathan-r1-r2-2-4c8269d281e4.jpg, img\social\kit-o-rings-leviathan-r1-r2-4c8269d281e4.jpg
-Grupo 7: img\social\kit-o-rings-p10-2-26cf7055eddd.jpg, img\social\kit-o-rings-p10-26cf7055eddd.jpg
-Grupo 8: img\social\kit-o-rings-p35-2-8a240e437687.jpg, img\social\kit-o-rings-p35-8a240e437687.jpg
-Grupo 9: img\social\kit-o-rings-pr900-2-47c2c8bafe62.jpg, img\social\kit-o-rings-pr900-47c2c8bafe62.jpg
+Grupo 2: img\producto_780.jpg, img\producto_782.jpg
+Grupo 3: img\social\convoy-green-c-fe05f21e6389.jpg, img\social\convoy-red-c-fe05f21e6389.jpg, img\social\convoy-white-c-fe05f21e6389.jpg, img\social\convoy-yellow-c-fe05f21e6389.jpg
+Grupo 4: img\social\convoy-green-m-bbb9ed5fc1a8.jpg, img\social\convoy-m1-luz-roja-bbb9ed5fc1a8.jpg, img\social\convoy-white-m-bbb9ed5fc1a8.jpg
+Grupo 5: img\social\convoy-green-m2-a1af7a3d6ca9.jpg, img\social\convoy-red-m2-gen2-a1af7a3d6ca9.jpg, img\social\convoy-white-m2-a1af7a3d6ca9.jpg
+Grupo 6: img\social\foco-recargable-h110-1200w-luz-blanca-57822168163b.jpg, img\social\foco-recargable-h110-1200w-luz-roja-57822168163b.jpg
+Grupo 7: img\social\kit-o-rings-leviathan-r1-r2-2-4c8269d281e4.jpg, img\social\kit-o-rings-leviathan-r1-r2-4c8269d281e4.jpg
+Grupo 8: img\social\kit-o-rings-p10-2-26cf7055eddd.jpg, img\social\kit-o-rings-p10-26cf7055eddd.jpg
+Grupo 9: img\social\kit-o-rings-p35-2-8a240e437687.jpg, img\social\kit-o-rings-p35-8a240e437687.jpg
+Grupo 10: img\social\kit-o-rings-pr900-2-47c2c8bafe62.jpg, img\social\kit-o-rings-pr900-47c2c8bafe62.jpg

@@ -101,6 +101,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "nivel-de-burbuja-para-riel-picatinny"
   },
   {
+    "nombre": "Nivel de burbuja para mira telescópica – 25,4 mm (1\")",
+    "slug": "nivel-de-burbuja-para-mira-telescopica-25-4-mm-1"
+  },
+  {
+    "nombre": "Nivel de burbuja para mira telescópica – 30 mm",
+    "slug": "nivel-de-burbuja-para-mira-telescopica-30-mm"
+  },
+  {
     "nombre": "NIVEL TRIANGULAR PARA MIRA TELESCÓPICA",
     "slug": "nivel-triangular-para-mira-telescopica"
   },
