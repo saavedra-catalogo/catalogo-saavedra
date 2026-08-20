@@ -93,6 +93,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "monturas-ajustables-para-riel-de-11-mm"
   },
   {
+    "nombre": "Nivel de burbuja para riel de 11 mm",
+    "slug": "nivel-de-burbuja-para-riel-de-11-mm"
+  },
+  {
     "nombre": "NIVEL TRIANGULAR PARA MIRA TELESCÓPICA",
     "slug": "nivel-triangular-para-mira-telescopica"
   },
