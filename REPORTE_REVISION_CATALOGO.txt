@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 212
-Imágenes disponibles: 689
+Archivos HTML revisados: 213
+Imágenes disponibles: 693
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 9
-Imágenes sin uso: 222
+Imágenes sin uso: 223
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -208,6 +208,7 @@ img\social\monturas-westhunter-alta-para-riel-picatinny-2-ae00cb5faf32.jpg
 img\social\nikko-stirling-mount-master-4-12x50-ao-sfp-43016075e8ac.jpg
 img\social\nikko-stirling-panamax-4-5-14x50-ao-31b0e8e15774.jpg
 img\social\nivel-de-burbuja-para-riel-de-11-mm-b3bba796e443.jpg
+img\social\nivel-de-burbuja-para-riel-picatinny-68d8fdf5cddf.jpg
 img\social\nivel-triangular-para-mira-telescopica-d2e867c4cdf2.jpg
 img\social\olympia-domed-xsize-15-89-gr-250-un-0b443351fc56.jpg
 img\social\olympia-domed-xsize-18-13-gr-250-un-d60928f3b706.jpg

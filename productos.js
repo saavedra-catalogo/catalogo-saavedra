@@ -97,6 +97,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "nivel-de-burbuja-para-riel-de-11-mm"
   },
   {
+    "nombre": "Nivel de burbuja para riel Picatinny",
+    "slug": "nivel-de-burbuja-para-riel-picatinny"
+  },
+  {
     "nombre": "NIVEL TRIANGULAR PARA MIRA TELESCÓPICA",
     "slug": "nivel-triangular-para-mira-telescopica"
   },
