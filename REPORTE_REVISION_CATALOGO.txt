@@ -1,11 +1,11 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 216
+Archivos HTML revisados: 217
 Imágenes disponibles: 702
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
 Imágenes sin uso: 226
-Fichas sin enlace desde el índice: 11
+Fichas sin enlace desde el índice: 12
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
 Errores SEO/URL: 0
@@ -40,6 +40,7 @@ convoy-white-c.html
 convoy-white-m.html
 convoy-white-m2.html
 convoy-yellow-c.html
+pantalon-cargo-habit.html
 
 ENLACES DEL ÍNDICE SIN FICHA
 ----------------------------
