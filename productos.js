@@ -765,14 +765,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
   },
   {
-    "nombre": "HABIT REALTREE EDGE",
-    "slug": "habit-realtree-edge"
-  },
-  {
-    "nombre": "Chaqueta Habit",
-    "slug": "chaqueta-habit"
-  },
-  {
     "nombre": "Polerón Mossy OAK",
     "slug": "poleron-mossy-oak"
   },
@@ -811,5 +803,13 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Pasamontañas de Polar Banded Realtree MAX-5",
     "slug": "pasamontanas-de-polar-banded-realtree-max-5"
+  },
+  {
+    "nombre": "HABIT REALTREE EDGE",
+    "slug": "habit-realtree-edge"
+  },
+  {
+    "nombre": "Chaqueta Habit",
+    "slug": "chaqueta-habit"
   }
 ];
