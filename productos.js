@@ -813,7 +813,7 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "chaqueta-tortolera"
   },
   {
-    "nombre": "Pntalón Cargo HABIT",
-    "slug": "pntalon-cargo-habit"
+    "nombre": "Pantalón Cargo HABIT",
+    "slug": "pantalon-cargo-habit"
   }
 ];

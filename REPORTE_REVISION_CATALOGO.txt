@@ -40,7 +40,7 @@ convoy-white-c.html
 convoy-white-m.html
 convoy-white-m2.html
 convoy-yellow-c.html
-pantalon-cargo-habit.html
+pntalon-cargo-habit.html
 
 ENLACES DEL ÍNDICE SIN FICHA
 ----------------------------
