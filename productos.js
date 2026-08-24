@@ -777,10 +777,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "poleron-max-1-mujer"
   },
   {
-    "nombre": "Chaqueta Tortolera",
-    "slug": "chaqueta-tortolera"
-  },
-  {
     "nombre": "Guantes Tácticos con Protección de Nudillos",
     "slug": "guantes-tacticos-con-proteccion-de-nudillos"
   },
@@ -805,11 +801,15 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "pasamontanas-de-polar-banded-realtree-max-5"
   },
   {
-    "nombre": "HABIT REALTREE EDGE",
-    "slug": "habit-realtree-edge"
-  },
-  {
     "nombre": "Chaqueta Habit",
     "slug": "chaqueta-habit"
+  },
+  {
+    "nombre": "Chaqueta Tortolera",
+    "slug": "chaqueta-tortolera"
+  },
+  {
+    "nombre": "HABIT REALTREE EDGE",
+    "slug": "habit-realtree-edge"
   }
 ];
