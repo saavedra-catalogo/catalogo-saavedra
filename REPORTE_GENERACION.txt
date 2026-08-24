@@ -5,4 +5,6 @@ Subcategorías vacías retiradas del menú: 14
 Menús reordenados: 3
 Redirecciones históricas creadas: 12
 Imágenes no encontradas: 0
+Favicon generado: sí
+URLs en sitemap: 209
 
