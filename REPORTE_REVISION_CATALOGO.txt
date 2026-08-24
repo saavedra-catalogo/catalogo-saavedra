@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 215
-Imágenes disponibles: 699
+Archivos HTML revisados: 216
+Imágenes disponibles: 702
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
-Imágenes sin uso: 225
+Imágenes sin uso: 226
 Fichas sin enlace desde el índice: 11
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -217,6 +217,7 @@ img\social\olympia-domed-xsize-18-13-gr-250-un-d60928f3b706.jpg
 img\social\orion-domed-heavy-22-07-gr-250-un-ac6276031379.jpg
 img\social\orion-domed-light-16-08-gr-250-un-88c20924a702.jpg
 img\social\orion-domed-mid-heavy-18-13-gr-250-un-b6bfec6018e7.jpg
+img\social\pantalon-cargo-habit-ff7f578b0f7b.jpg
 img\social\pasamontanas-de-polar-banded-realtree-max-5-1b10269afed7.jpg
 img\social\pcp-ql-1000lw-5-5mm-9be161c86c24.jpg
 img\social\pellets-de-algodon-para-limpieza-calibre-22-927a00f5a702.jpg

@@ -801,6 +801,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "pasamontanas-de-polar-banded-realtree-max-5"
   },
   {
+    "nombre": "HABIT REALTREE EDGE",
+    "slug": "habit-realtree-edge"
+  },
+  {
     "nombre": "Chaqueta Habit",
     "slug": "chaqueta-habit"
   },
@@ -809,7 +813,7 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "chaqueta-tortolera"
   },
   {
-    "nombre": "HABIT REALTREE EDGE",
-    "slug": "habit-realtree-edge"
+    "nombre": "PANTALÓN CARGO HABIT",
+    "slug": "pantalon-cargo-habit"
   }
 ];
