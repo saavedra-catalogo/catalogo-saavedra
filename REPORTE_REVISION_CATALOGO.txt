@@ -1,11 +1,11 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 217
-Imágenes disponibles: 702
+Archivos HTML revisados: 220
+Imágenes disponibles: 706
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
-Imágenes sin uso: 226
-Fichas sin enlace desde el índice: 12
+Imágenes sin uso: 228
+Fichas sin enlace desde el índice: 13
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
 Errores SEO/URL: 0
@@ -41,6 +41,7 @@ convoy-white-m.html
 convoy-white-m2.html
 convoy-yellow-c.html
 pntalon-cargo-habit.html
+polera-magellan.html
 
 ENLACES DEL ÍNDICE SIN FICHA
 ----------------------------
@@ -225,6 +226,8 @@ img\social\pellets-de-algodon-para-limpieza-calibre-22-927a00f5a702.jpg
 img\social\pendulo-metalico-giratorio-8-blancos-0d918b960887.jpg
 img\social\pendulo-metalico-giratorio-doble-3f01b5a2f6e9.jpg
 img\social\pendulo-metalico-restablecible-5-blancos-5ca10e4a8e58.jpg
+img\social\polera-magellan-ebf05780fc8e.jpg
+img\social\polera-mossy-oak-obsession-f2359f90df69.jpg
 img\social\poleron-max-1-mujer-c9bd043f3e82.jpg
 img\social\poleron-mossy-oak-94432a66a811.jpg
 img\social\poleron-mossy-oak-fishing-a53ff1aa6237.jpg

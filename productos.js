@@ -815,5 +815,13 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Pantalón Cargo HABIT",
     "slug": "pantalon-cargo-habit"
+  },
+  {
+    "nombre": "POLERA MOSSY OAK OBSESSION",
+    "slug": "polera-mossy-oak-obsession"
+  },
+  {
+    "nombre": "POLERA MAGELLAN MAX-5",
+    "slug": "polera-magellan-max-5"
   }
 ];
