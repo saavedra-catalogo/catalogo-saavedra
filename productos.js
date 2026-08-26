@@ -851,5 +851,17 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Cinturón Porta Cartuchos Mossy Oak Shadow Grass Blades",
     "slug": "cinturon-porta-cartuchos-mossy-oak-shadow-grass-blades"
+  },
+  {
+    "nombre": "Cuchillo Artesanal de Acero Damasco con Funda",
+    "slug": "cuchillo-artesanal-de-acero-damasco-con-funda"
+  },
+  {
+    "nombre": "CUCHILLO DE HOJA FIJA – MANGO DE MADERA",
+    "slug": "cuchillo-de-hoja-fija-mango-de-madera"
+  },
+  {
+    "nombre": "CUCHILLO DE HOJA FIJA – MANGO G10",
+    "slug": "cuchillo-de-hoja-fija-mango-g10"
   }
 ];

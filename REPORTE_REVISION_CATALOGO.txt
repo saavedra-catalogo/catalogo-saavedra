@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 227
-Imágenes disponibles: 724
+Archivos HTML revisados: 230
+Imágenes disponibles: 736
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
-Imágenes sin uso: 235
+Imágenes sin uso: 238
 Fichas sin enlace desde el índice: 13
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -144,6 +144,9 @@ img\social\convoy-white-m-bbb9ed5fc1a8.jpg
 img\social\convoy-white-m2-a1af7a3d6ca9.jpg
 img\social\convoy-yellow-c-fe05f21e6389.jpg
 img\social\correa-tactica-1-punta-elastica-c402eb3018d5.jpg
+img\social\cuchillo-artesanal-de-acero-damasco-con-funda-143cf7d49e4c.jpg
+img\social\cuchillo-de-hoja-fija-mango-de-madera-8831b2e0c73c.jpg
+img\social\cuchillo-de-hoja-fija-mango-g10-397e7cb5368f.jpg
 img\social\cuello-multifuncional-1617ea216f48.jpg
 img\social\discovery-ht-gen-ii-4-16x44-sfir-ffp-2b3645f8f9e9.jpg
 img\social\discovery-lhd-nv-4-16x44-sfir-ffp-a5f83ac61d40.jpg
