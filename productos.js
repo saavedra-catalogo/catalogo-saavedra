@@ -777,10 +777,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "poleron-max-1-mujer"
   },
   {
-    "nombre": "Guantes Tácticos con Protección de Nudillos",
-    "slug": "guantes-tacticos-con-proteccion-de-nudillos"
-  },
-  {
     "nombre": "Cuello Multifuncional",
     "slug": "cuello-multifuncional"
   },
@@ -847,5 +843,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Polera de Camuflaje para Niño Magellan – Mossy Oak Brush",
     "slug": "polera-de-camuflaje-para-nino-magellan-mossy-oak-brush"
+  },
+  {
+    "nombre": "Guantes Tácticos con Protección de Nudillos",
+    "slug": "guantes-tacticos-con-proteccion-de-nudillos"
   }
 ];
