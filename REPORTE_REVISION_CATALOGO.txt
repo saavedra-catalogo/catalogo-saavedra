@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 225
-Imágenes disponibles: 718
+Archivos HTML revisados: 226
+Imágenes disponibles: 720
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
-Imágenes sin uso: 233
+Imágenes sin uso: 234
 Fichas sin enlace desde el índice: 13
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -228,6 +228,7 @@ img\social\pellets-de-algodon-para-limpieza-calibre-22-927a00f5a702.jpg
 img\social\pendulo-metalico-giratorio-8-blancos-0d918b960887.jpg
 img\social\pendulo-metalico-giratorio-doble-3f01b5a2f6e9.jpg
 img\social\pendulo-metalico-restablecible-5-blancos-5ca10e4a8e58.jpg
+img\social\polera-de-camuflaje-para-nino-magellan-mossy-oak-brush-82306e5c5a9a.jpg
 img\social\polera-de-caza-mujer-magellan-c88ac833d4dc.jpg
 img\social\polera-magellan-ebf05780fc8e.jpg
 img\social\polera-magellan-mossy-oak-brush-448a03577d52.jpg
