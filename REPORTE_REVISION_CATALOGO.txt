@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 224
-Imágenes disponibles: 714
+Archivos HTML revisados: 225
+Imágenes disponibles: 718
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
-Imágenes sin uso: 232
+Imágenes sin uso: 233
 Fichas sin enlace desde el índice: 13
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -221,6 +221,7 @@ img\social\orion-domed-heavy-22-07-gr-250-un-ac6276031379.jpg
 img\social\orion-domed-light-16-08-gr-250-un-88c20924a702.jpg
 img\social\orion-domed-mid-heavy-18-13-gr-250-un-b6bfec6018e7.jpg
 img\social\pantalon-cargo-habit-ff7f578b0f7b.jpg
+img\social\pantalon-de-caza-drake-non-typical-camuflaje-mossy-oak-terra-coyote-9cb0fcac08bc.jpg
 img\social\pasamontanas-de-polar-banded-realtree-max-5-1b10269afed7.jpg
 img\social\pcp-ql-1000lw-5-5mm-9be161c86c24.jpg
 img\social\pellets-de-algodon-para-limpieza-calibre-22-927a00f5a702.jpg

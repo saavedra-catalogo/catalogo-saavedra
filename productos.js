@@ -839,5 +839,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "POLERA DE CAZA MUJER MAGELLAN",
     "slug": "polera-de-caza-mujer-magellan"
+  },
+  {
+    "nombre": "Pantalón de Caza Drake Non-Typical – Camuflaje Mossy Oak Terra Coyote",
+    "slug": "pantalon-de-caza-drake-non-typical-camuflaje-mossy-oak-terra-coyote"
   }
 ];
