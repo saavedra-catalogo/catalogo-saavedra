@@ -831,5 +831,13 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "POLERA MAGELLAN MOSSY OAK BRUSH M/C",
     "slug": "polera-magellan-mossy-oak-brush-m-c"
+  },
+  {
+    "nombre": "CAMISA MAGELLAN MOSSY OAK BRUSH",
+    "slug": "camisa-magellan-mossy-oak-brush"
+  },
+  {
+    "nombre": "POLERA DE CAZA MUJER MAGELLAN",
+    "slug": "polera-de-caza-mujer-magellan"
   }
 ];
