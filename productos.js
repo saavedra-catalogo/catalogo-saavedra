@@ -769,6 +769,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "poleron-max-1-mujer"
   },
   {
+    "nombre": "Guantes Tácticos con Protección de Nudillos",
+    "slug": "guantes-tacticos-con-proteccion-de-nudillos"
+  },
+  {
     "nombre": "Cuello Multifuncional",
     "slug": "cuello-multifuncional"
   },
@@ -847,9 +851,5 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Cinturón Porta Cartuchos Mossy Oak Shadow Grass Blades",
     "slug": "cinturon-porta-cartuchos-mossy-oak-shadow-grass-blades"
-  },
-  {
-    "nombre": "Guantes Tácticos con Protección de Nudillos",
-    "slug": "guantes-tacticos-con-proteccion-de-nudillos"
   }
 ];
