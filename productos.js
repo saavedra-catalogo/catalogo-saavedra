@@ -477,14 +477,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "kit-palanca-y-cerrojo-pr900"
   },
   {
-    "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
-    "slug": "malla-tortolera-de-caza-y-pesca"
-  },
-  {
-    "nombre": "CINTA CAMUFLAJE REALTREE GORILLA",
-    "slug": "cinta-camuflaje-realtree-gorilla"
-  },
-  {
     "nombre": "Blanco Reactivo Adhesivo 2\"",
     "slug": "blanco-reactivo-adhesivo-2"
   },
@@ -797,6 +789,22 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "pasamontanas-de-polar-banded-realtree-max-5"
   },
   {
+    "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
+    "slug": "malla-tortolera-de-caza-y-pesca"
+  },
+  {
+    "nombre": "CINTA CAMUFLAJE REALTREE GORILLA",
+    "slug": "cinta-camuflaje-realtree-gorilla"
+  },
+  {
+    "nombre": "Guantes Tácticos con Protección de Nudillos",
+    "slug": "guantes-tacticos-con-proteccion-de-nudillos"
+  },
+  {
+    "nombre": "Cinturón Porta Cartuchos Mossy Oak Shadow Grass Blades",
+    "slug": "cinturon-porta-cartuchos-mossy-oak-shadow-grass-blades"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
@@ -843,9 +851,5 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Polera de Camuflaje para Niño Magellan – Mossy Oak Brush",
     "slug": "polera-de-camuflaje-para-nino-magellan-mossy-oak-brush"
-  },
-  {
-    "nombre": "Guantes Tácticos con Protección de Nudillos",
-    "slug": "guantes-tacticos-con-proteccion-de-nudillos"
   }
 ];

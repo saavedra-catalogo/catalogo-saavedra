@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 226
-Imágenes disponibles: 720
+Archivos HTML revisados: 227
+Imágenes disponibles: 724
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
-Imágenes sin uso: 234
+Imágenes sin uso: 235
 Fichas sin enlace desde el índice: 13
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -131,6 +131,7 @@ img\social\carrete-silstar-sniper-hd20-c-nylon-245d503355fa.jpg
 img\social\chaqueta-habit-a43537733898.jpg
 img\social\chaqueta-tortolera-e5a7a3853cae.jpg
 img\social\cinta-camuflaje-realtree-gorilla-146bed1b1535.jpg
+img\social\cinturon-porta-cartuchos-mossy-oak-shadow-grass-blades-60980bb235b1.jpg
 img\social\convoy-green-c-fe05f21e6389.jpg
 img\social\convoy-green-m-bbb9ed5fc1a8.jpg
 img\social\convoy-green-m2-a1af7a3d6ca9.jpg
