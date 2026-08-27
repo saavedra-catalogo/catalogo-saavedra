@@ -757,42 +757,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
   },
   {
-    "nombre": "Polerón Mossy OAK",
-    "slug": "poleron-mossy-oak"
-  },
-  {
-    "nombre": "Polerón Mossy OAK Fishing",
-    "slug": "poleron-mossy-oak-fishing"
-  },
-  {
-    "nombre": "Polerón MAX-1 Mujer",
-    "slug": "poleron-max-1-mujer"
-  },
-  {
-    "nombre": "Guantes Tácticos con Protección de Nudillos",
-    "slug": "guantes-tacticos-con-proteccion-de-nudillos"
-  },
-  {
-    "nombre": "Cuello Multifuncional",
-    "slug": "cuello-multifuncional"
-  },
-  {
-    "nombre": "Jockey de Caza MAX-5",
-    "slug": "jockey-de-caza-max-5"
-  },
-  {
-    "nombre": "Jockey DiscoveryOpt / Orion Air Gun",
-    "slug": "jockey-discoveryopt-orion-air-gun"
-  },
-  {
-    "nombre": "Gorro de Polar Reversible Magellan",
-    "slug": "gorro-de-polar-reversible-magellan"
-  },
-  {
-    "nombre": "Pasamontañas de Polar Banded Realtree MAX-5",
-    "slug": "pasamontanas-de-polar-banded-realtree-max-5"
-  },
-  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
@@ -839,6 +803,42 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Polera de Camuflaje para Niño Magellan – Mossy Oak Brush",
     "slug": "polera-de-camuflaje-para-nino-magellan-mossy-oak-brush"
+  },
+  {
+    "nombre": "Polerón Mossy OAK",
+    "slug": "poleron-mossy-oak"
+  },
+  {
+    "nombre": "Polerón Mossy OAK Fishing",
+    "slug": "poleron-mossy-oak-fishing"
+  },
+  {
+    "nombre": "Polerón MAX-1 Mujer",
+    "slug": "poleron-max-1-mujer"
+  },
+  {
+    "nombre": "Guantes Tácticos con Protección de Nudillos",
+    "slug": "guantes-tacticos-con-proteccion-de-nudillos"
+  },
+  {
+    "nombre": "Cuello Multifuncional",
+    "slug": "cuello-multifuncional"
+  },
+  {
+    "nombre": "Jockey de Caza MAX-5",
+    "slug": "jockey-de-caza-max-5"
+  },
+  {
+    "nombre": "Jockey DiscoveryOpt / Orion Air Gun",
+    "slug": "jockey-discoveryopt-orion-air-gun"
+  },
+  {
+    "nombre": "Gorro de Polar Reversible Magellan",
+    "slug": "gorro-de-polar-reversible-magellan"
+  },
+  {
+    "nombre": "Pasamontañas de Polar Banded Realtree MAX-5",
+    "slug": "pasamontanas-de-polar-banded-realtree-max-5"
   },
   {
     "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
