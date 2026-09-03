@@ -801,6 +801,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "polera-de-caza-mujer-magellan"
   },
   {
+    "nombre": "Polera Mujer Magellan Mossy Oak Brush",
+    "slug": "polera-mujer-magellan-mossy-oak-brush"
+  },
+  {
     "nombre": "Polera de Camuflaje para Niño Magellan – Mossy Oak Brush",
     "slug": "polera-de-camuflaje-para-nino-magellan-mossy-oak-brush"
   },
