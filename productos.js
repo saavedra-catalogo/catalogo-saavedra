@@ -869,8 +869,16 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cuchillo-de-hoja-fija-mango-g10"
   },
   {
+    "nombre": "Polerón MOSSY OAK FieldStaff",
+    "slug": "poleron-mossy-oak-fieldstaff"
+  },
+  {
     "nombre": "Polerón TRUETIMER",
     "slug": "poleron-truetimer"
+  },
+  {
+    "nombre": "Polerón BREAK-UP",
+    "slug": "poleron-break-up"
   },
   {
     "nombre": "Polerón CABELAS",
