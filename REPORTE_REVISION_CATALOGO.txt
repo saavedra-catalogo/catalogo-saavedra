@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 231
-Imágenes disponibles: 738
+Archivos HTML revisados: 234
+Imágenes disponibles: 748
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
-Imágenes sin uso: 239
+Imágenes sin uso: 246
 Fichas sin enlace desde el índice: 13
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -67,6 +67,8 @@ img\producto_547.webp
 img\producto_548.webp
 img\producto_549.webp
 img\producto_551.webp
+img\producto_808.jpg
+img\producto_810.jpg
 img\social\abrazadera-1-riel-pr900-c11377a4e2ad.jpg
 img\social\abrazadera-ajustable-con-riel-f9f3b3ffc62b.jpg
 img\social\aceite-para-bombin-pcp-3f430a2cb700.jpg
@@ -242,6 +244,11 @@ img\social\polera-mujer-magellan-mossy-oak-brush-d8cf47c33b9e.jpg
 img\social\poleron-max-1-mujer-c9bd043f3e82.jpg
 img\social\poleron-mossy-oak-94432a66a811.jpg
 img\social\poleron-mossy-oak-fishing-a53ff1aa6237.jpg
+img\social\poleron-t-s-5b86ea22defe.jpg
+img\social\poleron-t14-42f215e91210.jpg
+img\social\poleron-t16-12841bfffca9.jpg
+img\social\poleron-t16-2-d6ffa7012f35.jpg
+img\social\poleron-t16-3-7b6628f5b631.jpg
 img\social\postonera-250u-3d15d68e9a99.jpg
 img\social\postonera-500u-55fa7cf6f810.jpg
 img\social\predator-polymag-22-5-5-mm-a0122cd894b4.jpg
