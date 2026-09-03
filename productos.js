@@ -845,10 +845,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "pasamontanas-de-polar-banded-realtree-max-5"
   },
   {
-    "nombre": "Polerón T14",
-    "slug": "poleron-t14"
-  },
-  {
     "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
     "slug": "malla-tortolera-de-caza-y-pesca"
   },
@@ -871,6 +867,10 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "CUCHILLO DE HOJA FIJA – MANGO G10",
     "slug": "cuchillo-de-hoja-fija-mango-g10"
+  },
+  {
+    "nombre": "Polerón T14",
+    "slug": "poleron-t14"
   },
   {
     "nombre": "Polerón T16",
