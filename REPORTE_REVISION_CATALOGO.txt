@@ -1,11 +1,11 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 234
+Archivos HTML revisados: 237
 Imágenes disponibles: 746
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
 Imágenes sin uso: 244
-Fichas sin enlace desde el índice: 13
+Fichas sin enlace desde el índice: 16
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
 Errores SEO/URL: 0
@@ -42,6 +42,9 @@ convoy-white-m2.html
 convoy-yellow-c.html
 pntalon-cargo-habit.html
 polera-magellan.html
+poleron-t-s.html
+poleron-t14.html
+poleron-t16-3.html
 
 ENLACES DEL ÍNDICE SIN FICHA
 ----------------------------

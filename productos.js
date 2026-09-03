@@ -869,15 +869,15 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cuchillo-de-hoja-fija-mango-g10"
   },
   {
-    "nombre": "Polerón T14",
-    "slug": "poleron-t14"
+    "nombre": "Polerón TRUETIMER",
+    "slug": "poleron-truetimer"
   },
   {
-    "nombre": "Polerón T16",
-    "slug": "poleron-t16-3"
+    "nombre": "Polerón CABELAS",
+    "slug": "poleron-cabelas"
   },
   {
-    "nombre": "Polerón T  S",
-    "slug": "poleron-t-s"
+    "nombre": "Polerón UNDER ARMOUR",
+    "slug": "poleron-under-armour"
   }
 ];
