@@ -49,16 +49,24 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "nikko-stirling-panamax-4-5-14x50-ao"
   },
   {
-    "nombre": "WestHunter H.K Pro 4-16X44 SFIR FFP Zero Stop",
-    "slug": "westhunter-h-k-pro-4-16x44-sfir-ffp-zero-stop"
+    "nombre": "WestHunter HD-S 4-16x44 AOE",
+    "slug": "westhunter-hd-s-4-16x44-aoe"
+  },
+  {
+    "nombre": "WestHunter HD 4-16X44 SFIR PRO Zero Stop",
+    "slug": "westhunter-hd-4-16x44-sfir-pro-zero-stop"
+  },
+  {
+    "nombre": "WestHunter WHI 4-16x50 SFIR FFP",
+    "slug": "westhunter-whi-4-16x50-sfir-ffp"
   },
   {
     "nombre": "WestHunter WHI GEN2 4-16X50 SFIR FFP Zero Stop",
     "slug": "westhunter-whi-gen2-4-16x50-sfir-ffp-zero-stop"
   },
   {
-    "nombre": "WestHunter HD 4-16X44 SFIR PRO Zero Stop",
-    "slug": "westhunter-hd-4-16x44-sfir-pro-zero-stop"
+    "nombre": "WestHunter H.K Pro 4-16X44 SFIR FFP Zero Stop",
+    "slug": "westhunter-h-k-pro-4-16x44-sfir-ffp-zero-stop"
   },
   {
     "nombre": "Marcadores Adhesivos Para Torreta",
@@ -71,14 +79,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Monturas WestHunter Alta para Riel 11 mm",
     "slug": "monturas-westhunter-alta-para-riel-11-mm-2"
-  },
-  {
-    "nombre": "WestHunter HD-S 4-16x44 AOE",
-    "slug": "westhunter-hd-s-4-16x44-aoe"
-  },
-  {
-    "nombre": "WestHunter WHI 4-16x50 SFIR FFP",
-    "slug": "westhunter-whi-4-16x50-sfir-ffp"
   },
   {
     "nombre": "MONTURAS DE ALTA PRECISIÓN DISCOVERYOPT",
