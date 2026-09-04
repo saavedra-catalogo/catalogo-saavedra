@@ -887,5 +887,17 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Polerón UNDER ARMOUR",
     "slug": "poleron-under-armour"
+  },
+  {
+    "nombre": "Polerón Mujer Realtree",
+    "slug": "poleron-mujer-realtree"
+  },
+  {
+    "nombre": "Polerón RT",
+    "slug": "poleron-rt"
+  },
+  {
+    "nombre": "Polerón Mujer Mossy OAK",
+    "slug": "poleron-mujer-mossy-oak"
   }
 ];

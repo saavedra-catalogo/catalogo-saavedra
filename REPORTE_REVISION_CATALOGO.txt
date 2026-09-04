@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 241
-Imágenes disponibles: 748
+Archivos HTML revisados: 244
+Imágenes disponibles: 754
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
-Imágenes sin uso: 244
+Imágenes sin uso: 247
 Fichas sin enlace desde el índice: 18
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -247,6 +247,9 @@ img\social\polera-mujer-magellan-mossy-oak-brush-d8cf47c33b9e.jpg
 img\social\poleron-max-1-mujer-c9bd043f3e82.jpg
 img\social\poleron-mossy-oak-94432a66a811.jpg
 img\social\poleron-mossy-oak-fishing-a53ff1aa6237.jpg
+img\social\poleron-mujer-mossy-oak-2cd87719b83c.jpg
+img\social\poleron-mujer-realtree-07a2f2257f75.jpg
+img\social\poleron-rt-43631b6705ed.jpg
 img\social\poleron-t-s-5b86ea22defe.jpg
 img\social\poleron-t14-42f215e91210.jpg
 img\social\poleron-t16-12841bfffca9.jpg
