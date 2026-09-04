@@ -73,6 +73,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "monturas-westhunter-alta-para-riel-11-mm-2"
   },
   {
+    "nombre": "WestHunter HD-S 4-16x44 AOE",
+    "slug": "westhunter-hd-s-4-16x44-aoe"
+  },
+  {
+    "nombre": "WestHunter WHI 4-16x50 SFIR FFP",
+    "slug": "westhunter-whi-4-16x50-sfir-ffp"
+  },
+  {
     "nombre": "MONTURAS DE ALTA PRECISIÓN DISCOVERYOPT",
     "slug": "monturas-de-alta-precision-discoveryopt"
   },

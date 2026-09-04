@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 250
-Imágenes disponibles: 766
+Archivos HTML revisados: 252
+Imágenes disponibles: 774
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
-Imágenes sin uso: 253
+Imágenes sin uso: 255
 Fichas sin enlace desde el índice: 18
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -306,6 +306,8 @@ img\social\telemetro-laser-600m-07713eff7f35.jpg
 img\social\valvula-de-carga-con-manguera-6000-psi-d1d0da8e44cd.jpg
 img\social\westhunter-h-k-pro-4-16x44-sfir-ffp-zero-stop-7a750a176e0e.jpg
 img\social\westhunter-hd-4-16x44-sfir-pro-zero-stop-5747fa31b240.jpg
+img\social\westhunter-hd-s-4-16x44-aoe-9a21ef1e2c91.jpg
+img\social\westhunter-whi-4-16x50-sfir-ffp-8bb24855b51f.jpg
 img\social\westhunter-whi-gen2-4-16x50-sfir-ffp-zero-stop-642645eb8459.jpg
 
 IMÁGENES DUPLICADAS
