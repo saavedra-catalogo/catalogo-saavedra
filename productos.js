@@ -915,5 +915,13 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Pantalón Mossy OAK",
     "slug": "pantalon-mossy-oak"
+  },
+  {
+    "nombre": "OVEROL TÉRMICO CABELAS",
+    "slug": "overol-termico-cabelas"
+  },
+  {
+    "nombre": "Short Realtree",
+    "slug": "short-realtree"
   }
 ];

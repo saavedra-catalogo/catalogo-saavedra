@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 248
-Imágenes disponibles: 762
+Archivos HTML revisados: 250
+Imágenes disponibles: 766
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 10
-Imágenes sin uso: 251
+Imágenes sin uso: 253
 Fichas sin enlace desde el índice: 18
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -229,6 +229,7 @@ img\social\olympia-domed-xsize-18-13-gr-250-un-d60928f3b706.jpg
 img\social\orion-domed-heavy-22-07-gr-250-un-ac6276031379.jpg
 img\social\orion-domed-light-16-08-gr-250-un-88c20924a702.jpg
 img\social\orion-domed-mid-heavy-18-13-gr-250-un-b6bfec6018e7.jpg
+img\social\overol-termico-cabelas-4276a278dbf4.jpg
 img\social\pantalon-cargo-habit-ff7f578b0f7b.jpg
 img\social\pantalon-de-caza-drake-non-typical-camuflaje-mossy-oak-terra-coyote-9cb0fcac08bc.jpg
 img\social\pantalon-mossy-oak-2e38167dfae2.jpg
@@ -283,6 +284,7 @@ img\social\senuelo-silstar-mini-bait-rainbow-trout-4-2-cm-f272bd458928.jpg
 img\social\set-silver-wave-discovery-junior-tele-150-da5925b01f8c.jpg
 img\social\set-silver-wave-megacast-junior-160-a2b168932c11.jpg
 img\social\set-silver-wave-megacast-spinning-210-3563dbdaccd1.jpg
+img\social\short-realtree-999c7137fcd6.jpg
 img\social\silstar-fiber-acoustic-amarillo-fluor-n2-5-g-47661b5371f4.jpg
 img\social\silstar-fiber-acoustic-amarillo-fluor-n3-7-g-77f95d940c73.jpg
 img\social\silstar-fiber-acoustic-trucha-n2-5-g-d98160df6ecd.jpg
