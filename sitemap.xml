@@ -871,6 +871,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://saavedracaceriaypesca.cl/productos/parka-mossy-oak.html</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://saavedracaceriaypesca.cl/productos/poleron-mossy-oak-fieldstaff.html</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -919,7 +925,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://saavedracaceriaypesca.cl/productos/parka-mossy-oak.html</loc>
+    <loc>https://saavedracaceriaypesca.cl/productos/pantalon-realtree-strata.html</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://saavedracaceriaypesca.cl/productos/pantalon-realtree-truetimber.html</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://saavedracaceriaypesca.cl/productos/pantalon-mossy-oak.html</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
