@@ -899,5 +899,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Polerón Mujer Mossy OAK",
     "slug": "poleron-mujer-mossy-oak"
+  },
+  {
+    "nombre": "Parka Mossy OAK",
+    "slug": "parka-mossy-oak"
   }
 ];
