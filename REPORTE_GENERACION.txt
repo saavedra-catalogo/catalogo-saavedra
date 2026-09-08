@@ -2,7 +2,7 @@ Productos activos procesados: 237
 Productos desactivados: 2
 Tarjetas retiradas del índice: 14
 Subcategorías vacías retiradas del menú: 16
-Menús reordenados: 4
+Menús reordenados: 3
 Redirecciones históricas creadas: 18
 Imágenes no encontradas: 0
 Favicon generado: sí
