@@ -1,6 +1,22 @@
 window.PRODUCT_PREVIEW_LINKS = {};
 window.PRODUCTOS_SAAVEDRA = [
   {
+    "nombre": "FILL DE CARGA PCP PR900 / PP800 / P35 / P15 / P10 / M16",
+    "slug": "fill-de-carga-pcp-pr900-pp800-p35-p15-p10-m16"
+  },
+  {
+    "nombre": "FILL DE CARGA PCP PP750 / M22 / M25 / M40 / M16 / P12",
+    "slug": "fill-de-carga-pcp-pp750-m22-m25-m40-m16-p12"
+  },
+  {
+    "nombre": "Fill de Carga Para HATSAN / EVANIX / FX",
+    "slug": "fill-de-carga-para-hatsan-evanix-fx"
+  },
+  {
+    "nombre": "Adaptador de liberación rápida extendido para PCP – 8 mm",
+    "slug": "adaptador-de-liberacion-rapida-extendido-para-pcp-8-mm"
+  },
+  {
     "nombre": "Rifle PCP Black Moose P35 5.5",
     "slug": "rifle-pcp-black-moose-p35-5-5"
   },
@@ -339,18 +355,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "ACOPLE DE CARGA DIN 300",
     "slug": "acople-de-carga-din-300"
-  },
-  {
-    "nombre": "FILL DE CARGA PCP PR900 / PP800 / P35 / P15 / P10 / M16",
-    "slug": "fill-de-carga-pcp-pr900-pp800-p35-p15-p10-m16"
-  },
-  {
-    "nombre": "FILL DE CARGA PCP PP750 / M22 / M25 / M40 / M16 / P12",
-    "slug": "fill-de-carga-pcp-pp750-m22-m25-m40-m16-p12"
-  },
-  {
-    "nombre": "Adaptador de liberación rápida extendido para PCP – 8 mm",
-    "slug": "adaptador-de-liberacion-rapida-extendido-para-pcp-8-mm"
   },
   {
     "nombre": "BÍPODE TIPO ACCUTAC PARA RIEL PICATINNY",
