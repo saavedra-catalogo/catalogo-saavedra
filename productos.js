@@ -793,10 +793,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "polera-mossy-oak-obsession"
   },
   {
-    "nombre": "POLERA MAGELLAN MAX-5",
-    "slug": "polera-magellan-max-5"
-  },
-  {
     "nombre": "POLERA MAGELLAN MOSSY OAK BRUSH",
     "slug": "polera-magellan-mossy-oak-brush"
   },
