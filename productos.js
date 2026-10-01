@@ -649,10 +649,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "postonera-500u"
   },
   {
-    "nombre": "CAÑA RAPALA PJREY UL SPINNING 1,80 M",
-    "slug": "cana-rapala-pjrey-ul-spinning-1-80-m"
-  },
-  {
     "nombre": "Set Silver Wave Discovery Junior Tele 150",
     "slug": "set-silver-wave-discovery-junior-tele-150"
   },
@@ -683,6 +679,10 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Caña Silver Wave Discovery Tele 210 2,10 m 5T",
     "slug": "cana-silver-wave-discovery-tele-210-2-10-m-5t"
+  },
+  {
+    "nombre": "CAÑA RAPALA PJREY UL SPINNING 1,80 M",
+    "slug": "cana-rapala-pjrey-ul-spinning-1-80-m"
   },
   {
     "nombre": "Carrete Silstar Sniper HD20 c/nylon",
