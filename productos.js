@@ -701,6 +701,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cana-rapala-corux-spinning-1-80-m-l"
   },
   {
+    "nombre": "CAÑA OKUMA SILVERSIDE 1,80 M L",
+    "slug": "cana-okuma-silverside-1-80-m-l"
+  },
+  {
     "nombre": "Carrete Silstar Sniper HD20 c/nylon",
     "slug": "carrete-silstar-sniper-hd20-c-nylon"
   },
