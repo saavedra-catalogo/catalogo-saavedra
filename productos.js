@@ -685,6 +685,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cana-rapala-pjrey-ul-spinning-1-80-m"
   },
   {
+    "nombre": "CAÑA RAPALA PJREY UL SPINNING 2,10 M",
+    "slug": "cana-rapala-pjrey-ul-spinning-2-10-m"
+  },
+  {
     "nombre": "Carrete Silstar Sniper HD20 c/nylon",
     "slug": "carrete-silstar-sniper-hd20-c-nylon"
   },
