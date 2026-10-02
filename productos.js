@@ -721,6 +721,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "carrete-silstar-corsair-30-fd3000"
   },
   {
+    "nombre": "CHINGUILLO  MADERA CON MALLA DE SILICONA",
+    "slug": "chinguillo-madera-con-malla-de-silicona"
+  },
+  {
     "nombre": "Señuelo Silstar Mini-Bait Rainbow Trout 4,2 cm",
     "slug": "senuelo-silstar-mini-bait-rainbow-trout-4-2-cm"
   },
