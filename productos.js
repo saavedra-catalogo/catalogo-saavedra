@@ -725,6 +725,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "chinguillo-madera-con-malla-de-silicona"
   },
   {
+    "nombre": "CHINGUILLO FLOTANTE RAGOT 55 × 45 CM",
+    "slug": "chinguillo-flotante-ragot-55-45-cm"
+  },
+  {
     "nombre": "Señuelo Silstar Mini-Bait Rainbow Trout 4,2 cm",
     "slug": "senuelo-silstar-mini-bait-rainbow-trout-4-2-cm"
   },
