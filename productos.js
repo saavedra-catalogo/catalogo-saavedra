@@ -705,6 +705,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cana-okuma-silverside-1-80-m-l"
   },
   {
+    "nombre": "CAÑA OKUMA EPIXOR EPX-S-632UL 1,90 M",
+    "slug": "cana-okuma-epixor-epx-s-632ul-1-90-m"
+  },
+  {
     "nombre": "Carrete Silstar Sniper HD20 c/nylon",
     "slug": "carrete-silstar-sniper-hd20-c-nylon"
   },

@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 257
-Imágenes disponibles: 794
+Archivos HTML revisados: 258
+Imágenes disponibles: 798
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 12
-Imágenes sin uso: 261
+Imágenes sin uso: 262
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -96,6 +96,7 @@ img\social\blanco-reactivo-adhesivo-8-ebc268ed5044.jpg
 img\social\bolso-de-apoyo-para-tiro-de-precision-8ae5e0fff9b9.jpg
 img\social\bombin-pcp-4-etapas-02e00c81689c.jpg
 img\social\camisa-magellan-mossy-oak-brush-ea9b1e3936b7.jpg
+img\social\cana-okuma-epixor-epx-s-632ul-1-90-m-80cf7312f7bb.jpg
 img\social\cana-okuma-silverside-1-80-m-l-a79526f50a90.jpg
 img\social\cana-rapala-corux-spinning-1-65-m-115b9eb0e187.jpg
 img\social\cana-rapala-corux-spinning-1-80-m-l-de5f89ca09f0.jpg
