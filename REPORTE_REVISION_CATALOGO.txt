@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 260
-Imágenes disponibles: 804
+Archivos HTML revisados: 257
+Imágenes disponibles: 798
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 12
-Imágenes sin uso: 264
+Imágenes sin uso: 261
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -242,9 +242,7 @@ img\social\overol-termico-cabelas-4276a278dbf4.jpg
 img\social\pantalon-cargo-habit-ff7f578b0f7b.jpg
 img\social\pantalon-de-caza-drake-non-typical-camuflaje-mossy-oak-terra-coyote-9cb0fcac08bc.jpg
 img\social\pantalon-mossy-oak-2e38167dfae2.jpg
-img\social\pantalon-realtree-strata-bbc0b5c5f704.jpg
 img\social\pantalon-realtree-truetimber-9fef27eae657.jpg
-img\social\parka-mossy-oak-7f85744b63f7.jpg
 img\social\pasamontanas-de-polar-banded-realtree-max-5-1b10269afed7.jpg
 img\social\pcp-ql-1000lw-5-5mm-9be161c86c24.jpg
 img\social\pellets-de-algodon-para-limpieza-calibre-22-927a00f5a702.jpg
@@ -261,7 +259,6 @@ img\social\poleron-max-1-mujer-c9bd043f3e82.jpg
 img\social\poleron-mossy-oak-94432a66a811.jpg
 img\social\poleron-mossy-oak-fishing-a53ff1aa6237.jpg
 img\social\poleron-mujer-mossy-oak-2cd87719b83c.jpg
-img\social\poleron-mujer-realtree-07a2f2257f75.jpg
 img\social\poleron-rt-43631b6705ed.jpg
 img\social\poleron-t-s-5b86ea22defe.jpg
 img\social\poleron-t14-42f215e91210.jpg

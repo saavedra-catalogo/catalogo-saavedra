@@ -913,10 +913,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cuchillo-de-hoja-fija-mango-g10"
   },
   {
-    "nombre": "Parka Mossy OAK",
-    "slug": "parka-mossy-oak"
-  },
-  {
     "nombre": "Polerón MOSSY OAK FieldStaff",
     "slug": "poleron-mossy-oak-fieldstaff"
   },
@@ -937,20 +933,12 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "poleron-under-armour"
   },
   {
-    "nombre": "Polerón Mujer Realtree",
-    "slug": "poleron-mujer-realtree"
-  },
-  {
     "nombre": "Polerón RT",
     "slug": "poleron-rt"
   },
   {
     "nombre": "Polerón Mujer Mossy OAK",
     "slug": "poleron-mujer-mossy-oak"
-  },
-  {
-    "nombre": "Pantalón Realtree STRATA",
-    "slug": "pantalon-realtree-strata"
   },
   {
     "nombre": "Pantalón Realtree TRUETIMBER",
