@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 259
-Imágenes disponibles: 806
+Archivos HTML revisados: 260
+Imágenes disponibles: 810
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 12
-Imágenes sin uso: 263
+Imágenes sin uso: 264
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -270,6 +270,7 @@ img\social\poleron-t16-3-7b6628f5b631.jpg
 img\social\postonera-250u-3d15d68e9a99.jpg
 img\social\postonera-500u-55fa7cf6f810.jpg
 img\social\predator-polymag-22-5-5-mm-a0122cd894b4.jpg
+img\social\rapala-rage-r2000-ml-carrete-spinning-8ba790429fa9.jpg
 img\social\recarga-de-scuba-pcp-ea28a517f5de.jpg
 img\social\repuesto-interruptor-remoto-convoy-2b02ec28dd34.jpg
 img\social\riel-picatinny-11mm-a-22mm-31d3bb168241.jpg
