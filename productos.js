@@ -713,6 +713,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "carrete-rapala-rage-r1000-l-spinning"
   },
   {
+    "nombre": "Carrete Rapala Corux 1000 Spinning",
+    "slug": "carrete-rapala-corux-1000-spinning"
+  },
+  {
     "nombre": "Carrete Silstar Sniper HD20 c/nylon",
     "slug": "carrete-silstar-sniper-hd20-c-nylon"
   },

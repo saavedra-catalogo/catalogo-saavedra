@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 258
-Imágenes disponibles: 802
+Archivos HTML revisados: 259
+Imágenes disponibles: 806
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 12
-Imágenes sin uso: 262
+Imágenes sin uso: 263
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -136,6 +136,7 @@ img\social\cargador-t-rex-bullpup-14t-ecf92bf4f641.jpg
 img\social\cargador-t-rex-bullpup-16t-e58f601b43d0.jpg
 img\social\cargador-xm1-bullpup-4771fef75dcc.jpg
 img\social\cargador-xm1-carabina-c221a589f362.jpg
+img\social\carrete-rapala-corux-1000-spinning-99b748bb7a5f.jpg
 img\social\carrete-rapala-rage-r1000-l-spinning-80fd10e5a400.jpg
 img\social\carrete-silstar-corsair-20-fd2000-c2dc238795ad.jpg
 img\social\carrete-silstar-corsair-30-fd3000-c16663b488ab.jpg
