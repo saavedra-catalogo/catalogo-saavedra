@@ -729,6 +729,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "chinguillo-flotante-ragot-55-45-cm"
   },
   {
+    "nombre": "CARRETE RAPALA RAGE R1000 L SPINNING",
+    "slug": "carrete-rapala-rage-r1000-l-spinning"
+  },
+  {
     "nombre": "Señuelo Silstar Mini-Bait Rainbow Trout 4,2 cm",
     "slug": "senuelo-silstar-mini-bait-rainbow-trout-4-2-cm"
   },
