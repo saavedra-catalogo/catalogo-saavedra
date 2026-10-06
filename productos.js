@@ -713,14 +713,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "carrete-rapala-rage-r1000-l-spinning"
   },
   {
-    "nombre": "CHINGUILLO  MADERA CON MALLA DE SILICONA",
-    "slug": "chinguillo-madera-con-malla-de-silicona"
-  },
-  {
-    "nombre": "CHINGUILLO FLOTANTE RAGOT 55 × 45 CM",
-    "slug": "chinguillo-flotante-ragot-55-45-cm"
-  },
-  {
     "nombre": "Carrete Silstar Sniper HD20 c/nylon",
     "slug": "carrete-silstar-sniper-hd20-c-nylon"
   },
@@ -731,6 +723,14 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Carrete Silstar Corsair 30 FD3000",
     "slug": "carrete-silstar-corsair-30-fd3000"
+  },
+  {
+    "nombre": "CHINGUILLO  MADERA CON MALLA DE SILICONA",
+    "slug": "chinguillo-madera-con-malla-de-silicona"
+  },
+  {
+    "nombre": "CHINGUILLO FLOTANTE RAGOT 55 × 45 CM",
+    "slug": "chinguillo-flotante-ragot-55-45-cm"
   },
   {
     "nombre": "Señuelo Silstar Mini-Bait Rainbow Trout 4,2 cm",
