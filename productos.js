@@ -967,5 +967,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Short Realtree",
     "slug": "short-realtree"
+  },
+  {
+    "nombre": "PLOMO LÁGRIMA #1 10g (x5)",
+    "slug": "plomo-lagrima-1-10g-x5"
   }
 ];
