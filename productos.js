@@ -709,18 +709,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cana-okuma-epixor-epx-s-632ul-1-90-m"
   },
   {
-    "nombre": "CARRETE RAPALA RAGE R1000 L SPINNING",
-    "slug": "carrete-rapala-rage-r1000-l-spinning"
-  },
-  {
-    "nombre": "Carrete Rapala Corux 1000 Spinning",
-    "slug": "carrete-rapala-corux-1000-spinning"
-  },
-  {
-    "nombre": "RAPALA RAGE R2000 ML – CARRETE SPINNING",
-    "slug": "rapala-rage-r2000-ml-carrete-spinning"
-  },
-  {
     "nombre": "Carrete Silstar Sniper HD20 c/nylon",
     "slug": "carrete-silstar-sniper-hd20-c-nylon"
   },
@@ -739,6 +727,18 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "CHINGUILLO FLOTANTE RAGOT 55 × 45 CM",
     "slug": "chinguillo-flotante-ragot-55-45-cm"
+  },
+  {
+    "nombre": "CARRETE RAPALA RAGE R1000 L SPINNING",
+    "slug": "carrete-rapala-rage-r1000-l-spinning"
+  },
+  {
+    "nombre": "Carrete Rapala Corux 1000 Spinning",
+    "slug": "carrete-rapala-corux-1000-spinning"
+  },
+  {
+    "nombre": "RAPALA RAGE R2000 ML – CARRETE SPINNING",
+    "slug": "rapala-rage-r2000-ml-carrete-spinning"
   },
   {
     "nombre": "Señuelo Silstar Mini-Bait Rainbow Trout 4,2 cm",
@@ -803,6 +803,14 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Silstar Fiber Acoustic Amarillo Flúor N°3 7 g",
     "slug": "silstar-fiber-acoustic-amarillo-fluor-n3-7-g"
+  },
+  {
+    "nombre": "PLOMO LÁGRIMA #1 10g (x5)",
+    "slug": "plomo-lagrima-1-10g-x5"
+  },
+  {
+    "nombre": "PLOMO LÁGRIMA #2 20g (x3)",
+    "slug": "plomo-lagrima-2-20g-x3"
   },
   {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
@@ -967,9 +975,5 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Short Realtree",
     "slug": "short-realtree"
-  },
-  {
-    "nombre": "PLOMO LÁGRIMA #1 10g (x5)",
-    "slug": "plomo-lagrima-1-10g-x5"
   }
 ];
