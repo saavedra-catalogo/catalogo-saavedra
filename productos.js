@@ -853,6 +853,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "armada-pejerrey-akita-n-o-8"
   },
   {
+    "nombre": "Sufix FW Mono 0,16 mm – 150 m",
+    "slug": "sufix-fw-mono-0-16-mm-150-m"
+  },
+  {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
     "slug": "senuelo-jig-silstar-30-g-payaso"
   },
