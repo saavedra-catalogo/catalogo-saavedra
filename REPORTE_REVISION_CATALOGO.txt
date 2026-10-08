@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 271
-Imágenes disponibles: 834
+Archivos HTML revisados: 272
+Imágenes disponibles: 838
 Referencias rotas: 0
-Grupos de imágenes duplicadas: 12
-Imágenes sin uso: 275
+Grupos de imágenes duplicadas: 13
+Imágenes sin uso: 276
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -177,6 +177,7 @@ img\social\fill-de-carga-para-hatsan-evanix-fx-a78408f136ef.jpg
 img\social\fill-de-carga-para-scuba-msa-scott-80ed3f1fa0ed.jpg
 img\social\fill-de-carga-pcp-pp750-m22-m25-m40-m16-p12-f0d822c6feb1.jpg
 img\social\fill-de-carga-pcp-pr900-pp800-p35-p15-p10-m16-d59d25cee631.jpg
+img\social\fishbites-bag-o-worms-bloodworm-1-4-946ae7472158.jpg
 img\social\fishbites-bag-o-worms-earthworm-7df06e9bed02.jpg
 img\social\foco-recargable-1500w-luz-blanca-23de272bc4d7.jpg
 img\social\foco-recargable-h110-1200w-luz-blanca-57822168163b.jpg
@@ -335,11 +336,12 @@ Grupo 1: img\producto_751.jpg, img\producto_754.jpg
 Grupo 2: img\producto_780.jpg, img\producto_782.jpg
 Grupo 3: img\producto_831.jpg, img\producto_834.jpg
 Grupo 4: img\producto_837.jpg, img\producto_840.jpg
-Grupo 5: img\social\convoy-green-c-fe05f21e6389.jpg, img\social\convoy-red-c-fe05f21e6389.jpg, img\social\convoy-white-c-fe05f21e6389.jpg, img\social\convoy-yellow-c-fe05f21e6389.jpg
-Grupo 6: img\social\convoy-green-m-bbb9ed5fc1a8.jpg, img\social\convoy-m1-luz-roja-bbb9ed5fc1a8.jpg, img\social\convoy-white-m-bbb9ed5fc1a8.jpg
-Grupo 7: img\social\convoy-green-m2-a1af7a3d6ca9.jpg, img\social\convoy-red-m2-gen2-a1af7a3d6ca9.jpg, img\social\convoy-white-m2-a1af7a3d6ca9.jpg
-Grupo 8: img\social\foco-recargable-h110-1200w-luz-blanca-57822168163b.jpg, img\social\foco-recargable-h110-1200w-luz-roja-57822168163b.jpg
-Grupo 9: img\social\kit-o-rings-leviathan-r1-r2-2-4c8269d281e4.jpg, img\social\kit-o-rings-leviathan-r1-r2-4c8269d281e4.jpg
-Grupo 10: img\social\kit-o-rings-p10-2-26cf7055eddd.jpg, img\social\kit-o-rings-p10-26cf7055eddd.jpg
-Grupo 11: img\social\kit-o-rings-p35-2-8a240e437687.jpg, img\social\kit-o-rings-p35-8a240e437687.jpg
-Grupo 12: img\social\kit-o-rings-pr900-2-47c2c8bafe62.jpg, img\social\kit-o-rings-pr900-47c2c8bafe62.jpg
+Grupo 5: img\producto_871.jpg, img\producto_874.jpg
+Grupo 6: img\social\convoy-green-c-fe05f21e6389.jpg, img\social\convoy-red-c-fe05f21e6389.jpg, img\social\convoy-white-c-fe05f21e6389.jpg, img\social\convoy-yellow-c-fe05f21e6389.jpg
+Grupo 7: img\social\convoy-green-m-bbb9ed5fc1a8.jpg, img\social\convoy-m1-luz-roja-bbb9ed5fc1a8.jpg, img\social\convoy-white-m-bbb9ed5fc1a8.jpg
+Grupo 8: img\social\convoy-green-m2-a1af7a3d6ca9.jpg, img\social\convoy-red-m2-gen2-a1af7a3d6ca9.jpg, img\social\convoy-white-m2-a1af7a3d6ca9.jpg
+Grupo 9: img\social\foco-recargable-h110-1200w-luz-blanca-57822168163b.jpg, img\social\foco-recargable-h110-1200w-luz-roja-57822168163b.jpg
+Grupo 10: img\social\kit-o-rings-leviathan-r1-r2-2-4c8269d281e4.jpg, img\social\kit-o-rings-leviathan-r1-r2-4c8269d281e4.jpg
+Grupo 11: img\social\kit-o-rings-p10-2-26cf7055eddd.jpg, img\social\kit-o-rings-p10-26cf7055eddd.jpg
+Grupo 12: img\social\kit-o-rings-p35-2-8a240e437687.jpg, img\social\kit-o-rings-p35-8a240e437687.jpg
+Grupo 13: img\social\kit-o-rings-pr900-2-47c2c8bafe62.jpg, img\social\kit-o-rings-pr900-47c2c8bafe62.jpg

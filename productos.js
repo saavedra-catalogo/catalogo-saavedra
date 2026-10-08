@@ -769,6 +769,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "fishbites-bag-o-worms-earthworm"
   },
   {
+    "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
+    "slug": "fishbites-bag-o-worms-bloodworm-1-4"
+  },
+  {
     "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
     "slug": "silstar-spinner-n2-plata-rojo-5-g"
   },
