@@ -833,6 +833,18 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "armada-pejerrey-maruseigo-n-o-6"
   },
   {
+    "nombre": "ARMADA PEJERREY MARUSEIGO N.º 8",
+    "slug": "armada-pejerrey-maruseigo-n-o-8"
+  },
+  {
+    "nombre": "ARMADA PEJERREY AKITA N.º 6",
+    "slug": "armada-pejerrey-akita-n-o-6"
+  },
+  {
+    "nombre": "ARMADA PEJERREY AKITA N.º 8",
+    "slug": "armada-pejerrey-akita-n-o-8"
+  },
+  {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
     "slug": "senuelo-jig-silstar-30-g-payaso"
   },

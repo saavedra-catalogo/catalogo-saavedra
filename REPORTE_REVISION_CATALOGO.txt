@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 267
-Imágenes disponibles: 824
+Archivos HTML revisados: 270
+Imágenes disponibles: 830
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 12
-Imágenes sin uso: 271
+Imágenes sin uso: 274
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -79,7 +79,10 @@ img\social\acople-de-carga-din-300-3236109ffcae.jpg
 img\social\adaptador-de-liberacion-rapida-extendido-para-pcp-8-mm-43a14197ed7a.jpg
 img\social\adaptador-de-riel-11-mm-a-20-mm-ea06e518ed32.jpg
 img\social\alzador-picatinny-a-picatinny-5690c2aaff1d.jpg
+img\social\armada-pejerrey-akita-n-o-6-b02eded6054c.jpg
+img\social\armada-pejerrey-akita-n-o-8-f729325e3b2a.jpg
 img\social\armada-pejerrey-maruseigo-n-o-6-c676a2625002.jpg
+img\social\armada-pejerrey-maruseigo-n-o-8-92b71305454c.jpg
 img\social\ballistol-balsin-stock-oil-50-ml-5fda68390bb2.jpg
 img\social\ballistol-robla-solo-mil-65-ml-9d3adb0847db.jpg
 img\social\ballistol-silicon-oil-65-ml-843d8d6cc8bc.jpg
