@@ -765,54 +765,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelo-silstar-mid-bait-b27-verde-negro-8-cm"
   },
   {
-    "nombre": "🎣 FISHBITES BAG O’ WORMS EARTHWORM",
-    "slug": "fishbites-bag-o-worms-earthworm"
-  },
-  {
-    "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
-    "slug": "fishbites-bag-o-worms-bloodworm-1-4"
-  },
-  {
-    "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
-    "slug": "silstar-spinner-n2-plata-rojo-5-g"
-  },
-  {
-    "nombre": "Silstar Spinner N°2 Chinita Roja 5 g",
-    "slug": "silstar-spinner-n2-chinita-roja-5-g"
-  },
-  {
-    "nombre": "Silstar Spinner N°2 Sapo Verde 5 g",
-    "slug": "silstar-spinner-n2-sapo-verde-5-g"
-  },
-  {
-    "nombre": "Silstar Fiber Acoustic Trucha N°2 5 g",
-    "slug": "silstar-fiber-acoustic-trucha-n2-5-g"
-  },
-  {
-    "nombre": "Silstar Fiber Acoustic Amarillo Flúor N°2 5 g",
-    "slug": "silstar-fiber-acoustic-amarillo-fluor-n2-5-g"
-  },
-  {
-    "nombre": "Silstar Spinner N°3 Plata/Rojo 7 g",
-    "slug": "silstar-spinner-n3-plata-rojo-7-g"
-  },
-  {
-    "nombre": "Silstar Spinner N°3 Chinita Roja 7 g",
-    "slug": "silstar-spinner-n3-chinita-roja-7-g"
-  },
-  {
-    "nombre": "Silstar Spinner N°3 Sapo Verde 7 g",
-    "slug": "silstar-spinner-n3-sapo-verde-7-g"
-  },
-  {
-    "nombre": "Silstar Fiber Acoustic Trucha N°3 7 g",
-    "slug": "silstar-fiber-acoustic-trucha-n3-7-g"
-  },
-  {
-    "nombre": "Silstar Fiber Acoustic Amarillo Flúor N°3 7 g",
-    "slug": "silstar-fiber-acoustic-amarillo-fluor-n3-7-g"
-  },
-  {
     "nombre": "PLOMO LÁGRIMA #1 10g (x5)",
     "slug": "plomo-lagrima-1-10g-x5"
   },
@@ -867,6 +819,54 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "NYLON SILVER WAVE XTREME HI-STRENGTH 0,50 MM – 100 M",
     "slug": "nylon-silver-wave-xtreme-hi-strength-0-50-mm-100-m"
+  },
+  {
+    "nombre": "🎣 FISHBITES BAG O’ WORMS EARTHWORM",
+    "slug": "fishbites-bag-o-worms-earthworm"
+  },
+  {
+    "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
+    "slug": "fishbites-bag-o-worms-bloodworm-1-4"
+  },
+  {
+    "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
+    "slug": "silstar-spinner-n2-plata-rojo-5-g"
+  },
+  {
+    "nombre": "Silstar Spinner N°2 Chinita Roja 5 g",
+    "slug": "silstar-spinner-n2-chinita-roja-5-g"
+  },
+  {
+    "nombre": "Silstar Spinner N°2 Sapo Verde 5 g",
+    "slug": "silstar-spinner-n2-sapo-verde-5-g"
+  },
+  {
+    "nombre": "Silstar Fiber Acoustic Trucha N°2 5 g",
+    "slug": "silstar-fiber-acoustic-trucha-n2-5-g"
+  },
+  {
+    "nombre": "Silstar Fiber Acoustic Amarillo Flúor N°2 5 g",
+    "slug": "silstar-fiber-acoustic-amarillo-fluor-n2-5-g"
+  },
+  {
+    "nombre": "Silstar Spinner N°3 Plata/Rojo 7 g",
+    "slug": "silstar-spinner-n3-plata-rojo-7-g"
+  },
+  {
+    "nombre": "Silstar Spinner N°3 Chinita Roja 7 g",
+    "slug": "silstar-spinner-n3-chinita-roja-7-g"
+  },
+  {
+    "nombre": "Silstar Spinner N°3 Sapo Verde 7 g",
+    "slug": "silstar-spinner-n3-sapo-verde-7-g"
+  },
+  {
+    "nombre": "Silstar Fiber Acoustic Trucha N°3 7 g",
+    "slug": "silstar-fiber-acoustic-trucha-n3-7-g"
+  },
+  {
+    "nombre": "Silstar Fiber Acoustic Amarillo Flúor N°3 7 g",
+    "slug": "silstar-fiber-acoustic-amarillo-fluor-n3-7-g"
   },
   {
     "nombre": "Sufix FW Mono 0,16 mm – 150 m",
