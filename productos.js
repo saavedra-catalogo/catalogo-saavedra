@@ -821,6 +821,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "plomos-ranurados-okuma-s-785-78-piezas"
   },
   {
+    "nombre": "PLOMOS OKUMA RUBBER CENTER SINKERS – 25 PIEZAS",
+    "slug": "plomos-okuma-rubber-center-sinkers-25-piezas"
+  },
+  {
+    "nombre": "PLOMOS OKUMA BASS CASTING SINKERS – 27 PIEZAS",
+    "slug": "plomos-okuma-bass-casting-sinkers-27-piezas"
+  },
+  {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
     "slug": "senuelo-jig-silstar-30-g-payaso"
   },
