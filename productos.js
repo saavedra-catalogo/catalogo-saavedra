@@ -877,6 +877,18 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "esmerillon-giratorio-blue-fox-con-snap-duolock-talla-10"
   },
   {
+    "nombre": "ESMERILLÓN GIRATORIO CON SNAP DE SEGURIDAD N.º 8",
+    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-8"
+  },
+  {
+    "nombre": "ESMERILLÓN GIRATORIO  CON SNAP DE SEGURIDAD N.º 6",
+    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-6"
+  },
+  {
+    "nombre": "ESMERILLÓN GIRATORIO CON SNAP DE SEGURIDAD N.º 4",
+    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-4"
+  },
+  {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
     "slug": "senuelo-jig-silstar-30-g-payaso"
   },
