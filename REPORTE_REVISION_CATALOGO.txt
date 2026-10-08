@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 277
-Imágenes disponibles: 848
+Archivos HTML revisados: 278
+Imágenes disponibles: 850
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 13
-Imágenes sin uso: 281
+Imágenes sin uso: 282
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -173,6 +173,7 @@ img\social\discoveryopt-ms-3-9x40-l-960fc63d15ae.jpg
 img\social\discoveryopt-ms-3-9x50ir-270fb1392134.jpg
 img\social\discoveryopt-ms-4-16x44sfir-58a7a14a43af.jpg
 img\social\elevador-de-riel-picatinny-0fbd58374b0d.jpg
+img\social\esmerillon-giratorio-blue-fox-con-snap-duolock-talla-10-2fa63e7b3544.jpg
 img\social\fill-de-carga-para-hatsan-evanix-fx-a78408f136ef.jpg
 img\social\fill-de-carga-para-scuba-msa-scott-80ed3f1fa0ed.jpg
 img\social\fill-de-carga-pcp-pp750-m22-m25-m40-m16-p12-f0d822c6feb1.jpg

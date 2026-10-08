@@ -873,6 +873,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "nylon-silver-wave-xtreme-hi-strength-0-50-mm-100-m"
   },
   {
+    "nombre": "ESMERILLÓN GIRATORIO BLUE FOX CON SNAP DUOLOCK TALLA 10",
+    "slug": "esmerillon-giratorio-blue-fox-con-snap-duolock-talla-10"
+  },
+  {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
     "slug": "senuelo-jig-silstar-30-g-payaso"
   },
