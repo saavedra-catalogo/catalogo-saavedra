@@ -1411,24 +1411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://saavedracaceriaypesca.cl/productos/senuelo-jig-silstar-30-g-payaso.html</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://saavedracaceriaypesca.cl/productos/senuelo-jig-silstar-30-g-negro-pejerrey.html</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://saavedracaceriaypesca.cl/productos/senuelo-jig-silstar-30-g-azul-fucsia.html</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://saavedracaceriaypesca.cl/productos/silstar-spinner-n2-plata-rojo-5-g.html</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -1555,12 +1537,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://saavedracaceriaypesca.cl/productos/sufix-fw-mono-0-18-mm-150-m.html</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://saavedracaceriaypesca.cl/productos/nylon-silver-wave-xtreme-hi-strength-0-30-mm-100-m.html</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -1574,6 +1550,30 @@
   </url>
   <url>
     <loc>https://saavedracaceriaypesca.cl/productos/nylon-silver-wave-xtreme-hi-strength-0-50-mm-100-m.html</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://saavedracaceriaypesca.cl/productos/sufix-fw-mono-0-18-mm-150-m.html</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://saavedracaceriaypesca.cl/productos/senuelo-jig-silstar-30-g-payaso.html</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://saavedracaceriaypesca.cl/productos/senuelo-jig-silstar-30-g-negro-pejerrey.html</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://saavedracaceriaypesca.cl/productos/senuelo-jig-silstar-30-g-azul-fucsia.html</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

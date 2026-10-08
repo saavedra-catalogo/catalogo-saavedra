@@ -765,6 +765,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelo-silstar-mid-bait-b27-verde-negro-8-cm"
   },
   {
+    "nombre": "🎣 FISHBITES BAG O’ WORMS EARTHWORM",
+    "slug": "fishbites-bag-o-worms-earthworm"
+  },
+  {
+    "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
+    "slug": "fishbites-bag-o-worms-bloodworm-1-4"
+  },
+  {
     "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
     "slug": "silstar-spinner-n2-plata-rojo-5-g"
   },
@@ -849,6 +857,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "sufix-fw-mono-0-18-mm-150-m"
   },
   {
+    "nombre": "Sufix FW Mono 0,16 mm – 150 m",
+    "slug": "sufix-fw-mono-0-16-mm-150-m"
+  },
+  {
     "nombre": "NYLON SILVER WAVE XTREME HI-STRENGTH 0,30 MM – 100 M",
     "slug": "nylon-silver-wave-xtreme-hi-strength-0-30-mm-100-m"
   },
@@ -859,18 +871,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "NYLON SILVER WAVE XTREME HI-STRENGTH 0,50 MM – 100 M",
     "slug": "nylon-silver-wave-xtreme-hi-strength-0-50-mm-100-m"
-  },
-  {
-    "nombre": "Sufix FW Mono 0,16 mm – 150 m",
-    "slug": "sufix-fw-mono-0-16-mm-150-m"
-  },
-  {
-    "nombre": "🎣 FISHBITES BAG O’ WORMS EARTHWORM",
-    "slug": "fishbites-bag-o-worms-earthworm"
-  },
-  {
-    "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
-    "slug": "fishbites-bag-o-worms-bloodworm-1-4"
   },
   {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
