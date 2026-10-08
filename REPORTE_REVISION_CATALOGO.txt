@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 274
-Imágenes disponibles: 842
+Archivos HTML revisados: 277
+Imágenes disponibles: 848
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 13
-Imágenes sin uso: 278
+Imágenes sin uso: 281
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -241,6 +241,9 @@ img\social\nivel-de-burbuja-para-mira-telescopica-30-mm-c11c69556fc3.jpg
 img\social\nivel-de-burbuja-para-riel-de-11-mm-b3bba796e443.jpg
 img\social\nivel-de-burbuja-para-riel-picatinny-68d8fdf5cddf.jpg
 img\social\nivel-triangular-para-mira-telescopica-d2e867c4cdf2.jpg
+img\social\nylon-silver-wave-xtreme-hi-strength-0-30-mm-100-m-f70c16072962.jpg
+img\social\nylon-silver-wave-xtreme-hi-strength-0-40-mm-100-m-2b2bb6313a86.jpg
+img\social\nylon-silver-wave-xtreme-hi-strength-0-50-mm-100-m-c2df2c0f1bb6.jpg
 img\social\olympia-domed-xsize-15-89-gr-250-un-0b443351fc56.jpg
 img\social\olympia-domed-xsize-18-13-gr-250-un-d60928f3b706.jpg
 img\social\orion-domed-heavy-22-07-gr-250-un-ac6276031379.jpg

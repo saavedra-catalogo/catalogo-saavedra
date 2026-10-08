@@ -861,6 +861,18 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "sufix-fw-mono-0-18-mm-150-m"
   },
   {
+    "nombre": "NYLON SILVER WAVE XTREME HI-STRENGTH 0,30 MM – 100 M",
+    "slug": "nylon-silver-wave-xtreme-hi-strength-0-30-mm-100-m"
+  },
+  {
+    "nombre": "NYLON SILVER WAVE XTREME HI-STRENGTH 0,40 MM – 100 M",
+    "slug": "nylon-silver-wave-xtreme-hi-strength-0-40-mm-100-m"
+  },
+  {
+    "nombre": "NYLON SILVER WAVE XTREME HI-STRENGTH 0,50 MM – 100 M",
+    "slug": "nylon-silver-wave-xtreme-hi-strength-0-50-mm-100-m"
+  },
+  {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
     "slug": "senuelo-jig-silstar-30-g-payaso"
   },
