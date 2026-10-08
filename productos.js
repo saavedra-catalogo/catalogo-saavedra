@@ -721,6 +721,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "carrete-silstar-corsair-30-fd3000"
   },
   {
+    "nombre": "CHINGUILLO FLOTANTE RAGOT 55 × 45 CM",
+    "slug": "chinguillo-flotante-ragot-55-45-cm"
+  },
+  {
     "nombre": "CARRETE RAPALA RAGE R1000 L SPINNING",
     "slug": "carrete-rapala-rage-r1000-l-spinning"
   },
@@ -767,10 +771,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "CHINGUILLO  MADERA CON MALLA DE SILICONA",
     "slug": "chinguillo-madera-con-malla-de-silicona"
-  },
-  {
-    "nombre": "CHINGUILLO FLOTANTE RAGOT 55 × 45 CM",
-    "slug": "chinguillo-flotante-ragot-55-45-cm"
   },
   {
     "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
