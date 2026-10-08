@@ -853,12 +853,12 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "armada-pejerrey-akita-n-o-8"
   },
   {
-    "nombre": "Sufix FW Mono 0,18 mm – 150 m",
-    "slug": "sufix-fw-mono-0-18-mm-150-m"
-  },
-  {
     "nombre": "Sufix FW Mono 0,16 mm – 150 m",
     "slug": "sufix-fw-mono-0-16-mm-150-m"
+  },
+  {
+    "nombre": "Sufix FW Mono 0,18 mm – 150 m",
+    "slug": "sufix-fw-mono-0-18-mm-150-m"
   },
   {
     "nombre": "NYLON SILVER WAVE XTREME HI-STRENGTH 0,30 MM – 100 M",
