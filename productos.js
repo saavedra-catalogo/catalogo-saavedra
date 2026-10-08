@@ -853,10 +853,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "armada-pejerrey-akita-n-o-8"
   },
   {
-    "nombre": "Sufix FW Mono 0,16 mm – 150 m",
-    "slug": "sufix-fw-mono-0-16-mm-150-m"
-  },
-  {
     "nombre": "Sufix FW Mono 0,18 mm – 150 m",
     "slug": "sufix-fw-mono-0-18-mm-150-m"
   },
@@ -871,6 +867,10 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "NYLON SILVER WAVE XTREME HI-STRENGTH 0,50 MM – 100 M",
     "slug": "nylon-silver-wave-xtreme-hi-strength-0-50-mm-100-m"
+  },
+  {
+    "nombre": "Sufix FW Mono 0,16 mm – 150 m",
+    "slug": "sufix-fw-mono-0-16-mm-150-m"
   },
   {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
