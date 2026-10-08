@@ -829,6 +829,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "plomos-okuma-bass-casting-sinkers-27-piezas"
   },
   {
+    "nombre": "ARMADA PEJERREY MARUSEIGO N.º 6",
+    "slug": "armada-pejerrey-maruseigo-n-o-6"
+  },
+  {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
     "slug": "senuelo-jig-silstar-30-g-payaso"
   },
