@@ -765,6 +765,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelo-silstar-mid-bait-b27-verde-negro-8-cm"
   },
   {
+    "nombre": "🎣 FISHBITES BAG O’ WORMS EARTHWORM",
+    "slug": "fishbites-bag-o-worms-earthworm"
+  },
+  {
     "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
     "slug": "silstar-spinner-n2-plata-rojo-5-g"
   },
