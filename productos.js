@@ -853,6 +853,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "armada-pejerrey-akita-n-o-8"
   },
   {
+    "nombre": "ANZUELOS EMPATADO #4",
+    "slug": "anzuelos-empatado-4"
+  },
+  {
+    "nombre": "ANZUELOS EMPATADO #6",
+    "slug": "anzuelos-empatado-6"
+  },
+  {
     "nombre": "Sufix FW Mono 0,16 mm – 150 m",
     "slug": "sufix-fw-mono-0-16-mm-150-m"
   },

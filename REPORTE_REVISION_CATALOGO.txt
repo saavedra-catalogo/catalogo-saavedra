@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 281
-Imágenes disponibles: 856
+Archivos HTML revisados: 283
+Imágenes disponibles: 860
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 13
-Imágenes sin uso: 285
+Imágenes sin uso: 287
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -79,6 +79,8 @@ img\social\acople-de-carga-din-300-3236109ffcae.jpg
 img\social\adaptador-de-liberacion-rapida-extendido-para-pcp-8-mm-43a14197ed7a.jpg
 img\social\adaptador-de-riel-11-mm-a-20-mm-ea06e518ed32.jpg
 img\social\alzador-picatinny-a-picatinny-5690c2aaff1d.jpg
+img\social\anzuelos-empatado-4-d65e6b0e5341.jpg
+img\social\anzuelos-empatado-6-58ea9ed20146.jpg
 img\social\armada-pejerrey-akita-n-o-6-b02eded6054c.jpg
 img\social\armada-pejerrey-akita-n-o-8-f729325e3b2a.jpg
 img\social\armada-pejerrey-maruseigo-n-o-6-c676a2625002.jpg
