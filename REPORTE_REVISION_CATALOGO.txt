@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 273
-Imágenes disponibles: 840
+Archivos HTML revisados: 274
+Imágenes disponibles: 842
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 13
-Imágenes sin uso: 277
+Imágenes sin uso: 278
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -323,6 +323,7 @@ img\social\soporte-para-mira-con-riel-picatinny-superior-5f4fcc10669a.jpg
 img\social\soporte-riel-picatinny-a-45-montaje-lateral-aa316aa51a70.jpg
 img\social\soporte-tipo-8-c26aa9bdaee7.jpg
 img\social\sufix-fw-mono-0-16-mm-150-m-90f096b8c033.jpg
+img\social\sufix-fw-mono-0-18-mm-150-m-7b0c95817f3f.jpg
 img\social\telemetro-laser-600m-07713eff7f35.jpg
 img\social\valvula-de-carga-con-manguera-6000-psi-d1d0da8e44cd.jpg
 img\social\westhunter-h-k-pro-4-16x44-sfir-ffp-zero-stop-7a750a176e0e.jpg

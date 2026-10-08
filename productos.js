@@ -857,6 +857,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "sufix-fw-mono-0-16-mm-150-m"
   },
   {
+    "nombre": "Sufix FW Mono 0,18 mm – 150 m",
+    "slug": "sufix-fw-mono-0-18-mm-150-m"
+  },
+  {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
     "slug": "senuelo-jig-silstar-30-g-payaso"
   },
