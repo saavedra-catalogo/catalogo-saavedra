@@ -813,6 +813,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "plomo-lagrima-2-20g-x3"
   },
   {
+    "nombre": "PLOMO LÁGRIMA #3 30g (x2)",
+    "slug": "plomo-lagrima-3-30g-x2"
+  },
+  {
+    "nombre": "PLOMOS RANURADOS OKUMA S-785 – 78 PIEZAS",
+    "slug": "plomos-ranurados-okuma-s-785-78-piezas"
+  },
+  {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
     "slug": "senuelo-jig-silstar-30-g-payaso"
   },
