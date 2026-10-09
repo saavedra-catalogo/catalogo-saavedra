@@ -897,6 +897,30 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-4"
   },
   {
+    "nombre": "ANZUELO SILVER WAVE CRYSTAL N.º 8",
+    "slug": "anzuelo-silver-wave-crystal-n-o-8"
+  },
+  {
+    "nombre": "ANZUELO SILVER WAVE CRYSTAL N.º 6",
+    "slug": "anzuelo-silver-wave-crystal-n-o-6"
+  },
+  {
+    "nombre": "ANZUELO SILVER WAVE CRYSTAL N.º 4",
+    "slug": "anzuelo-silver-wave-crystal-n-o-4"
+  },
+  {
+    "nombre": "ANZUELO SILVER WAVE GARRA ÁGUILA N.º 6",
+    "slug": "anzuelo-silver-wave-garra-aguila-n-o-6"
+  },
+  {
+    "nombre": "ANZUELO SILVER WAVE GARRA ÁGUILA N.º 8",
+    "slug": "anzuelo-silver-wave-garra-aguila-n-o-8"
+  },
+  {
+    "nombre": "ANZUELO SILVER WAVE GARRA ÁGUILA N.º 10",
+    "slug": "anzuelo-silver-wave-garra-aguila-n-o-10"
+  },
+  {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
     "slug": "senuelo-jig-silstar-30-g-payaso"
   },
