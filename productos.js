@@ -921,6 +921,18 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "anzuelo-silver-wave-garra-aguila-n-o-10"
   },
   {
+    "nombre": "FLOTADOR BALSA THKFISH 5 G",
+    "slug": "flotador-balsa-thkfish-5-g"
+  },
+  {
+    "nombre": "FLOTADOR BALSA THKFISH TIPO LÁPIZ 4 G",
+    "slug": "flotador-balsa-thkfish-tipo-lapiz-4-g"
+  },
+  {
+    "nombre": "FLOTADOR BULBO 40 MM TRANSPARENTE x2",
+    "slug": "flotador-bulbo-40-mm-transparente-x2"
+  },
+  {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
     "slug": "senuelo-jig-silstar-30-g-payaso"
   },

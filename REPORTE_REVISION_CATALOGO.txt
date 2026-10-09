@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 289
-Imágenes disponibles: 872
+Archivos HTML revisados: 292
+Imágenes disponibles: 878
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 13
-Imágenes sin uso: 293
+Imágenes sin uso: 296
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -191,6 +191,9 @@ img\social\fill-de-carga-pcp-pp750-m22-m25-m40-m16-p12-f0d822c6feb1.jpg
 img\social\fill-de-carga-pcp-pr900-pp800-p35-p15-p10-m16-d59d25cee631.jpg
 img\social\fishbites-bag-o-worms-bloodworm-1-4-946ae7472158.jpg
 img\social\fishbites-bag-o-worms-earthworm-7df06e9bed02.jpg
+img\social\flotador-balsa-thkfish-5-g-9197164ceb36.jpg
+img\social\flotador-balsa-thkfish-tipo-lapiz-4-g-b42212d7b61f.jpg
+img\social\flotador-bulbo-40-mm-transparente-x2-353b00bf7492.jpg
 img\social\foco-recargable-1500w-luz-blanca-23de272bc4d7.jpg
 img\social\foco-recargable-h110-1200w-luz-blanca-57822168163b.jpg
 img\social\foco-recargable-h110-1200w-luz-roja-57822168163b.jpg
