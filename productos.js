@@ -865,6 +865,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "anzuelos-empatado-6"
   },
   {
+    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm",
+    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-4"
+  },
+  {
     "nombre": "Sufix FW Mono 0,16 mm – 150 m",
     "slug": "sufix-fw-mono-0-16-mm-150-m"
   },
@@ -947,10 +951,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
-  },
-  {
-    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm",
-    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-4"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
