@@ -949,6 +949,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
   },
   {
+    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm",
+    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
