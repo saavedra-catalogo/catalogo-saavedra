@@ -729,6 +729,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "chinguillo-flotante-ragot-55-45-cm"
   },
   {
+    "nombre": "Chinguillo de goma HART Rubber Trout 35 × 30 cm",
+    "slug": "chinguillo-de-goma-hart-rubber-trout-35-30-cm"
+  },
+  {
     "nombre": "CARRETE RAPALA RAGE R1000 L SPINNING",
     "slug": "carrete-rapala-rage-r1000-l-spinning"
   },

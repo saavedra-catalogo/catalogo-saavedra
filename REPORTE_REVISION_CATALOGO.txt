@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 292
-Imágenes disponibles: 878
+Archivos HTML revisados: 293
+Imágenes disponibles: 881
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 13
-Imágenes sin uso: 296
+Imágenes sin uso: 297
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -155,6 +155,7 @@ img\social\carrete-silstar-corsair-30-fd3000-c16663b488ab.jpg
 img\social\carrete-silstar-sniper-hd20-c-nylon-245d503355fa.jpg
 img\social\chaqueta-habit-a43537733898.jpg
 img\social\chaqueta-tortolera-e5a7a3853cae.jpg
+img\social\chinguillo-de-goma-hart-rubber-trout-35-30-cm-ce5a05f04f45.jpg
 img\social\chinguillo-flotante-ragot-55-45-cm-2ca4322c9814.jpg
 img\social\chinguillo-madera-con-malla-de-silicona-5b01fa8f233d.jpg
 img\social\cinta-camuflaje-realtree-gorilla-146bed1b1535.jpg
