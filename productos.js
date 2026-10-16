@@ -865,8 +865,20 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "anzuelos-empatado-6"
   },
   {
-    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm",
-    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-4"
+    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm RT",
+    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-rt"
+  },
+  {
+    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm R",
+    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-r"
+  },
+  {
+    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm S",
+    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-s"
+  },
+  {
+    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm OYG",
+    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-oyg"
   },
   {
     "nombre": "Sufix FW Mono 0,16 mm – 150 m",
