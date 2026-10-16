@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
 Archivos HTML revisados: 294
-Imágenes disponibles: 885
+Imágenes disponibles: 897
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 13
-Imágenes sin uso: 298
+Imágenes sin uso: 310
 Fichas sin enlace desde el índice: 17
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -71,6 +71,15 @@ img\producto_547.webp
 img\producto_548.webp
 img\producto_549.webp
 img\producto_551.webp
+img\producto_897.jpg
+img\producto_898.jpg
+img\producto_899.jpg
+img\producto_900.jpg
+img\producto_901.jpg
+img\producto_902.jpg
+img\producto_903.jpg
+img\producto_904.jpg
+img\producto_905.jpg
 img\social\abrazadera-1-riel-pr900-c11377a4e2ad.jpg
 img\social\abrazadera-ajustable-con-riel-f9f3b3ffc62b.jpg
 img\social\aceite-para-bombin-pcp-3f430a2cb700.jpg
@@ -172,6 +181,9 @@ img\social\convoy-white-m-bbb9ed5fc1a8.jpg
 img\social\convoy-white-m2-a1af7a3d6ca9.jpg
 img\social\convoy-yellow-c-fe05f21e6389.jpg
 img\social\correa-tactica-1-punta-elastica-c402eb3018d5.jpg
+img\social\cucharilla-giratoria-yokozuna-piker-28-g-85-mm-2-6461c7012426.jpg
+img\social\cucharilla-giratoria-yokozuna-piker-28-g-85-mm-3-8eeac5b48330.jpg
+img\social\cucharilla-giratoria-yokozuna-piker-28-g-85-mm-4-b35ff3eea0b1.jpg
 img\social\cucharilla-giratoria-yokozuna-piker-28-g-85-mm-573c355d84b9.jpg
 img\social\cuchillo-artesanal-de-acero-damasco-con-funda-143cf7d49e4c.jpg
 img\social\cuchillo-de-hoja-fija-mango-de-madera-8831b2e0c73c.jpg

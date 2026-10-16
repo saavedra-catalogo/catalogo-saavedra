@@ -950,7 +950,7 @@ window.PRODUCTOS_SAAVEDRA = [
   },
   {
     "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm",
-    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm"
+    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-4"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
