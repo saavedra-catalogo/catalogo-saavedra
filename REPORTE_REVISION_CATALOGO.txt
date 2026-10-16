@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 301
-Imágenes disponibles: 897
+Archivos HTML revisados: 302
+Imágenes disponibles: 900
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 13
-Imágenes sin uso: 301
+Imágenes sin uso: 302
 Fichas sin enlace desde el índice: 21
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -319,6 +319,7 @@ img\social\rifle-pcp-black-moose-pr900gen3-5-5-cbd224f8ebb2.jpg
 img\social\rifle-pcp-nova-vista-leviathan-ps-r2-5-5-0e870bb95649.jpg
 img\social\rifle-pcp-qm23xl-b-526196389fa0.jpg
 img\social\scuba-pcp-apolo-fibra-de-carbono-6-8l-17eb3f1bdef1.jpg
+img\social\senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-abalone-shad-02416f662407.jpg
 img\social\senuelo-jig-silstar-30-g-azul-fucsia-fe7930f13b9c.jpg
 img\social\senuelo-jig-silstar-30-g-negro-pejerrey-3dbaafa50b99.jpg
 img\social\senuelo-jig-silstar-30-g-payaso-6aba2098404d.jpg

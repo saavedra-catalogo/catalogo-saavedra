@@ -777,6 +777,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "fishbites-bag-o-worms-bloodworm-1-4"
   },
   {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G ABALONE SHAD",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-abalone-shad"
+  },
+  {
     "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
     "slug": "silstar-spinner-n2-plata-rojo-5-g"
   },
