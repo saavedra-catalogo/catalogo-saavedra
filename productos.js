@@ -1135,5 +1135,17 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Short Realtree",
     "slug": "short-realtree"
+  },
+  {
+    "nombre": "Caster 40 g – 60 mm Color 02",
+    "slug": "caster-40-g-60-mm-color-02"
+  },
+  {
+    "nombre": "Caster 40 g – 60 mm Color 945",
+    "slug": "caster-40-g-60-mm-color-945"
+  },
+  {
+    "nombre": "Caster 40 g – 60 mm Color 12",
+    "slug": "caster-40-g-60-mm-color-12"
   }
 ];
