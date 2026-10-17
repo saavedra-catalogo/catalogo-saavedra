@@ -981,10 +981,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "fishbites-bag-o-worms-bloodworm-1-4"
   },
   {
-    "nombre": "Caster 40 g – 60 mm Color 17",
-    "slug": "caster-40-g-60-mm-color-17"
-  },
-  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
@@ -1135,6 +1131,10 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Short Realtree",
     "slug": "short-realtree"
+  },
+  {
+    "nombre": "Caster 40 g – 60 mm Color 17",
+    "slug": "caster-40-g-60-mm-color-17"
   },
   {
     "nombre": "Caster 40 g – 60 mm Color 02",
