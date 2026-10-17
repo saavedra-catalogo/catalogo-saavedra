@@ -845,10 +845,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelo-silstar-mid-bait-b27-verde-negro-8-cm"
   },
   {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G ABALONE SHAD",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-abalone-shad"
-  },
-  {
     "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
     "slug": "silstar-spinner-n2-plata-rojo-5-g"
   },
@@ -967,6 +963,14 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "ESMERILLÓN GIRATORIO CON SNAP DE SEGURIDAD N.º 4",
     "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-4"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G ABALONE SHAD",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-abalone-shad"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G HG ORANGE HEAD",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-hg-orange-head"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
