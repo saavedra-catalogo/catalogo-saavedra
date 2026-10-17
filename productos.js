@@ -725,6 +725,30 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "anzuelo-silver-wave-garra-aguila-n-o-10"
   },
   {
+    "nombre": "ANZUELOS EMPATADO #4",
+    "slug": "anzuelos-empatado-4"
+  },
+  {
+    "nombre": "ANZUELOS EMPATADO #6",
+    "slug": "anzuelos-empatado-6"
+  },
+  {
+    "nombre": "ESMERILLÓN GIRATORIO BLUE FOX CON SNAP DUOLOCK TALLA 10",
+    "slug": "esmerillon-giratorio-blue-fox-con-snap-duolock-talla-10"
+  },
+  {
+    "nombre": "ESMERILLÓN GIRATORIO CON SNAP DE SEGURIDAD N.º 8",
+    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-8"
+  },
+  {
+    "nombre": "ESMERILLÓN GIRATORIO  CON SNAP DE SEGURIDAD N.º 6",
+    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-6"
+  },
+  {
+    "nombre": "ESMERILLÓN GIRATORIO CON SNAP DE SEGURIDAD N.º 4",
+    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-4"
+  },
+  {
     "nombre": "FLOTADOR BALSA THKFISH 5 G",
     "slug": "flotador-balsa-thkfish-5-g"
   },
@@ -821,30 +845,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "chinguillo-de-goma-hart-rubber-trout-35-30-cm"
   },
   {
-    "nombre": "Señuelo Silstar Mini-Bait Rainbow Trout 4,2 cm",
-    "slug": "senuelo-silstar-mini-bait-rainbow-trout-4-2-cm"
-  },
-  {
-    "nombre": "Señuelo Silstar Mini-Bait A53 Oro/Rojo 4,2 cm",
-    "slug": "senuelo-silstar-mini-bait-a53-oro-rojo-4-2-cm"
-  },
-  {
-    "nombre": "Señuelo Silstar Mini-Bait J533 Plata/Verde 4,2 cm",
-    "slug": "senuelo-silstar-mini-bait-j533-plata-verde-4-2-cm"
-  },
-  {
-    "nombre": "Señuelo Silstar Mid-Bait B05 Blanco/Fucsia 8 cm",
-    "slug": "senuelo-silstar-mid-bait-b05-blanco-fucsia-8-cm"
-  },
-  {
-    "nombre": "Señuelo Silstar Mid-Bait Rainbow Trout 8 cm",
-    "slug": "senuelo-silstar-mid-bait-rainbow-trout-8-cm"
-  },
-  {
-    "nombre": "Señuelo Silstar Mid-Bait B27 Verde/Negro 8 cm",
-    "slug": "senuelo-silstar-mid-bait-b27-verde-negro-8-cm"
-  },
-  {
     "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
     "slug": "silstar-spinner-n2-plata-rojo-5-g"
   },
@@ -885,20 +885,44 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "silstar-fiber-acoustic-amarillo-fluor-n3-7-g"
   },
   {
-    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm RT",
-    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-rt"
+    "nombre": "Señuelo Silstar Mini-Bait Rainbow Trout 4,2 cm",
+    "slug": "senuelo-silstar-mini-bait-rainbow-trout-4-2-cm"
   },
   {
-    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm R",
-    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-r"
+    "nombre": "Señuelo Silstar Mini-Bait A53 Oro/Rojo 4,2 cm",
+    "slug": "senuelo-silstar-mini-bait-a53-oro-rojo-4-2-cm"
   },
   {
-    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm S",
-    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-s"
+    "nombre": "Señuelo Silstar Mini-Bait J533 Plata/Verde 4,2 cm",
+    "slug": "senuelo-silstar-mini-bait-j533-plata-verde-4-2-cm"
   },
   {
-    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm OYG",
-    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-oyg"
+    "nombre": "Señuelo Silstar Mid-Bait B05 Blanco/Fucsia 8 cm",
+    "slug": "senuelo-silstar-mid-bait-b05-blanco-fucsia-8-cm"
+  },
+  {
+    "nombre": "Señuelo Silstar Mid-Bait Rainbow Trout 8 cm",
+    "slug": "senuelo-silstar-mid-bait-rainbow-trout-8-cm"
+  },
+  {
+    "nombre": "Señuelo Silstar Mid-Bait B27 Verde/Negro 8 cm",
+    "slug": "senuelo-silstar-mid-bait-b27-verde-negro-8-cm"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G ABALONE SHAD",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-abalone-shad"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G HG ORANGE HEAD",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-hg-orange-head"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G  PW",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-pw"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G DINOSAUR",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-dinosaur"
   },
   {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
@@ -913,20 +937,20 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
   },
   {
-    "nombre": "🎣 FISHBITES BAG O’ WORMS EARTHWORM",
-    "slug": "fishbites-bag-o-worms-earthworm"
+    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm RT",
+    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-rt"
   },
   {
-    "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
-    "slug": "fishbites-bag-o-worms-bloodworm-1-4"
+    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm R",
+    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-r"
   },
   {
-    "nombre": "ANZUELOS EMPATADO #4",
-    "slug": "anzuelos-empatado-4"
+    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm S",
+    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-s"
   },
   {
-    "nombre": "ANZUELOS EMPATADO #6",
-    "slug": "anzuelos-empatado-6"
+    "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm OYG",
+    "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-oyg"
   },
   {
     "nombre": "Sufix FW Mono 0,16 mm – 150 m",
@@ -949,36 +973,16 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "nylon-silver-wave-xtreme-hi-strength-0-50-mm-100-m"
   },
   {
-    "nombre": "ESMERILLÓN GIRATORIO BLUE FOX CON SNAP DUOLOCK TALLA 10",
-    "slug": "esmerillon-giratorio-blue-fox-con-snap-duolock-talla-10"
+    "nombre": "🎣 FISHBITES BAG O’ WORMS EARTHWORM",
+    "slug": "fishbites-bag-o-worms-earthworm"
   },
   {
-    "nombre": "ESMERILLÓN GIRATORIO CON SNAP DE SEGURIDAD N.º 8",
-    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-8"
+    "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
+    "slug": "fishbites-bag-o-worms-bloodworm-1-4"
   },
   {
-    "nombre": "ESMERILLÓN GIRATORIO  CON SNAP DE SEGURIDAD N.º 6",
-    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-6"
-  },
-  {
-    "nombre": "ESMERILLÓN GIRATORIO CON SNAP DE SEGURIDAD N.º 4",
-    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-4"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G ABALONE SHAD",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-abalone-shad"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G HG ORANGE HEAD",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-hg-orange-head"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G  PW",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-pw"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G DINOSAUR",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-dinosaur"
+    "nombre": "Caster 40 g – 60 mm Color 17",
+    "slug": "caster-40-g-60-mm-color-17"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
