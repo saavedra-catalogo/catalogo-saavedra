@@ -973,6 +973,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-hg-orange-head"
   },
   {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G  PW",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-pw"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G DINOSAUR",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-dinosaur"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
