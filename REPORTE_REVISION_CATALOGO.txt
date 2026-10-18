@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 313
-Imágenes disponibles: 930
+Archivos HTML revisados: 317
+Imágenes disponibles: 942
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 312
+Imágenes sin uso: 316
 Fichas sin enlace desde el índice: 22
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -181,6 +181,10 @@ img\social\convoy-white-m-bbb9ed5fc1a8.jpg
 img\social\convoy-white-m2-a1af7a3d6ca9.jpg
 img\social\convoy-yellow-c-fe05f21e6389.jpg
 img\social\correa-tactica-1-punta-elastica-c402eb3018d5.jpg
+img\social\cuchara-evia-evy-40-40-g-90-mm-color-bgl-e943297dd25f.jpg
+img\social\cuchara-evia-evy-40-40-g-90-mm-color-d-0f5680c94d59.jpg
+img\social\cuchara-evia-evy-40-40-g-90-mm-color-fz-d77c534ec190.jpg
+img\social\cuchara-evia-evy-40-40-g-90-mm-color-kry-d11eddd99a3e.jpg
 img\social\cuchara-hart-pike-tracker-56-g-115-mm-color-0440b-f485a710ca63.jpg
 img\social\cuchara-hart-pike-tracker-56-g-115-mm-e89590162319.jpg
 img\social\cucharas-ondulantes-hart-color-660a-c7585f8b4f38.jpg

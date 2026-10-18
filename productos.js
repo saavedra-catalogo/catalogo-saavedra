@@ -1009,6 +1009,22 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cucharas-ondulantes-hart-color-660a"
   },
   {
+    "nombre": "Cuchara EVIA Evy 40 — 40 g / 90 mm Color FZ",
+    "slug": "cuchara-evia-evy-40-40-g-90-mm-color-fz"
+  },
+  {
+    "nombre": "Cuchara EVIA Evy 40 — 40 g / 90 mm Color D",
+    "slug": "cuchara-evia-evy-40-40-g-90-mm-color-d"
+  },
+  {
+    "nombre": "Cuchara EVIA Evy 40 — 40 g / 90 mm Color BGL",
+    "slug": "cuchara-evia-evy-40-40-g-90-mm-color-bgl"
+  },
+  {
+    "nombre": "Cuchara EVIA Evy 40 — 40 g / 90 mm Color KRY",
+    "slug": "cuchara-evia-evy-40-40-g-90-mm-color-kry"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
