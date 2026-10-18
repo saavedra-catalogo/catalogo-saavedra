@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 309
-Imágenes disponibles: 921
+Archivos HTML revisados: 310
+Imágenes disponibles: 924
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 309
+Imágenes sin uso: 310
 Fichas sin enlace desde el índice: 21
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -180,6 +180,7 @@ img\social\convoy-white-m-bbb9ed5fc1a8.jpg
 img\social\convoy-white-m2-a1af7a3d6ca9.jpg
 img\social\convoy-yellow-c-fe05f21e6389.jpg
 img\social\correa-tactica-1-punta-elastica-c402eb3018d5.jpg
+img\social\cuchara-hart-pike-tracker-56-g-115-mm-e89590162319.jpg
 img\social\cucharilla-giratoria-yokozuna-piker-28-g-85-mm-2-6461c7012426.jpg
 img\social\cucharilla-giratoria-yokozuna-piker-28-g-85-mm-3-8eeac5b48330.jpg
 img\social\cucharilla-giratoria-yokozuna-piker-28-g-85-mm-4-b35ff3eea0b1.jpg

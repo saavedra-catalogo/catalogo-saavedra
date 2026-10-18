@@ -1147,5 +1147,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Short Realtree",
     "slug": "short-realtree"
+  },
+  {
+    "nombre": "Cuchara Hart Pike Tracker 56 g – 115 mm",
+    "slug": "cuchara-hart-pike-tracker-56-g-115-mm"
   }
 ];
