@@ -997,6 +997,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "caster-40-g-60-mm-color-12"
   },
   {
+    "nombre": "Cuchara Hart Pike Tracker 56 g – 115 mm",
+    "slug": "cuchara-hart-pike-tracker-56-g-115-mm"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
@@ -1147,9 +1151,5 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Short Realtree",
     "slug": "short-realtree"
-  },
-  {
-    "nombre": "Cuchara Hart Pike Tracker 56 g – 115 mm",
-    "slug": "cuchara-hart-pike-tracker-56-g-115-mm"
   }
 ];
