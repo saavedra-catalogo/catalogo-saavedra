@@ -997,16 +997,16 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "caster-40-g-60-mm-color-12"
   },
   {
-    "nombre": "Cuchara Hart Pike Tracker 56 g – 115 mm Color 660B",
-    "slug": "cuchara-hart-pike-tracker-56-g-115-mm-color-660b"
-  },
-  {
     "nombre": "Cuchara Hart Pike Tracker 56 g – 115 mm Color 0440B",
     "slug": "cuchara-hart-pike-tracker-56-g-115-mm-color-0440b"
   },
   {
     "nombre": "Cucharas Ondulantes Hart Color 660A",
     "slug": "cucharas-ondulantes-hart-color-660a"
+  },
+  {
+    "nombre": "Cuchara Hart Pike Tracker 56 g – 115 mm Color 660B",
+    "slug": "cuchara-hart-pike-tracker-56-g-115-mm-color-660b"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
