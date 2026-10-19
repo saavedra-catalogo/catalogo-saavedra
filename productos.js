@@ -1061,6 +1061,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cabezas-plomadas-micro-head-luminiscente-4g-5-unidades"
   },
   {
+    "nombre": "Cabezas plomadas naranjas 2,5 g — Pack de 10 unidades",
+    "slug": "cabezas-plomadas-naranjas-2-5-g-pack-de-10-unidades"
+  },
+  {
+    "nombre": "Cabezas plomadas verde limón (chartreuse) 2,5 g — Pack de 10 unidades",
+    "slug": "cabezas-plomadas-verde-limon-chartreuse-2-5-g-pack-de-10-unidades"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
