@@ -1069,6 +1069,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cabezas-plomadas-verde-limon-chartreuse-2-5-g-pack-de-10-unidades"
   },
   {
+    "nombre": "Cabezas plomadas naranjas 3,5 g — Pack de 10 unidades",
+    "slug": "cabezas-plomadas-naranjas-3-5-g-pack-de-10-unidades"
+  },
+  {
+    "nombre": "Cabezas plomadas 5 g — Pack de 7 unidades en colores surtidos",
+    "slug": "cabezas-plomadas-5-g-pack-de-7-unidades-en-colores-surtidos"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
