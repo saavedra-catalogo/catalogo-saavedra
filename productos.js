@@ -1081,6 +1081,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "caster-40-g-60-mm-color-12"
   },
   {
+    "nombre": "Hart Nano Jig 5 g – 40 mm Color 090",
+    "slug": "hart-nano-jig-5-g-40-mm-color-090"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },

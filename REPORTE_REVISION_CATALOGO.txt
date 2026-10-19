@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 332
-Imágenes disponibles: 981
+Archivos HTML revisados: 333
+Imágenes disponibles: 984
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 330
+Imágenes sin uso: 331
 Fichas sin enlace desde el índice: 23
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -236,6 +236,7 @@ img\social\gancho-porta-correa-qd-para-riel-picatinny-108b5ff49429.jpg
 img\social\gorro-de-polar-reversible-magellan-cba22580c966.jpg
 img\social\guantes-tacticos-con-proteccion-de-nudillos-806468e4959f.jpg
 img\social\habit-realtree-edge-969b0b6e7a1f.jpg
+img\social\hart-nano-jig-5-g-40-mm-color-090-96d5d160a67d.jpg
 img\social\hatsan-ares-29-gr-175-un-a0e1d5b13487.jpg
 img\social\hatsan-crazy-solid-21-91-gr-175-un-0f0cbc37a932.jpg
 img\social\hatsan-dome-16-5-gr-200-un-c0f7a9eec47d.jpg
