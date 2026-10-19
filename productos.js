@@ -1041,6 +1041,18 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "vinilo-hart-dirty-minnow-80-mm-9-g-color-04"
   },
   {
+    "nombre": "Vinilo Hart Micro Crab 40 mm – 10 unidades Color 25",
+    "slug": "vinilo-hart-micro-crab-40-mm-10-unidades-color-25"
+  },
+  {
+    "nombre": "Vinilo Hart Micro Crab 40 mm – 10 unidades Color 13",
+    "slug": "vinilo-hart-micro-crab-40-mm-10-unidades-color-13"
+  },
+  {
+    "nombre": "Vinilo Hart Micro Crab 40 mm – 10 unidades Color 09",
+    "slug": "vinilo-hart-micro-crab-40-mm-10-unidades-color-09"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
