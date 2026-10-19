@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 319
-Imágenes disponibles: 948
+Archivos HTML revisados: 321
+Imágenes disponibles: 952
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 318
+Imágenes sin uso: 320
 Fichas sin enlace desde el índice: 22
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -369,6 +369,8 @@ img\social\sufix-fw-mono-0-16-mm-150-m-90f096b8c033.jpg
 img\social\sufix-fw-mono-0-18-mm-150-m-7b0c95817f3f.jpg
 img\social\telemetro-laser-600m-07713eff7f35.jpg
 img\social\valvula-de-carga-con-manguera-6000-psi-d1d0da8e44cd.jpg
+img\social\vinilo-hart-dirty-minnow-80-mm-9-g-color-02-ac445166376d.jpg
+img\social\vinilo-hart-dirty-minnow-80-mm-9-g-color04-6dda4e8d33c1.jpg
 img\social\vinilo-yokozuna-dominator-100-33-g-color-01-ca9bf76587cf.jpg
 img\social\vinilo-yokozuna-dominator-100-33-g-color-03-bab660a2cbb7.jpg
 img\social\westhunter-h-k-pro-4-16x44-sfir-ffp-zero-stop-7a750a176e0e.jpg
