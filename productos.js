@@ -1037,8 +1037,8 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "vinilo-hart-dirty-minnow-80-mm-9-g-color-02"
   },
   {
-    "nombre": "Vinilo Hart Dirty Minnow – 80 mm – 9 g Color04",
-    "slug": "vinilo-hart-dirty-minnow-80-mm-9-g-color04"
+    "nombre": "Vinilo Hart Dirty Minnow – 80 mm – 9 g Color 04",
+    "slug": "vinilo-hart-dirty-minnow-80-mm-9-g-color-04"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
