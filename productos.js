@@ -1069,6 +1069,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "caster-40-g-60-mm-color-17"
   },
   {
+    "nombre": "Hart Nano Jig 5 g – 40 mm Color 669",
+    "slug": "hart-nano-jig-5-g-40-mm-color-669"
+  },
+  {
     "nombre": "Caster 40 g – 60 mm Color 02",
     "slug": "caster-40-g-60-mm-color-02"
   },
@@ -1079,10 +1083,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Caster 40 g – 60 mm Color 12",
     "slug": "caster-40-g-60-mm-color-12"
-  },
-  {
-    "nombre": "Hart Nano Jig 5 g – 40 mm Color 669",
-    "slug": "hart-nano-jig-5-g-40-mm-color-669"
   },
   {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
