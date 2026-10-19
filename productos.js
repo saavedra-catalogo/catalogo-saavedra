@@ -1029,6 +1029,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "vinilo-yokozuna-dominator-100-33-g-color-01"
   },
   {
+    "nombre": "Vinilo Yokozuna Dominator 100 – 33 g Color 03",
+    "slug": "vinilo-yokozuna-dominator-100-33-g-color-03"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
