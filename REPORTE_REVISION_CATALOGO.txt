@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 331
-Imágenes disponibles: 980
+Archivos HTML revisados: 332
+Imágenes disponibles: 981
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 331
+Imágenes sin uso: 330
 Fichas sin enlace desde el índice: 23
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -77,8 +77,6 @@ img\producto_547.webp
 img\producto_548.webp
 img\producto_549.webp
 img\producto_551.webp
-img\producto_921.jpg
-img\producto_922.jpg
 img\social\abrazadera-1-riel-pr900-c11377a4e2ad.jpg
 img\social\abrazadera-ajustable-con-riel-f9f3b3ffc62b.jpg
 img\social\aceite-para-bombin-pcp-3f430a2cb700.jpg
@@ -171,6 +169,7 @@ img\social\carrete-silstar-sniper-hd20-c-nylon-245d503355fa.jpg
 img\social\caster-40-g-60-mm-color-02-409c6afe6306.jpg
 img\social\caster-40-g-60-mm-color-12-3d0864725222.jpg
 img\social\caster-40-g-60-mm-color-17-caf5a4ecf9c1.jpg
+img\social\caster-40-g-60-mm-color-945-2e93bd880245.jpg
 img\social\chaqueta-habit-a43537733898.jpg
 img\social\chaqueta-tortolera-e5a7a3853cae.jpg
 img\social\chinguillo-de-goma-hart-rubber-trout-35-30-cm-ce5a05f04f45.jpg
