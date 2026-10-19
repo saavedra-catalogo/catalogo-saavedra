@@ -953,18 +953,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "silstar-fiber-acoustic-amarillo-fluor-n3-7-g"
   },
   {
-    "nombre": "Señuelo Jig Silstar 30 g Payaso",
-    "slug": "senuelo-jig-silstar-30-g-payaso"
-  },
-  {
-    "nombre": "Señuelo Jig Silstar 30 g Negro/Pejerrey",
-    "slug": "senuelo-jig-silstar-30-g-negro-pejerrey"
-  },
-  {
-    "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
-    "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
-  },
-  {
     "nombre": "Cucharilla giratoria Yokozuna Piker 28 g – 85 mm RT",
     "slug": "cucharilla-giratoria-yokozuna-piker-28-g-85-mm-rt"
   },
@@ -1007,18 +995,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
     "slug": "fishbites-bag-o-worms-bloodworm-1-4"
-  },
-  {
-    "nombre": "Caster 40 g – 60 mm Color 02",
-    "slug": "caster-40-g-60-mm-color-02"
-  },
-  {
-    "nombre": "Caster 40 g – 60 mm Color 945",
-    "slug": "caster-40-g-60-mm-color-945"
-  },
-  {
-    "nombre": "Caster 40 g – 60 mm Color 12",
-    "slug": "caster-40-g-60-mm-color-12"
   },
   {
     "nombre": "Cuchara Hart Pike Tracker 56 g – 115 mm Color 660B",
@@ -1077,8 +1053,28 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "vinilo-hart-micro-crab-40-mm-10-unidades-color-09"
   },
   {
+    "nombre": "Señuelo Jig Silstar 30 g Payaso",
+    "slug": "senuelo-jig-silstar-30-g-payaso"
+  },
+  {
+    "nombre": "Señuelo Jig Silstar 30 g Negro/Pejerrey",
+    "slug": "senuelo-jig-silstar-30-g-negro-pejerrey"
+  },
+  {
+    "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
+    "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
+  },
+  {
     "nombre": "Caster 40 g – 60 mm Color 17",
     "slug": "caster-40-g-60-mm-color-17"
+  },
+  {
+    "nombre": "Caster 40 g – 60 mm Color 02",
+    "slug": "caster-40-g-60-mm-color-02"
+  },
+  {
+    "nombre": "Caster 40 g – 60 mm Color 12",
+    "slug": "caster-40-g-60-mm-color-12"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
