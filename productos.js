@@ -1077,6 +1077,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cabezas-plomadas-5-g-pack-de-7-unidades-en-colores-surtidos"
   },
   {
+    "nombre": "Cabezas plomadas con anzuelo offset 10 g — 1/0 — Pack de 4 unidades",
+    "slug": "cabezas-plomadas-con-anzuelo-offset-10-g-1-0-pack-de-4-unidades"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },

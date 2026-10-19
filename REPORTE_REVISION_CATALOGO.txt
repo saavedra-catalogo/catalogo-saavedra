@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 331
-Imágenes disponibles: 979
+Archivos HTML revisados: 332
+Imágenes disponibles: 981
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 329
+Imágenes sin uso: 330
 Fichas sin enlace desde el índice: 23
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -114,6 +114,7 @@ img\social\blanco-reactivo-adhesivo-8-ebc268ed5044.jpg
 img\social\bolso-de-apoyo-para-tiro-de-precision-8ae5e0fff9b9.jpg
 img\social\bombin-pcp-4-etapas-02e00c81689c.jpg
 img\social\cabezas-plomadas-5-g-pack-de-7-unidades-en-colores-surtidos-d0bb5ff34f25.jpg
+img\social\cabezas-plomadas-con-anzuelo-offset-10-g-1-0-pack-de-4-unidades-12a892d79795.jpg
 img\social\cabezas-plomadas-micro-head-luminiscente-2g-5-unidades-bc8f133d85be.jpg
 img\social\cabezas-plomadas-micro-head-luminiscente-4g-5-unidades-099b300afbfe.jpg
 img\social\cabezas-plomadas-naranjas-2-5-g-pack-de-10-unidades-8b37e0288a73.jpg
