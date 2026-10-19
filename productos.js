@@ -1025,6 +1025,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cuchara-evia-evy-40-40-g-90-mm-color-kry"
   },
   {
+    "nombre": "Vinilo Yokozuna Dominator 100 – 33 g Color 01",
+    "slug": "vinilo-yokozuna-dominator-100-33-g-color-01"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
