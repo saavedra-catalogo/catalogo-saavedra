@@ -1053,16 +1053,16 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "vinilo-hart-micro-crab-40-mm-10-unidades-color-09"
   },
   {
-    "nombre": "Señuelo Jig Silstar 30 g Payaso",
-    "slug": "senuelo-jig-silstar-30-g-payaso"
+    "nombre": "Hart Nano Jig 5 g – 40 mm Color 090",
+    "slug": "hart-nano-jig-5-g-40-mm-color-090"
   },
   {
-    "nombre": "Señuelo Jig Silstar 30 g Negro/Pejerrey",
-    "slug": "senuelo-jig-silstar-30-g-negro-pejerrey"
+    "nombre": "Hart Nano Jig 5 g – 40 mm Color 091",
+    "slug": "hart-nano-jig-5-g-40-mm-color-091"
   },
   {
-    "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
-    "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
+    "nombre": "Hart Nano Jig 5 g – 40 mm Color 079",
+    "slug": "hart-nano-jig-5-g-40-mm-color-079"
   },
   {
     "nombre": "Caster 40 g – 60 mm Color 17",
@@ -1081,20 +1081,20 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "caster-40-g-60-mm-color-12"
   },
   {
-    "nombre": "Hart Nano Jig 5 g – 40 mm Color 090",
-    "slug": "hart-nano-jig-5-g-40-mm-color-090"
-  },
-  {
-    "nombre": "Hart Nano Jig 5 g – 40 mm Color 091",
-    "slug": "hart-nano-jig-5-g-40-mm-color-091"
-  },
-  {
-    "nombre": "Hart Nano Jig 5 g – 40 mm Color 079",
-    "slug": "hart-nano-jig-5-g-40-mm-color-079"
-  },
-  {
     "nombre": "Hart Nano Jig 5 g – 40 mm Color 669",
     "slug": "hart-nano-jig-5-g-40-mm-color-669"
+  },
+  {
+    "nombre": "Señuelo Jig Silstar 30 g Payaso",
+    "slug": "senuelo-jig-silstar-30-g-payaso"
+  },
+  {
+    "nombre": "Señuelo Jig Silstar 30 g Negro/Pejerrey",
+    "slug": "senuelo-jig-silstar-30-g-negro-pejerrey"
+  },
+  {
+    "nombre": "Señuelo Jig Silstar 30 g Azul/Fucsia",
+    "slug": "senuelo-jig-silstar-30-g-azul-fucsia"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
