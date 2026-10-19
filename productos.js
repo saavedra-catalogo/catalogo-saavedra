@@ -661,106 +661,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "set-silver-wave-megacast-spinning-210"
   },
   {
-    "nombre": "PLOMO LÁGRIMA #1 10g (x5)",
-    "slug": "plomo-lagrima-1-10g-x5"
-  },
-  {
-    "nombre": "PLOMO LÁGRIMA #2 20g (x3)",
-    "slug": "plomo-lagrima-2-20g-x3"
-  },
-  {
-    "nombre": "PLOMO LÁGRIMA #3 30g (x2)",
-    "slug": "plomo-lagrima-3-30g-x2"
-  },
-  {
-    "nombre": "PLOMOS RANURADOS OKUMA S-785 – 78 PIEZAS",
-    "slug": "plomos-ranurados-okuma-s-785-78-piezas"
-  },
-  {
-    "nombre": "PLOMOS OKUMA RUBBER CENTER SINKERS – 25 PIEZAS",
-    "slug": "plomos-okuma-rubber-center-sinkers-25-piezas"
-  },
-  {
-    "nombre": "PLOMOS OKUMA BASS CASTING SINKERS – 27 PIEZAS",
-    "slug": "plomos-okuma-bass-casting-sinkers-27-piezas"
-  },
-  {
-    "nombre": "ARMADA PEJERREY MARUSEIGO N.º 6",
-    "slug": "armada-pejerrey-maruseigo-n-o-6"
-  },
-  {
-    "nombre": "ARMADA PEJERREY MARUSEIGO N.º 8",
-    "slug": "armada-pejerrey-maruseigo-n-o-8"
-  },
-  {
-    "nombre": "ARMADA PEJERREY AKITA N.º 6",
-    "slug": "armada-pejerrey-akita-n-o-6"
-  },
-  {
-    "nombre": "ARMADA PEJERREY AKITA N.º 8",
-    "slug": "armada-pejerrey-akita-n-o-8"
-  },
-  {
-    "nombre": "ANZUELO SILVER WAVE CRYSTAL N.º 8",
-    "slug": "anzuelo-silver-wave-crystal-n-o-8"
-  },
-  {
-    "nombre": "ANZUELO SILVER WAVE CRYSTAL N.º 6",
-    "slug": "anzuelo-silver-wave-crystal-n-o-6"
-  },
-  {
-    "nombre": "ANZUELO SILVER WAVE CRYSTAL N.º 4",
-    "slug": "anzuelo-silver-wave-crystal-n-o-4"
-  },
-  {
-    "nombre": "ANZUELO SILVER WAVE GARRA ÁGUILA N.º 6",
-    "slug": "anzuelo-silver-wave-garra-aguila-n-o-6"
-  },
-  {
-    "nombre": "ANZUELO SILVER WAVE GARRA ÁGUILA N.º 8",
-    "slug": "anzuelo-silver-wave-garra-aguila-n-o-8"
-  },
-  {
-    "nombre": "ANZUELO SILVER WAVE GARRA ÁGUILA N.º 10",
-    "slug": "anzuelo-silver-wave-garra-aguila-n-o-10"
-  },
-  {
-    "nombre": "ANZUELOS EMPATADO #4",
-    "slug": "anzuelos-empatado-4"
-  },
-  {
-    "nombre": "ANZUELOS EMPATADO #6",
-    "slug": "anzuelos-empatado-6"
-  },
-  {
-    "nombre": "ESMERILLÓN GIRATORIO BLUE FOX CON SNAP DUOLOCK TALLA 10",
-    "slug": "esmerillon-giratorio-blue-fox-con-snap-duolock-talla-10"
-  },
-  {
-    "nombre": "ESMERILLÓN GIRATORIO CON SNAP DE SEGURIDAD N.º 8",
-    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-8"
-  },
-  {
-    "nombre": "ESMERILLÓN GIRATORIO  CON SNAP DE SEGURIDAD N.º 6",
-    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-6"
-  },
-  {
-    "nombre": "ESMERILLÓN GIRATORIO CON SNAP DE SEGURIDAD N.º 4",
-    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-4"
-  },
-  {
-    "nombre": "FLOTADOR BALSA THKFISH 5 G",
-    "slug": "flotador-balsa-thkfish-5-g"
-  },
-  {
-    "nombre": "FLOTADOR BALSA THKFISH TIPO LÁPIZ 4 G",
-    "slug": "flotador-balsa-thkfish-tipo-lapiz-4-g"
-  },
-  {
-    "nombre": "FLOTADOR BULBO 40 MM TRANSPARENTE x2",
-    "slug": "flotador-bulbo-40-mm-transparente-x2"
-  },
-  {
     "nombre": "Caña Silstar Evolution SP652 1,95 m 2T",
     "slug": "cana-silstar-evolution-sp652-1-95-m-2t"
   },
@@ -833,6 +733,174 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "rapala-rage-r2000-ml-carrete-spinning"
   },
   {
+    "nombre": "Señuelo Silstar Mini-Bait Rainbow Trout 4,2 cm",
+    "slug": "senuelo-silstar-mini-bait-rainbow-trout-4-2-cm"
+  },
+  {
+    "nombre": "Señuelo Silstar Mini-Bait A53 Oro/Rojo 4,2 cm",
+    "slug": "senuelo-silstar-mini-bait-a53-oro-rojo-4-2-cm"
+  },
+  {
+    "nombre": "Señuelo Silstar Mini-Bait J533 Plata/Verde 4,2 cm",
+    "slug": "senuelo-silstar-mini-bait-j533-plata-verde-4-2-cm"
+  },
+  {
+    "nombre": "Señuelo Silstar Mid-Bait B05 Blanco/Fucsia 8 cm",
+    "slug": "senuelo-silstar-mid-bait-b05-blanco-fucsia-8-cm"
+  },
+  {
+    "nombre": "Señuelo Silstar Mid-Bait Rainbow Trout 8 cm",
+    "slug": "senuelo-silstar-mid-bait-rainbow-trout-8-cm"
+  },
+  {
+    "nombre": "Señuelo Silstar Mid-Bait B27 Verde/Negro 8 cm",
+    "slug": "senuelo-silstar-mid-bait-b27-verde-negro-8-cm"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G ABALONE SHAD",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-abalone-shad"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G HG ORANGE HEAD",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-hg-orange-head"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G  PW",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-pw"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G DINOSAUR",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-dinosaur"
+  },
+  {
+    "nombre": "PLOMO LÁGRIMA #1 10g (x5)",
+    "slug": "plomo-lagrima-1-10g-x5"
+  },
+  {
+    "nombre": "PLOMO LÁGRIMA #2 20g (x3)",
+    "slug": "plomo-lagrima-2-20g-x3"
+  },
+  {
+    "nombre": "PLOMO LÁGRIMA #3 30g (x2)",
+    "slug": "plomo-lagrima-3-30g-x2"
+  },
+  {
+    "nombre": "PLOMOS RANURADOS OKUMA S-785 – 78 PIEZAS",
+    "slug": "plomos-ranurados-okuma-s-785-78-piezas"
+  },
+  {
+    "nombre": "PLOMOS OKUMA RUBBER CENTER SINKERS – 25 PIEZAS",
+    "slug": "plomos-okuma-rubber-center-sinkers-25-piezas"
+  },
+  {
+    "nombre": "PLOMOS OKUMA BASS CASTING SINKERS – 27 PIEZAS",
+    "slug": "plomos-okuma-bass-casting-sinkers-27-piezas"
+  },
+  {
+    "nombre": "ARMADA PEJERREY MARUSEIGO N.º 6",
+    "slug": "armada-pejerrey-maruseigo-n-o-6"
+  },
+  {
+    "nombre": "ARMADA PEJERREY MARUSEIGO N.º 8",
+    "slug": "armada-pejerrey-maruseigo-n-o-8"
+  },
+  {
+    "nombre": "ARMADA PEJERREY AKITA N.º 6",
+    "slug": "armada-pejerrey-akita-n-o-6"
+  },
+  {
+    "nombre": "ARMADA PEJERREY AKITA N.º 8",
+    "slug": "armada-pejerrey-akita-n-o-8"
+  },
+  {
+    "nombre": "ANZUELO SILVER WAVE CRYSTAL N.º 8",
+    "slug": "anzuelo-silver-wave-crystal-n-o-8"
+  },
+  {
+    "nombre": "ANZUELO SILVER WAVE CRYSTAL N.º 6",
+    "slug": "anzuelo-silver-wave-crystal-n-o-6"
+  },
+  {
+    "nombre": "ANZUELO SILVER WAVE CRYSTAL N.º 4",
+    "slug": "anzuelo-silver-wave-crystal-n-o-4"
+  },
+  {
+    "nombre": "ANZUELO SILVER WAVE GARRA ÁGUILA N.º 6",
+    "slug": "anzuelo-silver-wave-garra-aguila-n-o-6"
+  },
+  {
+    "nombre": "ANZUELO SILVER WAVE GARRA ÁGUILA N.º 8",
+    "slug": "anzuelo-silver-wave-garra-aguila-n-o-8"
+  },
+  {
+    "nombre": "ANZUELO SILVER WAVE GARRA ÁGUILA N.º 10",
+    "slug": "anzuelo-silver-wave-garra-aguila-n-o-10"
+  },
+  {
+    "nombre": "ANZUELOS EMPATADO #4",
+    "slug": "anzuelos-empatado-4"
+  },
+  {
+    "nombre": "ANZUELOS EMPATADO #6",
+    "slug": "anzuelos-empatado-6"
+  },
+  {
+    "nombre": "Cabezas plomadas Micro Head Luminiscente  2g— 5 unidades",
+    "slug": "cabezas-plomadas-micro-head-luminiscente-2g-5-unidades"
+  },
+  {
+    "nombre": "Cabezas plomadas Micro Head Luminiscente 4g — 5 unidades",
+    "slug": "cabezas-plomadas-micro-head-luminiscente-4g-5-unidades"
+  },
+  {
+    "nombre": "Cabezas plomadas naranjas 2,5 g — Pack de 10 unidades",
+    "slug": "cabezas-plomadas-naranjas-2-5-g-pack-de-10-unidades"
+  },
+  {
+    "nombre": "Cabezas plomadas verde limón (chartreuse) 2,5 g — Pack de 10 unidades",
+    "slug": "cabezas-plomadas-verde-limon-chartreuse-2-5-g-pack-de-10-unidades"
+  },
+  {
+    "nombre": "Cabezas plomadas naranjas 3,5 g — Pack de 10 unidades",
+    "slug": "cabezas-plomadas-naranjas-3-5-g-pack-de-10-unidades"
+  },
+  {
+    "nombre": "Cabezas plomadas 5 g — Pack de 7 unidades en colores surtidos",
+    "slug": "cabezas-plomadas-5-g-pack-de-7-unidades-en-colores-surtidos"
+  },
+  {
+    "nombre": "Cabezas plomadas con anzuelo offset 10 g — 1/0 — Pack de 4 unidades",
+    "slug": "cabezas-plomadas-con-anzuelo-offset-10-g-1-0-pack-de-4-unidades"
+  },
+  {
+    "nombre": "ESMERILLÓN GIRATORIO BLUE FOX CON SNAP DUOLOCK TALLA 10",
+    "slug": "esmerillon-giratorio-blue-fox-con-snap-duolock-talla-10"
+  },
+  {
+    "nombre": "ESMERILLÓN GIRATORIO CON SNAP DE SEGURIDAD N.º 8",
+    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-8"
+  },
+  {
+    "nombre": "ESMERILLÓN GIRATORIO  CON SNAP DE SEGURIDAD N.º 6",
+    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-6"
+  },
+  {
+    "nombre": "ESMERILLÓN GIRATORIO CON SNAP DE SEGURIDAD N.º 4",
+    "slug": "esmerillon-giratorio-con-snap-de-seguridad-n-o-4"
+  },
+  {
+    "nombre": "FLOTADOR BALSA THKFISH 5 G",
+    "slug": "flotador-balsa-thkfish-5-g"
+  },
+  {
+    "nombre": "FLOTADOR BALSA THKFISH TIPO LÁPIZ 4 G",
+    "slug": "flotador-balsa-thkfish-tipo-lapiz-4-g"
+  },
+  {
+    "nombre": "FLOTADOR BULBO 40 MM TRANSPARENTE x2",
+    "slug": "flotador-bulbo-40-mm-transparente-x2"
+  },
+  {
     "nombre": "CHINGUILLO  MADERA CON MALLA DE SILICONA",
     "slug": "chinguillo-madera-con-malla-de-silicona"
   },
@@ -883,46 +951,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Silstar Fiber Acoustic Amarillo Flúor N°3 7 g",
     "slug": "silstar-fiber-acoustic-amarillo-fluor-n3-7-g"
-  },
-  {
-    "nombre": "Señuelo Silstar Mini-Bait Rainbow Trout 4,2 cm",
-    "slug": "senuelo-silstar-mini-bait-rainbow-trout-4-2-cm"
-  },
-  {
-    "nombre": "Señuelo Silstar Mini-Bait A53 Oro/Rojo 4,2 cm",
-    "slug": "senuelo-silstar-mini-bait-a53-oro-rojo-4-2-cm"
-  },
-  {
-    "nombre": "Señuelo Silstar Mini-Bait J533 Plata/Verde 4,2 cm",
-    "slug": "senuelo-silstar-mini-bait-j533-plata-verde-4-2-cm"
-  },
-  {
-    "nombre": "Señuelo Silstar Mid-Bait B05 Blanco/Fucsia 8 cm",
-    "slug": "senuelo-silstar-mid-bait-b05-blanco-fucsia-8-cm"
-  },
-  {
-    "nombre": "Señuelo Silstar Mid-Bait Rainbow Trout 8 cm",
-    "slug": "senuelo-silstar-mid-bait-rainbow-trout-8-cm"
-  },
-  {
-    "nombre": "Señuelo Silstar Mid-Bait B27 Verde/Negro 8 cm",
-    "slug": "senuelo-silstar-mid-bait-b27-verde-negro-8-cm"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G ABALONE SHAD",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-abalone-shad"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G HG ORANGE HEAD",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-hg-orange-head"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G  PW",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-pw"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G DINOSAUR",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-dinosaur"
   },
   {
     "nombre": "Señuelo Jig Silstar 30 g Payaso",
@@ -979,10 +1007,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
     "slug": "fishbites-bag-o-worms-bloodworm-1-4"
-  },
-  {
-    "nombre": "Caster 40 g – 60 mm Color 17",
-    "slug": "caster-40-g-60-mm-color-17"
   },
   {
     "nombre": "Caster 40 g – 60 mm Color 02",
@@ -1053,32 +1077,8 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "vinilo-hart-micro-crab-40-mm-10-unidades-color-09"
   },
   {
-    "nombre": "Cabezas plomadas Micro Head Luminiscente  2g— 5 unidades",
-    "slug": "cabezas-plomadas-micro-head-luminiscente-2g-5-unidades"
-  },
-  {
-    "nombre": "Cabezas plomadas Micro Head Luminiscente 4g — 5 unidades",
-    "slug": "cabezas-plomadas-micro-head-luminiscente-4g-5-unidades"
-  },
-  {
-    "nombre": "Cabezas plomadas naranjas 2,5 g — Pack de 10 unidades",
-    "slug": "cabezas-plomadas-naranjas-2-5-g-pack-de-10-unidades"
-  },
-  {
-    "nombre": "Cabezas plomadas verde limón (chartreuse) 2,5 g — Pack de 10 unidades",
-    "slug": "cabezas-plomadas-verde-limon-chartreuse-2-5-g-pack-de-10-unidades"
-  },
-  {
-    "nombre": "Cabezas plomadas naranjas 3,5 g — Pack de 10 unidades",
-    "slug": "cabezas-plomadas-naranjas-3-5-g-pack-de-10-unidades"
-  },
-  {
-    "nombre": "Cabezas plomadas 5 g — Pack de 7 unidades en colores surtidos",
-    "slug": "cabezas-plomadas-5-g-pack-de-7-unidades-en-colores-surtidos"
-  },
-  {
-    "nombre": "Cabezas plomadas con anzuelo offset 10 g — 1/0 — Pack de 4 unidades",
-    "slug": "cabezas-plomadas-con-anzuelo-offset-10-g-1-0-pack-de-4-unidades"
+    "nombre": "Caster 40 g – 60 mm Color 17",
+    "slug": "caster-40-g-60-mm-color-17"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
