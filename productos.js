@@ -1057,6 +1057,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cabezas-plomadas-micro-head-luminiscente-2g-5-unidades"
   },
   {
+    "nombre": "Cabezas plomadas Micro Head Luminiscente 4g — 5 unidades",
+    "slug": "cabezas-plomadas-micro-head-luminiscente-4g-5-unidades"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
