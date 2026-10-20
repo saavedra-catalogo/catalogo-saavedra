@@ -1137,6 +1137,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "alicate-de-pesca-multifuncion-poseidon-fishing"
   },
   {
+    "nombre": "Hilo elástico EVIA 100m",
+    "slug": "hilo-elastico-evia-100m"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },

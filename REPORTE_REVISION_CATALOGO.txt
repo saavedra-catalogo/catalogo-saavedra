@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 346
-Imágenes disponibles: 1020
+Archivos HTML revisados: 347
+Imágenes disponibles: 1023
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 344
+Imágenes sin uso: 345
 Fichas sin enlace desde el índice: 23
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -251,6 +251,7 @@ img\social\hatsan-ares-29-gr-175-un-a0e1d5b13487.jpg
 img\social\hatsan-crazy-solid-21-91-gr-175-un-0f0cbc37a932.jpg
 img\social\hatsan-dome-16-5-gr-200-un-c0f7a9eec47d.jpg
 img\social\hatsan-vortex-strike-17-75-gr-250-un-1afb3f1c56c8.jpg
+img\social\hilo-elastico-evia-100m-08f62c12e894.jpg
 img\social\interruptor-remoto-convoy-serie-c-6bc382a27161.jpg
 img\social\interruptor-remoto-convoy-serie-l-03b3b14cab85.jpg
 img\social\jockey-de-caza-max-5-2f6f75942c26.jpg
