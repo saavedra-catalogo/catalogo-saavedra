@@ -1069,6 +1069,22 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "hart-nano-jig-5-g-40-mm-color-669"
   },
   {
+    "nombre": "HART Microflash 10 g – 55 mm Color 085",
+    "slug": "hart-microflash-10-g-55-mm-color-085"
+  },
+  {
+    "nombre": "HART Microflash 10 g – 55 mm Color 091",
+    "slug": "hart-microflash-10-g-55-mm-color-091"
+  },
+  {
+    "nombre": "HART Microflash 10 g – 55 mm Color 079",
+    "slug": "hart-microflash-10-g-55-mm-color-079"
+  },
+  {
+    "nombre": "HART Microflash 10 g – 55 mm Color 090",
+    "slug": "hart-microflash-10-g-55-mm-color-090"
+  },
+  {
     "nombre": "Caster 40 g – 60 mm Color 17",
     "slug": "caster-40-g-60-mm-color-17"
   },
