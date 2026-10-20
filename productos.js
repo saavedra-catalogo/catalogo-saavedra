@@ -533,6 +533,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "maleta-rigida-2"
   },
   {
+    "nombre": "Maleta rígida Stinger para rifle con mira telescópica",
+    "slug": "maleta-rigida-stinger-para-rifle-con-mira-telescopica"
+  },
+  {
     "nombre": "Sistema de Grabación SC para celular",
     "slug": "sistema-de-grabacion-sc-para-celular"
   },

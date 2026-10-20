@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 340
-Imágenes disponibles: 1005
+Archivos HTML revisados: 341
+Imágenes disponibles: 1009
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 338
+Imágenes sin uso: 339
 Fichas sin enlace desde el índice: 23
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -275,6 +275,7 @@ img\social\kit-o-rings-pr900-47c2c8bafe62.jpg
 img\social\kit-palanca-y-cerrojo-pr900-866785d5fb29.jpg
 img\social\maleta-rigida-2-14e8e70d1a14.jpg
 img\social\maleta-rigida-84a8ae458900.jpg
+img\social\maleta-rigida-stinger-para-rifle-con-mira-telescopica-9e54826adadc.jpg
 img\social\malla-tortolera-de-caza-y-pesca-cc0fd9d54c4d.jpg
 img\social\manguera-para-bombin-pcp-4e4e2f50e181.jpg
 img\social\marcadores-adhesivos-para-torreta-3b044ca36133.jpg
