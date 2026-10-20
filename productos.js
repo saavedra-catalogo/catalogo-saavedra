@@ -1133,6 +1133,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "chinguillo-de-goma-hart-rubber-trout-35-30-cm"
   },
   {
+    "nombre": "Alicate de pesca multifunción Poseidon Fishing",
+    "slug": "alicate-de-pesca-multifuncion-poseidon-fishing"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
