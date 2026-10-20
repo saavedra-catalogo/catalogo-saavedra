@@ -1061,6 +1061,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "multifilamento-asari-kazuma-gloss-max-8-hebras-0-04-mm-150-m"
   },
   {
+    "nombre": "Multifilamento Asari Kazuma Gloss Max 8 hebras – 0,16 mm – 300 m",
+    "slug": "multifilamento-asari-kazuma-gloss-max-8-hebras-0-16-mm-300-m"
+  },
+  {
     "nombre": "Hart Nano Jig 5 g – 40 mm Color 090",
     "slug": "hart-nano-jig-5-g-40-mm-color-090"
   },

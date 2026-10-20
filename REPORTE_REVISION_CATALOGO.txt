@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 342
-Imágenes disponibles: 1011
+Archivos HTML revisados: 343
+Imágenes disponibles: 1013
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 340
+Imágenes sin uso: 341
 Fichas sin enlace desde el índice: 23
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -288,6 +288,7 @@ img\social\monturas-discovery-para-riel-picatinny-c1dcf39651d7.jpg
 img\social\monturas-westhunter-alta-para-riel-11-mm-2-67d9c707c2fc.jpg
 img\social\monturas-westhunter-alta-para-riel-picatinny-2-ae00cb5faf32.jpg
 img\social\multifilamento-asari-kazuma-gloss-max-8-hebras-0-04-mm-150-m-63988a0e8e0d.jpg
+img\social\multifilamento-asari-kazuma-gloss-max-8-hebras-0-16-mm-300-m-9b32457dfde4.jpg
 img\social\nikko-stirling-mount-master-4-12x50-ao-sfp-43016075e8ac.jpg
 img\social\nikko-stirling-panamax-4-5-14x50-ao-31b0e8e15774.jpg
 img\social\nivel-de-burbuja-para-mira-telescopica-25-4-mm-1-1e6131281cb0.jpg
