@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 344
-Imágenes disponibles: 1015
+Archivos HTML revisados: 345
+Imágenes disponibles: 1017
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 342
+Imágenes sin uso: 343
 Fichas sin enlace desde el índice: 23
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -224,6 +224,7 @@ img\social\flotador-balsa-thkfish-5-g-9197164ceb36.jpg
 img\social\flotador-balsa-thkfish-tipo-lapiz-4-g-b42212d7b61f.jpg
 img\social\flotador-bulbo-40-mm-transparente-x2-353b00bf7492.jpg
 img\social\fluorocarbono-asari-fc100-0-18-mm-50-m-fce8b87ee37f.jpg
+img\social\fluorocarbono-asari-fc100-0-28-mm-50-m-6a74a259fb76.jpg
 img\social\foco-recargable-1500w-luz-blanca-23de272bc4d7.jpg
 img\social\foco-recargable-h110-1200w-luz-blanca-57822168163b.jpg
 img\social\foco-recargable-h110-1200w-luz-roja-57822168163b.jpg
