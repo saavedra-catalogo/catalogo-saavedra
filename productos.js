@@ -977,6 +977,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "nylon-silver-wave-xtreme-hi-strength-0-50-mm-100-m"
   },
   {
+    "nombre": "Fluorocarbono ASARI FC100 0,18 mm – 50 m",
+    "slug": "fluorocarbono-asari-fc100-0-18-mm-50-m"
+  },
+  {
     "nombre": "Multifilamento Asari Kazuma Gloss Max 8 hebras – 0,04 mm – 150 m",
     "slug": "multifilamento-asari-kazuma-gloss-max-8-hebras-0-04-mm-150-m"
   },
