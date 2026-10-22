@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
 Archivos HTML revisados: 347
-Imágenes disponibles: 1023
+Imágenes disponibles: 1024
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 345
+Imágenes sin uso: 346
 Fichas sin enlace desde el índice: 23
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -77,6 +77,7 @@ img\producto_547.webp
 img\producto_548.webp
 img\producto_549.webp
 img\producto_551.webp
+img\producto_725.png
 img\social\abrazadera-1-riel-pr900-c11377a4e2ad.jpg
 img\social\abrazadera-ajustable-con-riel-f9f3b3ffc62b.jpg
 img\social\aceite-para-bombin-pcp-3f430a2cb700.jpg
@@ -262,7 +263,7 @@ img\social\jsb-exact-jumbo-heavy-18-13-gr-250-un-01aac68266ad.jpg
 img\social\jsb-exact-jumbo-heavy-18-13-gr-500-un-46bd0d9e993a.jpg
 img\social\jsb-exact-jumbo-monster-redesigned-1ae7bce63309.jpg
 img\social\jsb-hades-15-89-gr-500-un-4c148606048b.jpg
-img\social\juego-de-riel-ca0f26241101.jpg
+img\social\juego-de-riel-4918e6cba83c.jpg
 img\social\kit-de-limpieza-para-rifles-22-5-5-mm-35e4302d1ae7.jpg
 img\social\kit-de-repuesto-1-para-bombin-3-etapas-defadd83adf9.jpg
 img\social\kit-de-repuesto-2-para-bombin-3-etapas-628b23219aed.jpg
