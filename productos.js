@@ -413,6 +413,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "soporte-riel-picatinny-a-45-montaje-lateral"
   },
   {
+    "nombre": "RIEL PICATINNY DE 96 MM",
+    "slug": "riel-picatinny-de-96-mm"
+  },
+  {
     "nombre": "Kit de Limpieza para Rifles .22 / 5.5 mm",
     "slug": "kit-de-limpieza-para-rifles-22-5-5-mm"
   },

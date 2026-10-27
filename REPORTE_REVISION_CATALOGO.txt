@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 347
-Imágenes disponibles: 1024
+Archivos HTML revisados: 348
+Imágenes disponibles: 1026
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 346
+Imágenes sin uso: 347
 Fichas sin enlace desde el índice: 23
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -349,6 +349,7 @@ img\social\rapala-rage-r2000-ml-carrete-spinning-8ba790429fa9.jpg
 img\social\recarga-de-scuba-pcp-ea28a517f5de.jpg
 img\social\repuesto-interruptor-remoto-convoy-2b02ec28dd34.jpg
 img\social\riel-picatinny-11mm-a-22mm-31d3bb168241.jpg
+img\social\riel-picatinny-de-96-mm-8fe27fa31eec.jpg
 img\social\rifle-dome-field-18-36-gr-250-un-2ecc856587d8.jpg
 img\social\rifle-pcp-black-moose-p35-5-5-795a3599734d.jpg
 img\social\rifle-pcp-black-moose-pr900gen3-5-5-cbd224f8ebb2.jpg
