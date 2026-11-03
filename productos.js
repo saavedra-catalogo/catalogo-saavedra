@@ -1281,7 +1281,7 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cinta-camuflaje-realtree-gorilla"
   },
   {
-    "nombre": "VASOS DE CHUPITO 4 unidades",
+    "nombre": "VASOS DE CHUPITO - 4 UNIDADES",
     "slug": "vasos-de-chupito-4-unidades"
   },
   {
@@ -1299,5 +1299,9 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "CUCHILLO DE HOJA FIJA – MANGO G10",
     "slug": "cuchillo-de-hoja-fija-mango-g10"
+  },
+  {
+    "nombre": "VASOS DE CHUPITO – 8 UNIDADES",
+    "slug": "vasos-de-chupito-8-unidades"
   }
 ];
