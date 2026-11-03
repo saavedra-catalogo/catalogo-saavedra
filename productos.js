@@ -1145,14 +1145,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "hilo-elastico-evia-100m"
   },
   {
-    "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
-    "slug": "malla-tortolera-de-caza-y-pesca"
-  },
-  {
-    "nombre": "CINTA CAMUFLAJE REALTREE GORILLA",
-    "slug": "cinta-camuflaje-realtree-gorilla"
-  },
-  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
@@ -1295,5 +1287,17 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Short Realtree",
     "slug": "short-realtree"
+  },
+  {
+    "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
+    "slug": "malla-tortolera-de-caza-y-pesca"
+  },
+  {
+    "nombre": "CINTA CAMUFLAJE REALTREE GORILLA",
+    "slug": "cinta-camuflaje-realtree-gorilla"
+  },
+  {
+    "nombre": "VASOS DE CHUPITO 4 unidades",
+    "slug": "vasos-de-chupito-4-unidades"
   }
 ];

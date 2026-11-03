@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 348
-Imágenes disponibles: 1027
+Archivos HTML revisados: 349
+Imágenes disponibles: 1030
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 347
+Imágenes sin uso: 348
 Fichas sin enlace desde el índice: 23
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -394,6 +394,7 @@ img\social\sufix-fw-mono-0-16-mm-150-m-90f096b8c033.jpg
 img\social\sufix-fw-mono-0-18-mm-150-m-7b0c95817f3f.jpg
 img\social\telemetro-laser-600m-07713eff7f35.jpg
 img\social\valvula-de-carga-con-manguera-6000-psi-d1d0da8e44cd.jpg
+img\social\vasos-de-chupito-4-unidades-aab928e546dd.jpg
 img\social\vinilo-hart-dirty-minnow-80-mm-9-g-color-02-ac445166376d.jpg
 img\social\vinilo-hart-dirty-minnow-80-mm-9-g-color04-6dda4e8d33c1.jpg
 img\social\vinilo-hart-micro-crab-40-mm-10-unidades-color-09-08abe10af65b.jpg
