@@ -1229,22 +1229,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "pasamontanas-de-polar-banded-realtree-max-5"
   },
   {
-    "nombre": "Cinturón Porta Cartuchos Mossy Oak Shadow Grass Blades",
-    "slug": "cinturon-porta-cartuchos-mossy-oak-shadow-grass-blades"
-  },
-  {
-    "nombre": "Cuchillo Artesanal de Acero Damasco con Funda",
-    "slug": "cuchillo-artesanal-de-acero-damasco-con-funda"
-  },
-  {
-    "nombre": "CUCHILLO DE HOJA FIJA – MANGO DE MADERA",
-    "slug": "cuchillo-de-hoja-fija-mango-de-madera"
-  },
-  {
-    "nombre": "CUCHILLO DE HOJA FIJA – MANGO G10",
-    "slug": "cuchillo-de-hoja-fija-mango-g10"
-  },
-  {
     "nombre": "Polerón MOSSY OAK FieldStaff",
     "slug": "poleron-mossy-oak-fieldstaff"
   },
@@ -1295,6 +1279,22 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "CINTA CAMUFLAJE REALTREE GORILLA",
     "slug": "cinta-camuflaje-realtree-gorilla"
+  },
+  {
+    "nombre": "Cinturón Porta Cartuchos Mossy Oak Shadow Grass Blades",
+    "slug": "cinturon-porta-cartuchos-mossy-oak-shadow-grass-blades"
+  },
+  {
+    "nombre": "Cuchillo Artesanal de Acero Damasco con Funda",
+    "slug": "cuchillo-artesanal-de-acero-damasco-con-funda"
+  },
+  {
+    "nombre": "CUCHILLO DE HOJA FIJA – MANGO DE MADERA",
+    "slug": "cuchillo-de-hoja-fija-mango-de-madera"
+  },
+  {
+    "nombre": "CUCHILLO DE HOJA FIJA – MANGO G10",
+    "slug": "cuchillo-de-hoja-fija-mango-g10"
   },
   {
     "nombre": "VASOS DE CHUPITO 4 unidades",
