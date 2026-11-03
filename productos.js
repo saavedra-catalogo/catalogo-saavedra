@@ -1145,6 +1145,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "hilo-elastico-evia-100m"
   },
   {
+    "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
+    "slug": "malla-tortolera-de-caza-y-pesca"
+  },
+  {
+    "nombre": "CINTA CAMUFLAJE REALTREE GORILLA",
+    "slug": "cinta-camuflaje-realtree-gorilla"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
@@ -1227,14 +1235,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Pasamontañas de Polar Banded Realtree MAX-5",
     "slug": "pasamontanas-de-polar-banded-realtree-max-5"
-  },
-  {
-    "nombre": "MALLA TORTOLERA DE CAZA Y PESCA",
-    "slug": "malla-tortolera-de-caza-y-pesca"
-  },
-  {
-    "nombre": "CINTA CAMUFLAJE REALTREE GORILLA",
-    "slug": "cinta-camuflaje-realtree-gorilla"
   },
   {
     "nombre": "Cinturón Porta Cartuchos Mossy Oak Shadow Grass Blades",
