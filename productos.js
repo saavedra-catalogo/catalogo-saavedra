@@ -749,6 +749,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "countdown-cd-1-fmn"
   },
   {
+    "nombre": "COUNTDOWN CD-5 ATR",
+    "slug": "countdown-cd-5-atr"
+  },
+  {
+    "nombre": "COUNTDOWN CD-5 SPD",
+    "slug": "countdown-cd-5-spd"
+  },
+  {
     "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G ABALONE SHAD",
     "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-abalone-shad"
   },
