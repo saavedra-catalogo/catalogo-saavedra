@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 354
-Imágenes disponibles: 1047
+Archivos HTML revisados: 357
+Imágenes disponibles: 1056
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 354
+Imágenes sin uso: 357
 Fichas sin enlace desde el índice: 23
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -194,7 +194,10 @@ img\social\convoy-yellow-c-fe05f21e6389.jpg
 img\social\correa-tactica-1-punta-elastica-c402eb3018d5.jpg
 img\social\countdown-cd-1-fmn-6344a08747fa.jpg
 img\social\countdown-cd-1-hmmd-e04fff4a8d14.jpg
+img\social\countdown-cd-5-alb-49871e0e1dca.jpg
+img\social\countdown-cd-5-art-34078e202de0.jpg
 img\social\countdown-cd-5-atr-0ae7d3be7901.jpg
+img\social\countdown-cd-5-btr-223a2c24a302.jpg
 img\social\countdown-cd-5-spd-efbe630ed2c7.jpg
 img\social\cuchara-evia-evy-40-40-g-90-mm-color-bgl-e943297dd25f.jpg
 img\social\cuchara-evia-evy-40-40-g-90-mm-color-d-0f5680c94d59.jpg
