@@ -741,6 +741,30 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "rapala-rage-r2000-ml-carrete-spinning"
   },
   {
+    "nombre": "COUNTDOWN CD-1  HMMD",
+    "slug": "countdown-cd-1-hmmd"
+  },
+  {
+    "nombre": "COUNTDOWN CD-1 FMN",
+    "slug": "countdown-cd-1-fmn"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G ABALONE SHAD",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-abalone-shad"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G HG ORANGE HEAD",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-hg-orange-head"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G  PW",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-pw"
+  },
+  {
+    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G DINOSAUR",
+    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-dinosaur"
+  },
+  {
     "nombre": "Señuelo Silstar Mini-Bait Rainbow Trout 4,2 cm",
     "slug": "senuelo-silstar-mini-bait-rainbow-trout-4-2-cm"
   },
@@ -763,22 +787,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Señuelo Silstar Mid-Bait B27 Verde/Negro 8 cm",
     "slug": "senuelo-silstar-mid-bait-b27-verde-negro-8-cm"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G ABALONE SHAD",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-abalone-shad"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G HG ORANGE HEAD",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-hg-orange-head"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G  PW",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-pw"
-  },
-  {
-    "nombre": "SEÑUELO HART DRACO 60 SP-DR – 60 MM / 5,9 G DINOSAUR",
-    "slug": "senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-dinosaur"
   },
   {
     "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
@@ -1143,10 +1151,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Hilo elástico EVIA 100m",
     "slug": "hilo-elastico-evia-100m"
-  },
-  {
-    "nombre": "COUNTDOWN CD-1  HMMD",
-    "slug": "countdown-cd-1-hmmd"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
