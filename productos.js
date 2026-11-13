@@ -1145,6 +1145,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "hilo-elastico-evia-100m"
   },
   {
+    "nombre": "COUNTDOWN CD-1  HMMD",
+    "slug": "countdown-cd-1-hmmd"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
