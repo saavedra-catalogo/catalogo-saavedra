@@ -1173,8 +1173,12 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "hilo-elastico-evia-100m"
   },
   {
-    "nombre": "VIBRAX GILDED",
-    "slug": "vibrax-gilded-2"
+    "nombre": "VIBRAX GILDED GDBT",
+    "slug": "vibrax-gilded-gdbt"
+  },
+  {
+    "nombre": "VIBRAX GILDED GDS",
+    "slug": "vibrax-gilded-gds"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
