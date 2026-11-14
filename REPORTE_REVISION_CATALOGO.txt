@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 362
-Imágenes disponibles: 1065
+Archivos HTML revisados: 363
+Imágenes disponibles: 1068
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 360
+Imágenes sin uso: 361
 Fichas sin enlace desde el índice: 25
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -409,6 +409,7 @@ img\social\vasos-de-chupito-8-unidades-b457fa1d22e2.jpg
 img\social\vibrax-gilded-2-d45e20b89f78.jpg
 img\social\vibrax-gilded-e725a754438c.jpg
 img\social\vibrax-shad-n-o-1-4-g-tr-8983e608bf4b.jpg
+img\social\vibrax-uv-bright-crbu-n-o-2-6-g-e48e7a51fd62.jpg
 img\social\vinilo-hart-dirty-minnow-80-mm-9-g-color-02-ac445166376d.jpg
 img\social\vinilo-hart-dirty-minnow-80-mm-9-g-color04-6dda4e8d33c1.jpg
 img\social\vinilo-hart-micro-crab-40-mm-10-unidades-color-09-08abe10af65b.jpg

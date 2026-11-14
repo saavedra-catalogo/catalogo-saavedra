@@ -821,6 +821,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "vibrax-shad-n-o-1-4-g-tr"
   },
   {
+    "nombre": "Vibrax UV Bright  CRBU N.º 2 – 6 g",
+    "slug": "vibrax-uv-bright-crbu-n-o-2-6-g"
+  },
+  {
     "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
     "slug": "silstar-spinner-n2-plata-rojo-5-g"
   },
