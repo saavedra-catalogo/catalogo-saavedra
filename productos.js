@@ -1174,7 +1174,7 @@ window.PRODUCTOS_SAAVEDRA = [
   },
   {
     "nombre": "VIBRAX GILDED",
-    "slug": "vibrax-gilded"
+    "slug": "vibrax-gilded-2"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
