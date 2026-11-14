@@ -809,6 +809,18 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelo-silstar-mid-bait-b27-verde-negro-8-cm"
   },
   {
+    "nombre": "VIBRAX GILDED GDBT",
+    "slug": "vibrax-gilded-gdbt"
+  },
+  {
+    "nombre": "VIBRAX GILDED GDS",
+    "slug": "vibrax-gilded-gds"
+  },
+  {
+    "nombre": "Vibrax Shad N.º 1 – 4 g – TR",
+    "slug": "vibrax-shad-n-o-1-4-g-tr"
+  },
+  {
     "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
     "slug": "silstar-spinner-n2-plata-rojo-5-g"
   },
@@ -1171,14 +1183,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Hilo elástico EVIA 100m",
     "slug": "hilo-elastico-evia-100m"
-  },
-  {
-    "nombre": "VIBRAX GILDED GDBT",
-    "slug": "vibrax-gilded-gdbt"
-  },
-  {
-    "nombre": "VIBRAX GILDED GDS",
-    "slug": "vibrax-gilded-gds"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
