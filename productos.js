@@ -825,6 +825,18 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "vibrax-uv-bright-crbu-n-o-2-6-g"
   },
   {
+    "nombre": "Vibrax Hot Pepper GYR",
+    "slug": "vibrax-hot-pepper-gyr"
+  },
+  {
+    "nombre": "Vibrax Hot Pepper RBS",
+    "slug": "vibrax-hot-pepper-rbs"
+  },
+  {
+    "nombre": "Vibrax Hot Pepper CYR",
+    "slug": "vibrax-hot-pepper-cyr"
+  },
+  {
     "nombre": "Silstar Spinner N°2 Plata/Rojo 5 g",
     "slug": "silstar-spinner-n2-plata-rojo-5-g"
   },
