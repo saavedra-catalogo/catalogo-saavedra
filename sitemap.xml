@@ -1663,18 +1663,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://saavedracaceriaypesca.cl/productos/alicate-de-pesca-multifuncion-poseidon-fishing.html</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://saavedracaceriaypesca.cl/productos/hilo-elastico-evia-100m.html</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://saavedracaceriaypesca.cl/productos/rapala-combo-pack.html</loc>
     <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -1682,6 +1670,18 @@
   </url>
   <url>
     <loc>https://saavedracaceriaypesca.cl/productos/alicate-de-pesca-atisen.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://saavedracaceriaypesca.cl/productos/alicate-de-pesca-multifuncion.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://saavedracaceriaypesca.cl/productos/hilo-elastico-evia-100m.html</loc>
     <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

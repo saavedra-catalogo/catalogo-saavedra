@@ -1193,20 +1193,20 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "chinguillo-de-goma-hart-rubber-trout-35-30-cm"
   },
   {
-    "nombre": "Alicate de pesca multifunción Poseidon Fishing",
-    "slug": "alicate-de-pesca-multifuncion-poseidon-fishing"
-  },
-  {
-    "nombre": "Hilo elástico EVIA 100m",
-    "slug": "hilo-elastico-evia-100m"
-  },
-  {
     "nombre": "RAPALA COMBO PACK",
     "slug": "rapala-combo-pack"
   },
   {
     "nombre": "Alicate de pesca ATISEN",
     "slug": "alicate-de-pesca-atisen"
+  },
+  {
+    "nombre": "Alicate de pesca multifunción",
+    "slug": "alicate-de-pesca-multifuncion"
+  },
+  {
+    "nombre": "Hilo elástico EVIA 100m",
+    "slug": "hilo-elastico-evia-100m"
   },
   {
     "nombre": "HABIT REALTREE EDGE",

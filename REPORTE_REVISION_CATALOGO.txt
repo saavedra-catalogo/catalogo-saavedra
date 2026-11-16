@@ -1,11 +1,11 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 368
+Archivos HTML revisados: 369
 Imágenes disponibles: 1084
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
 Imágenes sin uso: 366
-Fichas sin enlace desde el índice: 25
+Fichas sin enlace desde el índice: 26
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
 Errores SEO/URL: 0
@@ -29,6 +29,7 @@ Ninguno.
 
 FICHAS SIN ENLACE DESDE EL ÍNDICE
 ---------------------------------
+alicate-de-pesca-multifuncion-poseidon-fishing.html
 convoy-green-c.html
 convoy-green-m.html
 convoy-green-m2.html
