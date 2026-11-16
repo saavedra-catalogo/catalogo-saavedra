@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 366
-Imágenes disponibles: 1077
+Archivos HTML revisados: 368
+Imágenes disponibles: 1084
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 364
+Imágenes sin uso: 366
 Fichas sin enlace desde el índice: 25
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -88,6 +88,7 @@ img\social\aceite-para-rifles-43c2dd998509.jpg
 img\social\acople-de-carga-din-300-3236109ffcae.jpg
 img\social\adaptador-de-liberacion-rapida-extendido-para-pcp-8-mm-43a14197ed7a.jpg
 img\social\adaptador-de-riel-11-mm-a-20-mm-ea06e518ed32.jpg
+img\social\alicate-de-pesca-atisen-1ec1370a1b35.jpg
 img\social\alicate-de-pesca-multifuncion-poseidon-fishing-7525eb2338e0.jpg
 img\social\alzador-picatinny-a-picatinny-5690c2aaff1d.jpg
 img\social\anzuelo-silver-wave-crystal-n-o-4-c4c83dbbc361.jpg
@@ -355,6 +356,7 @@ img\social\poleron-t16-3-7b6628f5b631.jpg
 img\social\postonera-250u-3d15d68e9a99.jpg
 img\social\postonera-500u-55fa7cf6f810.jpg
 img\social\predator-polymag-22-5-5-mm-a0122cd894b4.jpg
+img\social\rapala-combo-pack-c60d3b2a584c.jpg
 img\social\rapala-rage-r2000-ml-carrete-spinning-8ba790429fa9.jpg
 img\social\recarga-de-scuba-pcp-ea28a517f5de.jpg
 img\social\repuesto-interruptor-remoto-convoy-2b02ec28dd34.jpg

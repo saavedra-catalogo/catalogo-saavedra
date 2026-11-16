@@ -1201,6 +1201,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "hilo-elastico-evia-100m"
   },
   {
+    "nombre": "RAPALA COMBO PACK",
+    "slug": "rapala-combo-pack"
+  },
+  {
+    "nombre": "Alicate de pesca ATISEN",
+    "slug": "alicate-de-pesca-atisen"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
