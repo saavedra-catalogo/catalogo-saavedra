@@ -669,14 +669,6 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "set-silver-wave-megacast-spinning-210"
   },
   {
-    "nombre": "Caña Silstar Evolution SP652 1,95 m 2T",
-    "slug": "cana-silstar-evolution-sp652-1-95-m-2t"
-  },
-  {
-    "nombre": "Caña Silstar Aquarius A652 1,95 m 2T",
-    "slug": "cana-silstar-aquarius-a652-1-95-m-2t"
-  },
-  {
     "nombre": "Caña Silver Wave Megacast 180 1,80 m 2T",
     "slug": "cana-silver-wave-megacast-180-1-80-m-2t"
   },
@@ -687,6 +679,14 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Caña Silver Wave Discovery Tele 210 2,10 m 5T",
     "slug": "cana-silver-wave-discovery-tele-210-2-10-m-5t"
+  },
+  {
+    "nombre": "Caña Silstar Evolution SP652 1,95 m 2T",
+    "slug": "cana-silstar-evolution-sp652-1-95-m-2t"
+  },
+  {
+    "nombre": "Caña Silstar Aquarius A652 1,95 m 2T",
+    "slug": "cana-silstar-aquarius-a652-1-95-m-2t"
   },
   {
     "nombre": "CAÑA RAPALA PJREY UL SPINNING 1,80 M",
@@ -717,6 +717,14 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cana-okuma-epixor-epx-s-632ul-1-90-m"
   },
   {
+    "nombre": "CAÑA SOUGAYILANG FIRE PHOENIX 1,80 M – 2 TRAMOS",
+    "slug": "cana-sougayilang-fire-phoenix-1-80-m-2-tramos"
+  },
+  {
+    "nombre": "CAÑA  PORTÁTIL SOUGAYILANG – 2,10 M",
+    "slug": "cana-portatil-sougayilang-2-10-m"
+  },
+  {
     "nombre": "Carrete Silstar Sniper HD20 c/nylon",
     "slug": "carrete-silstar-sniper-hd20-c-nylon"
   },
@@ -727,14 +735,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Carrete Silstar Corsair 30 FD3000",
     "slug": "carrete-silstar-corsair-30-fd3000"
-  },
-  {
-    "nombre": "CAÑA SOUGAYILANG FIRE PHOENIX 1,80 M – 2 TRAMOS",
-    "slug": "cana-sougayilang-fire-phoenix-1-80-m-2-tramos"
-  },
-  {
-    "nombre": "CAÑA  PORTÁTIL SOUGAYILANG – 2,10 M",
-    "slug": "cana-portatil-sougayilang-2-10-m"
   },
   {
     "nombre": "CARRETE RAPALA RAGE R1000 L SPINNING",
