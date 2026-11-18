@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 369
-Imágenes disponibles: 1084
+Archivos HTML revisados: 370
+Imágenes disponibles: 1088
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 366
+Imágenes sin uso: 367
 Fichas sin enlace desde el índice: 26
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -140,6 +140,7 @@ img\social\cana-silstar-evolution-sp652-1-95-m-2t-44f1315b61d9.jpg
 img\social\cana-silver-wave-discovery-tele-210-2-10-m-5t-768da1d98839.jpg
 img\social\cana-silver-wave-megacast-165-1-65-m-2t-5c669a5088f0.jpg
 img\social\cana-silver-wave-megacast-180-1-80-m-2t-99ff2c7f639e.jpg
+img\social\cana-sougayilang-fire-phoenix-1-80-m-2-tramos-c8e1c5f2040e.jpg
 img\social\cargador-brocock-f7ad2931e735.jpg
 img\social\cargador-bsa-d7ec4fea9d01.jpg
 img\social\cargador-liitokala-lii-100c-c3d1cc70a5d8.jpg

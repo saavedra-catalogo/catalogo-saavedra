@@ -1209,6 +1209,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "hilo-elastico-evia-100m"
   },
   {
+    "nombre": "CAÑA SOUGAYILANG FIRE PHOENIX 1,80 M – 2 TRAMOS",
+    "slug": "cana-sougayilang-fire-phoenix-1-80-m-2-tramos"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
