@@ -817,6 +817,18 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelo-silstar-mid-bait-b27-verde-negro-8-cm"
   },
   {
+    "nombre": "Señuelo Metálico VIB 5 g – Color 2",
+    "slug": "senuelo-metalico-vib-5-g-color-2"
+  },
+  {
+    "nombre": "Señuelo Metálico VIB 5 g – Color 3",
+    "slug": "senuelo-metalico-vib-5-g-color-3"
+  },
+  {
+    "nombre": "Señuelo Metálico VIB 5 g – Color 12",
+    "slug": "senuelo-metalico-vib-5-g-color-12"
+  },
+  {
     "nombre": "VIBRAX GILDED GDBT",
     "slug": "vibrax-gilded-gdbt"
   },
@@ -1223,10 +1235,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Hilo elástico EVIA 100m",
     "slug": "hilo-elastico-evia-100m"
-  },
-  {
-    "nombre": "Señuelo Metálico VIB 5 g – Color 2",
-    "slug": "senuelo-metalico-vib-5-g-color-2"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
