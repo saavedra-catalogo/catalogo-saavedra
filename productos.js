@@ -1017,12 +1017,8 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "vinilo-hart-micro-crab-40-mm-10-unidades-color-09"
   },
   {
-    "nombre": "🎣 FISHBITES BAG O’ WORMS EARTHWORM",
-    "slug": "fishbites-bag-o-worms-earthworm"
-  },
-  {
-    "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
-    "slug": "fishbites-bag-o-worms-bloodworm-1-4"
+    "nombre": "Señuelos de Silicona Tipo Lombriz",
+    "slug": "senuelos-de-silicona-tipo-lombriz"
   },
   {
     "nombre": "Sufix FW Mono 0,16 mm – 150 m",
@@ -1215,6 +1211,14 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Hilo elástico EVIA 100m",
     "slug": "hilo-elastico-evia-100m"
+  },
+  {
+    "nombre": "FISHBITES BAG O’ WORMS EARTHWORM",
+    "slug": "fishbites-bag-o-worms-earthworm"
+  },
+  {
+    "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
+    "slug": "fishbites-bag-o-worms-bloodworm-1-4"
   },
   {
     "nombre": "HABIT REALTREE EDGE",

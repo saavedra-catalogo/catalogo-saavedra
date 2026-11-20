@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 371
-Imágenes disponibles: 1093
+Archivos HTML revisados: 372
+Imágenes disponibles: 1098
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 369
+Imágenes sin uso: 370
 Fichas sin enlace desde el índice: 26
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -385,6 +385,7 @@ img\social\senuelo-silstar-mid-bait-rainbow-trout-8-cm-8b5ed7c990b7.jpg
 img\social\senuelo-silstar-mini-bait-a53-oro-rojo-4-2-cm-ff1c6643a46b.jpg
 img\social\senuelo-silstar-mini-bait-j533-plata-verde-4-2-cm-f7e178f0bf20.jpg
 img\social\senuelo-silstar-mini-bait-rainbow-trout-4-2-cm-f272bd458928.jpg
+img\social\senuelos-de-silicona-tipo-lombriz-bb98963e8461.jpg
 img\social\set-silver-wave-discovery-junior-tele-150-da5925b01f8c.jpg
 img\social\set-silver-wave-megacast-junior-160-a2b168932c11.jpg
 img\social\set-silver-wave-megacast-spinning-210-3563dbdaccd1.jpg
