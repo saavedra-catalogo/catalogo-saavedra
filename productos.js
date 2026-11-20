@@ -1225,6 +1225,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "hilo-elastico-evia-100m"
   },
   {
+    "nombre": "Señuelo Metálico VIB 5 g – Color 2",
+    "slug": "senuelo-metalico-vib-5-g-color-2"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },

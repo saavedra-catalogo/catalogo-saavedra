@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 373
-Imágenes disponibles: 1101
+Archivos HTML revisados: 374
+Imágenes disponibles: 1104
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 371
+Imágenes sin uso: 372
 Fichas sin enlace desde el índice: 26
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -380,6 +380,7 @@ img\social\senuelo-hart-draco-60-sp-dr-60-mm-5-9-g-pw-052e11e98156.jpg
 img\social\senuelo-jig-silstar-30-g-azul-fucsia-fe7930f13b9c.jpg
 img\social\senuelo-jig-silstar-30-g-negro-pejerrey-3dbaafa50b99.jpg
 img\social\senuelo-jig-silstar-30-g-payaso-6aba2098404d.jpg
+img\social\senuelo-metalico-vib-5-g-color-2-ae88071b6bb2.jpg
 img\social\senuelo-silstar-mid-bait-b05-blanco-fucsia-8-cm-917a08150cee.jpg
 img\social\senuelo-silstar-mid-bait-b27-verde-negro-8-cm-073d49208f67.jpg
 img\social\senuelo-silstar-mid-bait-rainbow-trout-8-cm-8b5ed7c990b7.jpg
