@@ -1021,6 +1021,18 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "senuelos-de-silicona-tipo-lombriz"
   },
   {
+    "nombre": "FISHBITES BAG O’ WORMS EARTHWORM",
+    "slug": "fishbites-bag-o-worms-earthworm"
+  },
+  {
+    "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
+    "slug": "fishbites-bag-o-worms-bloodworm-1-4"
+  },
+  {
+    "nombre": "Gusanos de Arena Secos",
+    "slug": "gusanos-de-arena-secos"
+  },
+  {
     "nombre": "Sufix FW Mono 0,16 mm – 150 m",
     "slug": "sufix-fw-mono-0-16-mm-150-m"
   },
@@ -1211,14 +1223,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Hilo elástico EVIA 100m",
     "slug": "hilo-elastico-evia-100m"
-  },
-  {
-    "nombre": "FISHBITES BAG O’ WORMS EARTHWORM",
-    "slug": "fishbites-bag-o-worms-earthworm"
-  },
-  {
-    "nombre": "FISHBITES BAG O’ WORMS – BLOODWORM 1/4\"",
-    "slug": "fishbites-bag-o-worms-bloodworm-1-4"
   },
   {
     "nombre": "HABIT REALTREE EDGE",

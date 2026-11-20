@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 372
-Imágenes disponibles: 1098
+Archivos HTML revisados: 373
+Imágenes disponibles: 1101
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 370
+Imágenes sin uso: 371
 Fichas sin enlace desde el índice: 26
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -254,6 +254,7 @@ img\social\gancho-porta-correa-picatinny-b4479668456d.jpg
 img\social\gancho-porta-correa-qd-para-riel-picatinny-108b5ff49429.jpg
 img\social\gorro-de-polar-reversible-magellan-cba22580c966.jpg
 img\social\guantes-tacticos-con-proteccion-de-nudillos-806468e4959f.jpg
+img\social\gusanos-de-arena-secos-0ba25246365c.jpg
 img\social\habit-realtree-edge-969b0b6e7a1f.jpg
 img\social\hart-microflash-10-g-55-mm-color-079-96374dd0a46f.jpg
 img\social\hart-microflash-10-g-55-mm-color-085-998ff5847f3f.jpg
