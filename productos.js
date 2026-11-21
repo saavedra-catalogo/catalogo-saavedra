@@ -1241,8 +1241,8 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "habit-realtree-edge"
   },
   {
-    "nombre": "Chaqueta Habit",
-    "slug": "chaqueta-habit"
+    "nombre": "Cortaviento Habit",
+    "slug": "cortaviento-habit"
   },
   {
     "nombre": "Chaqueta Tortolera",

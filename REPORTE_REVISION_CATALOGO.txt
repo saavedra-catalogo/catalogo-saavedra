@@ -1,11 +1,11 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 376
-Imágenes disponibles: 1110
+Archivos HTML revisados: 377
+Imágenes disponibles: 1111
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 374
-Fichas sin enlace desde el índice: 26
+Imágenes sin uso: 376
+Fichas sin enlace desde el índice: 27
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
 Errores SEO/URL: 0
@@ -30,6 +30,7 @@ Ninguno.
 FICHAS SIN ENLACE DESDE EL ÍNDICE
 ---------------------------------
 alicate-de-pesca-multifuncion-poseidon-fishing.html
+chaqueta-habit.html
 convoy-green-c.html
 convoy-green-m.html
 convoy-green-m2.html
@@ -82,6 +83,8 @@ img\producto_548.webp
 img\producto_549.webp
 img\producto_551.webp
 img\producto_725.png
+img\producto_726.jpg
+img\producto_728.jpg
 img\producto_832.jpg
 img\social\abrazadera-1-riel-pr900-c11377a4e2ad.jpg
 img\social\abrazadera-ajustable-con-riel-f9f3b3ffc62b.jpg
@@ -255,7 +258,7 @@ img\social\gancho-porta-correa-qd-para-riel-picatinny-108b5ff49429.jpg
 img\social\gorro-de-polar-reversible-magellan-cba22580c966.jpg
 img\social\guantes-tacticos-con-proteccion-de-nudillos-806468e4959f.jpg
 img\social\gusanos-de-arena-secos-0ba25246365c.jpg
-img\social\habit-realtree-edge-969b0b6e7a1f.jpg
+img\social\habit-realtree-edge-c9268589b9e7.jpg
 img\social\hart-microflash-10-g-55-mm-color-079-96374dd0a46f.jpg
 img\social\hart-microflash-10-g-55-mm-color-085-998ff5847f3f.jpg
 img\social\hart-microflash-10-g-55-mm-color-090-37f8761e661c.jpg
