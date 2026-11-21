@@ -1,4 +1,4 @@
-Productos activos procesados: 353
+Productos activos procesados: 354
 Productos desactivados: 2
 Tarjetas retiradas del índice: 1
 Subcategorías vacías retiradas del menú: 1
@@ -6,5 +6,5 @@ Menús reordenados: 3
 Redirecciones históricas creadas: 27
 Imágenes no encontradas: 0
 Favicon generado: sí
-URLs en sitemap: 354
+URLs en sitemap: 355
 

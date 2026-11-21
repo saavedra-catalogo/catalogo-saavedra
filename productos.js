@@ -1237,6 +1237,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "hilo-elastico-evia-100m"
   },
   {
+    "nombre": "Carrete Sougayilang XN  Blue – 2000",
+    "slug": "carrete-sougayilang-xn-blue-2000"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },
