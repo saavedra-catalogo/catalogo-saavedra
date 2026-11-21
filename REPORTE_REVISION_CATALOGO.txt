@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 378
-Imágenes disponibles: 1115
+Archivos HTML revisados: 379
+Imágenes disponibles: 1119
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 377
+Imágenes sin uso: 378
 Fichas sin enlace desde el índice: 27
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -179,6 +179,7 @@ img\social\carrete-rapala-rage-r1000-l-spinning-80fd10e5a400.jpg
 img\social\carrete-silstar-corsair-20-fd2000-c2dc238795ad.jpg
 img\social\carrete-silstar-corsair-30-fd3000-c16663b488ab.jpg
 img\social\carrete-silstar-sniper-hd20-c-nylon-245d503355fa.jpg
+img\social\carrete-sougayilang-gw-gris-2000-fb3d0e7987a7.jpg
 img\social\carrete-sougayilang-xn-blue-2000-9bd9dde2ce57.jpg
 img\social\caster-40-g-60-mm-color-02-409c6afe6306.jpg
 img\social\caster-40-g-60-mm-color-12-3d0864725222.jpg

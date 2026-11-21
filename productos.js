@@ -725,6 +725,18 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "cana-portatil-sougayilang-2-10-m"
   },
   {
+    "nombre": "CARRETE RAPALA RAGE R1000 L SPINNING",
+    "slug": "carrete-rapala-rage-r1000-l-spinning"
+  },
+  {
+    "nombre": "Carrete Rapala Corux 1000 Spinning",
+    "slug": "carrete-rapala-corux-1000-spinning"
+  },
+  {
+    "nombre": "RAPALA RAGE R2000 ML – CARRETE SPINNING",
+    "slug": "rapala-rage-r2000-ml-carrete-spinning"
+  },
+  {
     "nombre": "Carrete Silstar Sniper HD20 c/nylon",
     "slug": "carrete-silstar-sniper-hd20-c-nylon"
   },
@@ -737,16 +749,12 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "carrete-silstar-corsair-30-fd3000"
   },
   {
-    "nombre": "CARRETE RAPALA RAGE R1000 L SPINNING",
-    "slug": "carrete-rapala-rage-r1000-l-spinning"
+    "nombre": "Carrete Sougayilang XN  Blue – 2000",
+    "slug": "carrete-sougayilang-xn-blue-2000"
   },
   {
-    "nombre": "Carrete Rapala Corux 1000 Spinning",
-    "slug": "carrete-rapala-corux-1000-spinning"
-  },
-  {
-    "nombre": "RAPALA RAGE R2000 ML – CARRETE SPINNING",
-    "slug": "rapala-rage-r2000-ml-carrete-spinning"
+    "nombre": "Carrete Sougayilang GW Gris –  2000",
+    "slug": "carrete-sougayilang-gw-gris-2000"
   },
   {
     "nombre": "COUNTDOWN CD-1  HMMD",
@@ -1235,10 +1243,6 @@ window.PRODUCTOS_SAAVEDRA = [
   {
     "nombre": "Hilo elástico EVIA 100m",
     "slug": "hilo-elastico-evia-100m"
-  },
-  {
-    "nombre": "Carrete Sougayilang XN  Blue – 2000",
-    "slug": "carrete-sougayilang-xn-blue-2000"
   },
   {
     "nombre": "HABIT REALTREE EDGE",
