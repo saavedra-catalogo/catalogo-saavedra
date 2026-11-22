@@ -1,11 +1,11 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 379
+Archivos HTML revisados: 381
 Imágenes disponibles: 1119
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
 Imágenes sin uso: 378
-Fichas sin enlace desde el índice: 27
+Fichas sin enlace desde el índice: 29
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
 Errores SEO/URL: 0
@@ -30,6 +30,8 @@ Ninguno.
 FICHAS SIN ENLACE DESDE EL ÍNDICE
 ---------------------------------
 alicate-de-pesca-multifuncion-poseidon-fishing.html
+carrete-sougayilang-gw-gris-2000.html
+carrete-sougayilang-xn-blue-2000.html
 chaqueta-habit.html
 convoy-green-c.html
 convoy-green-m.html

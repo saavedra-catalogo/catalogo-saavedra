@@ -749,12 +749,12 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "carrete-silstar-corsair-30-fd3000"
   },
   {
-    "nombre": "Carrete Sougayilang XN  Blue – 2000",
-    "slug": "carrete-sougayilang-xn-blue-2000"
+    "nombre": "Carrete Sougayilang XN2000",
+    "slug": "carrete-sougayilang-xn2000"
   },
   {
-    "nombre": "Carrete Sougayilang GW Gris –  2000",
-    "slug": "carrete-sougayilang-gw-gris-2000"
+    "nombre": "Carrete Sougayilang GW2000",
+    "slug": "carrete-sougayilang-gw2000"
   },
   {
     "nombre": "COUNTDOWN CD-1  HMMD",
