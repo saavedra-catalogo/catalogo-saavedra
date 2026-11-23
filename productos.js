@@ -1245,6 +1245,10 @@ window.PRODUCTOS_SAAVEDRA = [
     "slug": "hilo-elastico-evia-100m"
   },
   {
+    "nombre": "Empatador de Anzuelo",
+    "slug": "empatador-de-anzuelo"
+  },
+  {
     "nombre": "HABIT REALTREE EDGE",
     "slug": "habit-realtree-edge"
   },

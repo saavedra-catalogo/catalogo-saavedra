@@ -1,10 +1,10 @@
 REVISIÓN AUTOMÁTICA DEL CATÁLOGO SAAVEDRA
 ============================================
-Archivos HTML revisados: 381
-Imágenes disponibles: 1119
+Archivos HTML revisados: 382
+Imágenes disponibles: 1123
 Referencias rotas: 0
 Grupos de imágenes duplicadas: 14
-Imágenes sin uso: 378
+Imágenes sin uso: 379
 Fichas sin enlace desde el índice: 29
 Enlaces del índice sin ficha: 0
 Errores de navegación interna: 0
@@ -234,6 +234,7 @@ img\social\discoveryopt-ms-3-9x40-l-960fc63d15ae.jpg
 img\social\discoveryopt-ms-3-9x50ir-270fb1392134.jpg
 img\social\discoveryopt-ms-4-16x44sfir-58a7a14a43af.jpg
 img\social\elevador-de-riel-picatinny-0fbd58374b0d.jpg
+img\social\empatador-de-anzuelo-39f717fa1066.jpg
 img\social\esmerillon-giratorio-blue-fox-con-snap-duolock-talla-10-2fa63e7b3544.jpg
 img\social\esmerillon-giratorio-con-snap-de-seguridad-n-o-4-43e66b67a36c.jpg
 img\social\esmerillon-giratorio-con-snap-de-seguridad-n-o-6-b285fb6bad91.jpg
